@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9389BCC0-F4A6-4C45-8DAC-90A776588135}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Magisterka.Infrastructure.Shared</RootNamespace>
+    <AssemblyName>Magisterka.Infrastructure.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Anotar.Log4Net, Version=3.3.1.0, Culture=neutral, PublicKeyToken=9d5b24f0733c26f7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Anotar.Log4Net.Fody.3.3.1\Lib\Anotar.Log4Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AutoMapper, Version=6.0.2.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.6.0.2\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Castle.Core, Version=4.1.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Castle.Core.4.1.0\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq, Version=4.7.63.0, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
+      <HintPath>..\packages\Moq.4.7.63\lib\net45\Moq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MoreLinq, Version=2.8.21218.0, Culture=neutral, PublicKeyToken=384d532d7e88985d, processorArchitecture=MSIL">
+      <HintPath>..\packages\morelinq.2.8.0\lib\net40\MoreLinq.dll</HintPath>
+    </Reference>
+    <Reference Include="PommaLabs.Thrower, Version=4.0.0.0, Culture=neutral, PublicKeyToken=2f204b7110a52060, processorArchitecture=MSIL">
+      <HintPath>..\packages\Thrower.4.3.0\lib\net461\PommaLabs.Thrower.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QuickGraph">
+      <HintPath>..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Data">
+      <HintPath>..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Graphviz">
+      <HintPath>..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Graphviz.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Serialization">
+      <HintPath>..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="RandomGen, Version=0.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RandomGen.0.4.1\lib\net40\RandomGen.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Reactive.Core, Version=3.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Core.3.0.0\lib\net46\System.Reactive.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces, Version=3.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Interfaces.3.0.0\lib\net45\System.Reactive.Interfaces.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.Linq, Version=3.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Linq.3.0.0\lib\net46\System.Reactive.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.PlatformServices, Version=3.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.PlatformServices.3.0.0\lib\net46\System.Reactive.PlatformServices.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Basic\LabeledPoint.cs" />
+    <Compile Include="Basic\LineSegment.cs" />
+    <Compile Include="Basic\SinglePoint.cs" />
+    <Compile Include="Basic\Square.cs" />
+    <Compile Include="ChartExt\ChartExt.cs" />
+    <Compile Include="Collections\BusStopList.cs" />
+    <Compile Include="Collections\SquareList.cs" />
+    <Compile Include="Common\Settings.cs" />
+    <Compile Include="Comparers\AggregateResultsComparer.cs" />
+    <Compile Include="Comparers\BusStopComparer.cs" />
+    <Compile Include="Consts\GraphConsts.cs" />
+    <Compile Include="Consts\ShapeColors.cs" />
+    <Compile Include="Consts\StaticData.cs" />
+    <Compile Include="Dto\HyrydizationItemDto.cs" />
+    <Compile Include="Dto\SplitLinesResult.cs" />
+    <Compile Include="Enum\AdaptationFunctionTypeEnum.cs" />
+    <Compile Include="Enum\AlgoritmTypeEnum.cs" />
+    <Compile Include="Enum\ArrayExt.cs" />
+    <Compile Include="Enum\BusGraphCreationModeEnum.cs" />
+    <Compile Include="Enum\BusStopType.cs" />
+    <Compile Include="Enum\ConnectionType.cs" />
+    <Compile Include="Enum\DayTypeEnum.cs" />
+    <Compile Include="Enum\EvolutionAlgorithmTypeEnum.cs" />
+    <Compile Include="Enum\GeneratorConnectionTypeEnum.cs" />
+    <Compile Include="Enum\LoadDataTypeEnum.cs" />
+    <Compile Include="Enum\MatrixTypeEnum.cs" />
+    <Compile Include="Enum\MutationOperatorTypeEnum.cs" />
+    <Compile Include="Enum\PopulationGeneratorTypeEnum.cs" />
+    <Compile Include="Enum\SplitTypesEnum.cs" />
+    <Compile Include="Extensions\Clone.cs" />
+    <Compile Include="Extensions\CompareExt.cs" />
+    <Compile Include="Extensions\EnumExt.cs" />
+    <Compile Include="Extensions\GraphNodeListExt.cs" />
+    <Compile Include="Extensions\LinqExt.cs" />
+    <Compile Include="Extensions\ListLogExt.cs" />
+    <Compile Include="Extensions\ListExt.cs" />
+    <Compile Include="Extensions\ListPartOfTheRouteExt.cs" />
+    <Compile Include="Extensions\Stack.cs" />
+    <Compile Include="Extensions\StringExt.cs" />
+    <Compile Include="Generic\GenericPair.cs" />
+    <Compile Include="GoogleApi\ApiClasses.cs" />
+    <Compile Include="Helpers\FileNameHelper.cs" />
+    <Compile Include="Helpers\LogWriter.cs" />
+    <Compile Include="Helpers\RandomSelectorHelper.cs" />
+    <Compile Include="Helpers\SquareListHelper.cs" />
+    <Compile Include="Helpers\TreeHelper.cs" />
+    <Compile Include="Interfaces\IInitialize.cs" />
+    <Compile Include="Interfaces\ILogItem.cs" />
+    <Compile Include="Interfaces\ISubject.cs" />
+    <Compile Include="IoDto2017\XmlStructure.cs" />
+    <Compile Include="IoDto\BusLineIoDto.cs" />
+    <Compile Include="Parameters\ParametersRanges.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Res\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\ConfigurationHelper.cs" />
+    <Compile Include="Structure\AlgorithmParameters.cs" />
+    <Compile Include="Structure\BusGraph.cs" />
+    <Compile Include="Structure\BusLineAndBusStopDto.cs" />
+    <Compile Include="Structure\BusLinesList.cs" />
+    <Compile Include="Structure\BusStopDistancs.cs" />
+    <Compile Include="Structure\BusStopWithRating.cs" />
+    <Compile Include="Enum\GenerateChangeStackModeEnum.cs" />
+    <Compile Include="Structure\PrevAndNextBusStopsIds.cs" />
+    <Compile Include="Structure\PartoOfTheRouteDistances.cs" />
+    <Compile Include="Structure\GraphNode.cs" />
+    <Compile Include="Structure\BusStop.cs" />
+    <Compile Include="Structure\EntireRoute.cs" />
+    <Compile Include="Structure\GraphEdge.cs" />
+    <Compile Include="Structure\GraphNodeList.cs" />
+    <Compile Include="Structure\LineCombinationItem.cs" />
+    <Compile Include="Structure\PartOfBusLine.cs" />
+    <Compile Include="Structure\PartOfTheRoute.cs" />
+    <Compile Include="Structure\Population.cs" />
+    <Compile Include="Structure\Schedule.cs" />
+    <Compile Include="Structure\Time.cs" />
+    <Compile Include="IoDto\BusStopIoDto.cs" />
+    <Compile Include="IoDto\BusStopLineIoDto.cs" />
+    <Compile Include="IoDto\ScheduleIoDto.cs" />
+    <Compile Include="IoDto\TimeIoDto.cs" />
+    <Compile Include="Structure\WalkLineChanges.cs" />
+    <Compile Include="TestData\TableData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comparers\BusStopLineIoDtoComparer.cs" />
+    <Compile Include="Enum\BusLineLoadTypEnum.cs" />
+    <Compile Include="Enum\TestAlgorithmTypeEnum.cs" />
+    <None Include="packages.config" />
+    <None Include="Structure\Diagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FodyWeavers.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Res\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Res\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mapa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Fody.2.2.0\build\net452\Fody.targets" Condition="Exists('..\packages\Fody.2.2.0\build\net452\Fody.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Fody.2.2.0\build\net452\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Fody.2.2.0\build\net452\Fody.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

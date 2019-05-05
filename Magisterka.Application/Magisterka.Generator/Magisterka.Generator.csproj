@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{899238FA-13A9-4DD2-8E6D-2127ACDFA494}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Magisterka.Generator</RootNamespace>
+    <AssemblyName>Magisterka.Generator</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Pawel\Desktop\Publishe\1\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>582E1BCE1823EBC229C17D622FADF9878141D741</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Magisterka.Generator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Anotar.Log4Net, Version=3.3.1.0, Culture=neutral, PublicKeyToken=9d5b24f0733c26f7, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Anotar.Log4Net.Fody.3.3.1\Lib\Anotar.Log4Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MoreLinq, Version=2.8.21218.0, Culture=neutral, PublicKeyToken=384d532d7e88985d, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\morelinq.2.8.0\lib\net40\MoreLinq.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph, Version=3.6.61114.0, Culture=neutral, PublicKeyToken=f3fb40175eec2af3, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QuickGraph.Data, Version=3.6.61114.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QuickGraph.Graphviz, Version=3.6.61114.0, Culture=neutral, PublicKeyToken=f3fb40175eec2af3, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Graphviz.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QuickGraph.Serialization, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\QuickGraph.3.6.61119.7\lib\net4\QuickGraph.Serialization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="DATA\bus\0020\0719.zip" />
+    <None Include="FodyWeavers.xml" />
+    <Content Include="DATA\bus\0001\0001.xml" />
+    <Content Include="DATA\bus\0002\0002.xml" />
+    <Content Include="DATA\bus\0003\0003.xml" />
+    <Content Include="DATA\bus\0004\0004.xml" />
+    <Content Include="DATA\bus\0005\0005.xml" />
+    <Content Include="DATA\bus\0006\0006.xml" />
+    <Content Include="DATA\bus\0007\0007.xml" />
+    <Content Include="DATA\bus\0008\0008.xml" />
+    <Content Include="DATA\bus\0009\0009.xml" />
+    <Content Include="DATA\bus\000a\000a.xml" />
+    <Content Include="DATA\bus\000c\000c.xml" />
+    <Content Include="DATA\bus\000d\000d.xml" />
+    <Content Include="DATA\bus\000k\000k.xml" />
+    <Content Include="DATA\bus\000l\000l.xml" />
+    <Content Include="DATA\bus\000n\000n.xml" />
+    <Content Include="DATA\bus\000p\000p.xml" />
+    <Content Include="DATA\bus\0010\0010.xml" />
+    <Content Include="DATA\bus\0011\0011.xml" />
+    <Content Include="DATA\bus\0014\0014.xml" />
+    <Content Include="DATA\bus\0015\0015.xml" />
+    <Content Include="DATA\bus\0017\0017.xml" />
+    <Content Include="DATA\bus\0020\0020.xml" />
+    <Content Include="DATA\bus\0023\0023.xml" />
+    <Content Include="DATA\bus\0024\0024.xml" />
+    <Content Include="DATA\bus\0031\0031.xml" />
+    <Content Include="DATA\bus\0032\0032.xml" />
+    <Content Include="DATA\bus\0033\0033.xml" />
+    <Content Include="DATA\bus\0100\0100.xml" />
+    <Content Include="DATA\bus\0101\0101.xml" />
+    <Content Include="DATA\bus\0102\0102.xml" />
+    <Content Include="DATA\bus\0103\0103.xml" />
+    <Content Include="DATA\bus\0104\0104.xml" />
+    <Content Include="DATA\bus\0105\0105.xml" />
+    <Content Include="DATA\bus\0106\0106.xml" />
+    <Content Include="DATA\bus\0107\0107.xml" />
+    <Content Include="DATA\bus\0108\0108.xml" />
+    <Content Include="DATA\bus\0109\0109.xml" />
+    <Content Include="DATA\bus\0110\0110.xml" />
+    <Content Include="DATA\bus\0111\0111.xml" />
+    <Content Include="DATA\bus\0112\0112.xml" />
+    <Content Include="DATA\bus\0113\0113.xml" />
+    <Content Include="DATA\bus\0114\0114.xml" />
+    <Content Include="DATA\bus\0115\0115.xml" />
+    <Content Include="DATA\bus\0116\0116.xml" />
+    <Content Include="DATA\bus\0117\0117.xml" />
+    <Content Include="DATA\bus\0118\0118.xml" />
+    <Content Include="DATA\bus\0119\0119.xml" />
+    <Content Include="DATA\bus\0120\0120.xml" />
+    <Content Include="DATA\bus\0122\0122.xml" />
+    <Content Include="DATA\bus\0123\0123.xml" />
+    <Content Include="DATA\bus\0125\0125.xml" />
+    <Content Include="DATA\bus\0126\0126.xml" />
+    <Content Include="DATA\bus\0127\0127.xml" />
+    <Content Include="DATA\bus\0128\0128.xml" />
+    <Content Include="DATA\bus\0129\0129.xml" />
+    <Content Include="DATA\bus\0130\0130.xml" />
+    <Content Include="DATA\bus\0131\0131.xml" />
+    <Content Include="DATA\bus\0132\0132.xml" />
+    <Content Include="DATA\bus\0133\0133.xml" />
+    <Content Include="DATA\bus\0134\0134.xml" />
+    <Content Include="DATA\bus\0136\0136.xml" />
+    <Content Include="DATA\bus\0137\0137.xml" />
+    <Content Include="DATA\bus\0138\0138.xml" />
+    <Content Include="DATA\bus\0140\0140.xml" />
+    <Content Include="DATA\bus\0141\0141.xml" />
+    <Content Include="DATA\bus\0142\0142.xml" />
+    <Content Include="DATA\bus\0144\0144.xml" />
+    <Content Include="DATA\bus\0145\0145.xml" />
+    <Content Include="DATA\bus\0146\0146.xml" />
+    <Content Include="DATA\bus\0147\0147.xml" />
+    <Content Include="DATA\bus\0148\0148.xml" />
+    <Content Include="DATA\bus\0149\0149.xml" />
+    <Content Include="DATA\bus\0150\0150.xml" />
+    <Content Include="DATA\bus\0206\0206.xml" />
+    <Content Include="DATA\bus\0240\0240.xml" />
+    <Content Include="DATA\bus\0241\0241.xml" />
+    <Content Include="DATA\bus\0243\0243.xml" />
+    <Content Include="DATA\bus\0245\0245.xml" />
+    <Content Include="DATA\bus\0246\0246.xml" />
+    <Content Include="DATA\bus\0247\0247.xml" />
+    <Content Include="DATA\bus\0248\0248.xml" />
+    <Content Include="DATA\bus\0249\0249.xml" />
+    <Content Include="DATA\bus\0250\0250.xml" />
+    <Content Include="DATA\bus\0251\0251.xml" />
+    <Content Include="DATA\bus\0253\0253.xml" />
+    <Content Include="DATA\bus\0255\0255.xml" />
+    <Content Include="DATA\bus\0257\0257.xml" />
+    <Content Include="DATA\bus\0259\0259.xml" />
+    <Content Include="DATA\bus\0319\0319.xml" />
+    <Content Include="DATA\bus\0325\0325.xml" />
+    <Content Include="DATA\bus\0331\0331.xml" />
+    <Content Include="DATA\bus\0602\0602.xml" />
+    <Content Include="DATA\bus\0607\0607.xml" />
+    <Content Include="DATA\bus\0609\0609.xml" />
+    <Content Include="DATA\bus\0612\0612.xml" />
+    <Content Include="DATA\bus\0901\0901.xml" />
+    <Content Include="DATA\bus\0904\0904.xml" />
+    <Content Include="DATA\bus\0908\0908.xml" />
+    <Content Include="DATA\bus\0910\0910.xml" />
+    <Content Include="DATA\bus\0911\0911.xml" />
+    <Content Include="DATA\bus\0914\0914.xml" />
+    <Content Include="DATA\bus\0917\0917.xml" />
+    <Content Include="DATA\bus\0920\0920.xml" />
+    <Content Include="DATA\bus\0921\0921.xml" />
+    <Content Include="DATA\bus\0923\0923.xml" />
+    <Content Include="DATA\bus\0924\0924.xml" />
+    <Content Include="DATA\bus\0930\0930.xml" />
+    <Content Include="DATA\bus\0931\0931.xml" />
+    <Content Include="DATA\bus\0934\0934.xml" />
+    <Content Include="DATA\bus\0936\0936.xml" />
+    <Content Include="DATA\bus\0937\0937.xml" />
+    <Content Include="DATA\bus\0938\0938.xml" />
+    <Content Include="DATA\bus\900l\900l.xml" />
+    <Content Include="DATA\bus\900p\900p.xml" />
+    <Content Include="DATA\Matix\DMatrixTest_0.txt" />
+    <Content Include="DATA\Matix\DMatrixTest_10.txt" />
+    <Content Include="DATA\Matix\DMatrixTest_15.txt" />
+    <Content Include="DATA\Matix\DMatrixTest_5.txt" />
+    <Content Include="DATA\Matix\DMatrix_0.txt" />
+    <Content Include="DATA\Matix\DMatrix_10.txt" />
+    <Content Include="DATA\Matix\DMatrix_15.txt" />
+    <Content Include="DATA\Matix\DMatrix_5.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_1.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_1_0.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_1_10.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_1_15.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_1_5.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_2.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_2_0.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_2_10.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_2_15.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_2_5.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_3.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_3_0.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_3_10.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_3_15.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_3_5.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_4_0.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_4_10.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_4_15.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_4_5.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_5_0.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_5_10.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_5_15.txt" />
+    <Content Include="DATA\Matix\QMatrixTest_5_5.txt" />
+    <Content Include="DATA\Matix\QMatrix_1_0.txt" />
+    <Content Include="DATA\Matix\QMatrix_1_10.txt" />
+    <Content Include="DATA\Matix\QMatrix_1_15.txt" />
+    <Content Include="DATA\Matix\QMatrix_1_5.txt" />
+    <Content Include="DATA\Matix\QMatrix_2_0.txt" />
+    <Content Include="DATA\Matix\QMatrix_2_10.txt" />
+    <Content Include="DATA\Matix\QMatrix_2_15.txt" />
+    <Content Include="DATA\Matix\QMatrix_2_5.txt" />
+    <Content Include="DATA\Matix\QMatrix_3_0.txt" />
+    <Content Include="DATA\Matix\QMatrix_3_10.txt" />
+    <Content Include="DATA\Matix\QMatrix_3_15.txt" />
+    <Content Include="DATA\Matix\QMatrix_3_5.txt" />
+    <Content Include="DATA\Matix\QMatrix_4_0.txt" />
+    <Content Include="DATA\Matix\QMatrix_4_10.txt" />
+    <Content Include="DATA\Matix\QMatrix_4_15.txt" />
+    <Content Include="DATA\Matix\QMatrix_4_5.txt" />
+    <Content Include="DATA\Matix\QMatrix_5_0.txt" />
+    <Content Include="DATA\Matix\QMatrix_5_10.txt" />
+    <Content Include="DATA\Matix\QMatrix_5_15.txt" />
+    <Content Include="DATA\Matix\QMatrix_5_5.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_0.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_10.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_15.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_4.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_5.txt" />
+    <Content Include="DATA\Matix\TMatrixTest_6.txt" />
+    <Content Include="DATA\Matix\TMatrix_0.txt" />
+    <Content Include="DATA\Matix\TMatrix_10.txt" />
+    <Content Include="DATA\Matix\TMatrix_15.txt" />
+    <Content Include="DATA\Matix\TMatrix_5.txt" />
+    <Content Include="DATA\NewBusStops.xml" />
+    <Content Include="Log4Net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Magisterka.Generator_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Magisterka.Data.Access\Magisterka.Data.Access.csproj">
+      <Project>{3de832b3-7c50-4995-beac-e2d1eebb11e8}</Project>
+      <Name>Magisterka.Data.Access</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Magisterka.Infrastructure.Shared\Magisterka.Infrastructure.Shared.csproj">
+      <Project>{9389bcc0-f4a6-4c45-8dac-90a776588135}</Project>
+      <Name>Magisterka.Infrastructure.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Magisterka.Modules.Main\Magisterka.Modules.Main.csproj">
+      <Project>{72bb56a6-d0ba-4f14-b768-4107833503ac}</Project>
+      <Name>Magisterka.Modules.Main</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\..\packages\Fody.2.2.0\build\net452\Fody.targets" Condition="Exists('..\..\packages\Fody.2.2.0\build\net452\Fody.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Fody.2.2.0\build\net452\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Fody.2.2.0\build\net452\Fody.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

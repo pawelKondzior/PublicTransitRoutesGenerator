@@ -1,0 +1,1695 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BusStopList>
+  <BusStop Id="24416" Name="BISKUPIN" Street="pętla" X="17.1091461" Y="51.10126" />
+  <BusStop Id="24414" Name="Spółdzielcza" Street="Olszewskiego" X="17.1023254" Y="51.10221" />
+  <BusStop Id="24412" Name="Piramowicza" Street="Olszewskiego" X="17.0962086" Y="51.1031952" />
+  <BusStop Id="24410" Name="Chełmońskiego" Street="Olszewskiego" X="17.0906944" Y="51.10388" />
+  <BusStop Id="24408" Name="Tramwajowa" Street="Wróblewskiego" X="17.0846748" Y="51.1044731" />
+  <BusStop Id="24404" Name="ZOO" Street="Wróblewskiego" X="17.0779018" Y="51.1055641" />
+  <BusStop Id="24402" Name="Hala Stulecia" Street="Wróblewskiego" X="17.07347" Y="51.1070938" />
+  <BusStop Id="20818" Name="Kliniki" Street="Curie-Skłodowskiej" X="17.0661163" Y="51.1094437" />
+  <BusStop Id="20816" Name="PL. GRUNWALDZKI" Street="Curie-Skłodowskiej" X="17.0614681" Y="51.11116" />
+  <BusStop Id="20854" Name="Piastowska" Street="Piastowska" X="17.0608826" Y="51.11537" />
+  <BusStop Id="20852" Name="Prusa" Street="Nowowiejska" X="17.0574341" Y="51.1194649" />
+  <BusStop Id="20670" Name="Wyszyńskiego" Street="Nowowiejska" X="17.0529461" Y="51.12192" />
+  <BusStop Id="20628" Name="Nowowiejska" Street="Jedności Narodowej" X="17.0451374" Y="51.1243668" />
+  <BusStop Id="20666" Name="Słowiańska" Street="Słowiańska" X="17.0402222" Y="51.1235466" />
+  <BusStop Id="20610" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.0350266" Y="51.1243057" />
+  <BusStop Id="20615" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.034977" Y="51.12476" />
+  <BusStop Id="20617" Name="Trzebnicka" Street="Trzebnicka" X="17.0366688" Y="51.12814" />
+  <BusStop Id="23013" Name="Broniewskiego" Street="Żmigrodzka" X="17.0364742" Y="51.1354" />
+  <BusStop Id="23015" Name="Kamieńskiego" Street="Żmigrodzka" X="17.0322266" Y="51.14098" />
+  <BusStop Id="23017" Name="Kępińska" Street="Żmigrodzka" X="17.0312366" Y="51.1442223" />
+  <BusStop Id="23019" Name="Wrozamet" Street="Żmigrodzka" X="17.0302753" Y="51.1473732" />
+  <BusStop Id="23022" Name="MARINO" Street="pętla" X="17.02871" Y="51.15021" />
+  <BusStop Id="23020" Name="Wrozamet" Street="Żmigrodzka" X="17.0298843" Y="51.14815" />
+  <BusStop Id="23018" Name="Kępińska" Street="Żmigrodzka" X="17.0310783" Y="51.14421" />
+  <BusStop Id="23016" Name="Kamieńskiego" Street="Żmigrodzka" X="17.0321369" Y="51.14075" />
+  <BusStop Id="23014" Name="Broniewskiego" Street="Żmigrodzka" X="17.0363388" Y="51.1353073" />
+  <BusStop Id="20618" Name="Trzebnicka" Street="Trzebnicka" X="17.0365372" Y="51.1286545" />
+  <BusStop Id="20616" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.03482" Y="51.1248474" />
+  <BusStop Id="20609" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.03501" Y="51.12423" />
+  <BusStop Id="20665" Name="Słowiańska" Street="Słowiańska" X="17.0413818" Y="51.12366" />
+  <BusStop Id="20627" Name="Nowowiejska" Street="Jedności Narodowej" X="17.0448914" Y="51.12425" />
+  <BusStop Id="20669" Name="Wyszyńskiego" Street="Nowowiejska" X="17.0518742" Y="51.12233" />
+  <BusStop Id="20851" Name="Prusa" Street="Nowowiejska" X="17.0563736" Y="51.11985" />
+  <BusStop Id="20853" Name="Piastowska" Street="Piastowska" X="17.0609112" Y="51.11621" />
+  <BusStop Id="20855" Name="PL. GRUNWALDZKI" Street="Curie-Skłodowskiej" X="17.0611973" Y="51.111145" />
+  <BusStop Id="20817" Name="Kliniki" Street="Curie-Skłodowskiej" X="17.0652752" Y="51.1095161" />
+  <BusStop Id="24401" Name="Hala Stulecia" Street="Wróblewskiego" X="17.0737247" Y="51.1069" />
+  <BusStop Id="24403" Name="ZOO" Street="Wróblewskiego" X="17.0774612" Y="51.1056023" />
+  <BusStop Id="24407" Name="Tramwajowa" Street="Wróblewskiego" X="17.0842152" Y="51.104332" />
+  <BusStop Id="24409" Name="Chełmońskiego" Street="Olszewskiego" X="17.09093" Y="51.1037636" />
+  <BusStop Id="24411" Name="Piramowicza" Street="Olszewskiego" X="17.0963783" Y="51.10309" />
+  <BusStop Id="24413" Name="Spółdzielcza" Street="Olszewskiego" X="17.1018124" Y="51.10221" />
+  <BusStop Id="20820" Name="PL. GRUNWALDZKI" Street="Rondo Reagana" X="17.0599689" Y="51.1116257" />
+  <BusStop Id="20814" Name="Reja" Street="Curie-Skłodowskiej" X="17.0569324" Y="51.1124229" />
+  <BusStop Id="20812" Name="Katedra" Street="Wyszyńskiego" X="17.05004" Y="51.1133232" />
+  <BusStop Id="20282" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.04776" Y="51.1096764" />
+  <BusStop Id="10032" Name="GALERIA DOMINIKAŃSKA" Street="Oławska" X="17.039669" Y="51.1077" />
+  <BusStop Id="10221" Name="Eureka" Street="Piotra Skargi" X="17.0374069" Y="51.1042862" />
+  <BusStop Id="10223" Name="DWORZEC GŁ. PKP" Street="Kołłątaja" X="17.0361061" Y="51.1008224" />
+  <BusStop Id="10269" Name="Arkady" Street="Piłsudskiego" X="17.0297642" Y="51.1012459" />
+  <BusStop Id="11201" Name="Hotel Wrocław" Street="Powstańców Śl." X="17.0253963" Y="51.0978127" />
+  <BusStop Id="11203" Name="WIELKA (Urząd Pracy)" Street="Powstańców Śl." X="17.0204163" Y="51.0936241" />
+  <BusStop Id="11205" Name="Rondo" Street="Powstańców Śl." X="17.0175" Y="51.09115" />
+  <BusStop Id="11207" Name="Sztabowa" Street="Powstańców Śl." X="17.01466" Y="51.0887451" />
+  <BusStop Id="11209" Name="HALLERA" Street="Powstańców Śl." X="17.01236" Y="51.0867653" />
+  <BusStop Id="11211" Name="Jastrzębia" Street="Powstańców Śl." X="17.010498" Y="51.0842247" />
+  <BusStop Id="11213" Name="Orla" Street="Powstańców Śl." X="17.0080357" Y="51.08011" />
+  <BusStop Id="11216" Name="KRZYKI" Street="Karkonoska" X="17.0072346" Y="51.0748672" />
+  <BusStop Id="11214" Name="Orla" Street="Powstańców Śl." X="17.0081921" Y="51.08015" />
+  <BusStop Id="11212" Name="Jastrzębia" Street="Powstańców Śl." X="17.0102978" Y="51.0836868" />
+  <BusStop Id="11210" Name="HALLERA" Street="Powstańców Śl." X="17.0117378" Y="51.086" />
+  <BusStop Id="11208" Name="Sztabowa" Street="Powstańców Śl." X="17.01419" Y="51.0882034" />
+  <BusStop Id="11206" Name="Rondo" Street="Powstańców Śl." X="17.01713" Y="51.0906944" />
+  <BusStop Id="11204" Name="WIELKA (Urząd Pracy)" Street="Powstańców Śl." X="17.02003" Y="51.0931473" />
+  <BusStop Id="11202" Name="Hotel Wrocław" Street="Powstańców Śl." X="17.0251923" Y="51.09748" />
+  <BusStop Id="10234" Name="Arkady" Street="Świdnicka" X="17.0289726" Y="51.1009445" />
+  <BusStop Id="10268" Name="DWORZEC GŁ. PKP" Street="Piłsudskiego" X="17.0353146" Y="51.1000061" />
+  <BusStop Id="10222" Name="Eureka" Street="Kołłątaja" X="17.0372868" Y="51.10369" />
+  <BusStop Id="10031" Name="GALERIA DOMINIKAŃSKA" Street="Oławska" X="17.0396423" Y="51.1076164" />
+  <BusStop Id="20281" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.0480022" Y="51.1098061" />
+  <BusStop Id="20811" Name="Katedra" Street="Wyszyńskiego" X="17.0502224" Y="51.11345" />
+  <BusStop Id="20813" Name="Reja" Street="Szczytnicka" X="17.0555687" Y="51.11279" />
+  <BusStop Id="20815" Name="PL. GRUNWALDZKI" Street="Rondo Reagana" X="17.0605335" Y="51.1114578" />
+  <BusStop Id="25014" Name="KSIĘŻE MAŁE" Street="pętla" X="17.08401" Y="51.077282" />
+  <BusStop Id="25012" Name="Garbarnia" Street="Opolska" X="17.0804539" Y="51.0800133" />
+  <BusStop Id="25010" Name="Karwińska" Street="Krakowska" X="17.0769882" Y="51.08205" />
+  <BusStop Id="25008" Name="Park Wschodni" Street="Krakowska" X="17.0720463" Y="51.0851974" />
+  <BusStop Id="25006" Name="Armii Krajowej" Street="Krakowska" X="17.0693779" Y="51.086895" />
+  <BusStop Id="25004" Name="Praktiker/Sconto" Street="Krakowska" X="17.0648975" Y="51.0899734" />
+  <BusStop Id="25002" Name="Krakowska" Street="Krakowska" X="17.0610142" Y="51.09274" />
+  <BusStop Id="20206" Name="Na Niskich Łąkach" Street="Krakowska" X="17.0565758" Y="51.09626" />
+  <BusStop Id="20204" Name="pl. Zgody" Street="Traugutta" X="17.05432" Y="51.0999" />
+  <BusStop Id="20202" Name="pl. Wróblewskiego" Street="Traugutta" X="17.0480919" Y="51.1052666" />
+  <BusStop Id="10001" Name="Świdnicka" Street="Kazimierza Wlk." X="17.032856" Y="51.1072845" />
+  <BusStop Id="10003" Name="Rynek" Street="Kazimierza Wlk." X="17.026968" Y="51.1110535" />
+  <BusStop Id="10401" Name="PL. JANA PAWŁA II" Street="Św. Mikołaja" X="17.02272" Y="51.1113663" />
+  <BusStop Id="10403" Name="Młodych Techników" Street="Legnicka" X="17.01194" Y="51.11288" />
+  <BusStop Id="10405" Name="pl. Strzegomski" Street="Legnicka" X="17.0069675" Y="51.11315" />
+  <BusStop Id="10407" Name="ZACHODNIA (Stacja kolejowa)" Street="Legnicka" X="17.0003681" Y="51.1166344" />
+  <BusStop Id="12201" Name="Niedźwiedzia" Street="Legnicka" X="16.9934235" Y="51.1214867" />
+  <BusStop Id="12203" Name="Małopanewska" Street="Legnicka" X="16.9874725" Y="51.1238976" />
+  <BusStop Id="12205" Name="Kwiska" Street="Legnicka" X="16.9832115" Y="51.1254921" />
+  <BusStop Id="12401" Name="DH Astra" Street="Lotnicza" X="16.9760628" Y="51.1281433" />
+  <BusStop Id="12403" Name="Park Zachodni" Street="Lotnicza" X="16.972126" Y="51.12933" />
+  <BusStop Id="12405" Name="Bajana" Street="Lotnicza" X="16.9671841" Y="51.1307335" />
+  <BusStop Id="12407" Name="Metalowców" Street="Lotnicza" X="16.9574547" Y="51.13278" />
+  <BusStop Id="12410" Name="PILCZYCE" Street="Lotnicza" X="16.9505444" Y="51.135952" />
+  <BusStop Id="12408" Name="Metalowców" Street="Lotnicza" X="16.9582748" Y="51.1324921" />
+  <BusStop Id="12406" Name="Bajana" Street="Lotnicza" X="16.9672546" Y="51.13061" />
+  <BusStop Id="12404" Name="Park Zachodni" Street="Lotnicza" X="16.97143" Y="51.12941" />
+  <BusStop Id="12402" Name="DH Astra" Street="Lotnicza" X="16.9762363" Y="51.1279678" />
+  <BusStop Id="12206" Name="Kwiska" Street="Legnicka" X="16.9834328" Y="51.12528" />
+  <BusStop Id="12204" Name="Małopanewska" Street="Legnicka" X="16.9877453" Y="51.12367" />
+  <BusStop Id="12202" Name="Niedźwiedzia" Street="Legnicka" X="16.9936237" Y="51.1212959" />
+  <BusStop Id="10408" Name="ZACHODNIA (Stacja kolejowa)" Street="Legnicka" X="17.0004139" Y="51.1164" />
+  <BusStop Id="10406" Name="pl. Strzegomski" Street="Legnicka" X="17.0077248" Y="51.1129341" />
+  <BusStop Id="10404" Name="Młodych Techników" Street="Legnicka" X="17.011961" Y="51.11278" />
+  <BusStop Id="10402" Name="PL. JANA PAWŁA II" Street="Legnicka" X="17.0209084" Y="51.11184" />
+  <BusStop Id="10004" Name="Rynek" Street="Kazimierza Wlk." X="17.0267334" Y="51.1097527" />
+  <BusStop Id="10002" Name="Świdnicka" Street="Kazimierza Wlk." X="17.03267" Y="51.1072121" />
+  <BusStop Id="20201" Name="pl. Wróblewskiego" Street="Traugutta" X="17.0483437" Y="51.10489" />
+  <BusStop Id="20203" Name="pl. Zgody" Street="Traugutta" X="17.0533123" Y="51.1006355" />
+  <BusStop Id="20205" Name="Na Niskich Łąkach" Street="Traugutta" X="17.056097" Y="51.0971069" />
+  <BusStop Id="25001" Name="Krakowska" Street="Krakowska" X="17.0603352" Y="51.0931244" />
+  <BusStop Id="25003" Name="Praktiker/Sconto" Street="Krakowska" X="17.064661" Y="51.09004" />
+  <BusStop Id="25005" Name="Armii Krajowej" Street="Krakowska" X="17.0682869" Y="51.0875053" />
+  <BusStop Id="25007" Name="Park Wschodni" Street="Krakowska" X="17.0721989" Y="51.0848923" />
+  <BusStop Id="25009" Name="Karwińska" Street="Krakowska" X="17.0769653" Y="51.0819473" />
+  <BusStop Id="25011" Name="Garbarnia" Street="Opolska" X="17.0800152" Y="51.0801659" />
+  <BusStop Id="11611" Name="OPORÓW" Street="pętla" X="16.97164" Y="51.0840263" />
+  <BusStop Id="11610" Name="GRABISZYŃSKA (Cmentarz)" Street="Grabiszyńska" X="16.97698" Y="51.0905876" />
+  <BusStop Id="11608" Name="Fiołkowa" Street="Grabiszyńska" X="16.97772" Y="51.0923" />
+  <BusStop Id="11606" Name="FAT" Street="Grabiszyńska" X="16.9809456" Y="51.0947075" />
+  <BusStop Id="11604" Name="Hutmen" Street="Grabiszyńska" X="16.985775" Y="51.0959" />
+  <BusStop Id="11602" Name="Bzowa" Street="Grabiszyńska" X="16.9926376" Y="51.0976067" />
+  <BusStop Id="11406" Name="Fadroma" Street="Grabiszyńska" X="16.9961758" Y="51.0984459" />
+  <BusStop Id="11404" Name="Stalowa" Street="Grabiszyńska" X="17.0016689" Y="51.0997047" />
+  <BusStop Id="11402" Name="Pereca" Street="Grabiszyńska" X="17.0079937" Y="51.10112" />
+  <BusStop Id="10246" Name="Grabiszyńska" Street="Grabiszyńska" X="17.0124454" Y="51.1021042" />
+  <BusStop Id="10244" Name="pl. Legionów" Street="Grabiszyńska" X="17.02162" Y="51.10436" />
+  <BusStop Id="10242" Name="Podwale" Street="Sądowa" X="17.0244884" Y="51.1063843" />
+  <BusStop Id="10243" Name="pl. Legionów" Street="Sądowa" X="17.0225849" Y="51.1048355" />
+  <BusStop Id="10245" Name="Grabiszyńska" Street="Grabiszyńska" X="17.01365" Y="51.1024246" />
+  <BusStop Id="11401" Name="Pereca" Street="Grabiszyńska" X="17.0074444" Y="51.10108" />
+  <BusStop Id="11403" Name="Stalowa" Street="Grabiszyńska" X="17.0005646" Y="51.0994949" />
+  <BusStop Id="11405" Name="Fadroma" Street="Grabiszyńska" X="16.9961376" Y="51.0984879" />
+  <BusStop Id="11601" Name="Bzowa" Street="Grabiszyńska" X="16.9918" Y="51.0975723" />
+  <BusStop Id="11603" Name="Hutmen" Street="Grabiszyńska" X="16.9859924" Y="51.09613" />
+  <BusStop Id="11605" Name="FAT" Street="Grabiszyńska" X="16.980772" Y="51.0947723" />
+  <BusStop Id="11607" Name="Fiołkowa" Street="Grabiszyńska" X="16.9774971" Y="51.09211" />
+  <BusStop Id="11609" Name="GRABISZYŃSKA (Cmentarz)" Street="Grabiszyńska" X="16.9767437" Y="51.0903854" />
+  <BusStop Id="10270" Name="Arkady" Street="Piłsudskiego" X="17.0287037" Y="51.1013947" />
+  <BusStop Id="10271" Name="pl. Legionów" Street="Piłsudskiego" X="17.0225487" Y="51.1041679" />
+  <BusStop Id="10232" Name="Renoma" Street="Świdnicka" X="17.0306435" Y="51.103756" />
+  <BusStop Id="10054" Name="Opera" Street="pl. Teatralny" X="17.0320683" Y="51.1055222" />
+  <BusStop Id="10008" Name="Świdnicka" Street="Widok" X="17.0334187" Y="51.1068153" />
+  <BusStop Id="10011" Name="Oławska" Street="Szewska" X="17.0339928" Y="51.10864" />
+  <BusStop Id="10013" Name="Uniwersytecka" Street="Szewska" X="17.0355129" Y="51.1119423" />
+  <BusStop Id="20611" Name="Dubois" Street="Drobnera" X="17.0343018" Y="51.1172829" />
+  <BusStop Id="20613" Name="Paulińska" Street="Chrobrego" X="17.0353374" Y="51.1202965" />
+  <BusStop Id="20631" Name="Daszyńskiego" Street="Jedności Narodowej" X="17.04767" Y="51.1263161" />
+  <BusStop Id="20629" Name="Mosty Warszawskie" Street="Jedności Narodowej" X="17.0546474" Y="51.1283836" />
+  <BusStop Id="24003" Name="KROMERA" Street="Toruńska" X="17.06523" Y="51.1316681" />
+  <BusStop Id="24007" Name="Kętrzyńska" Street="Toruńska" X="17.0744858" Y="51.1308823" />
+  <BusStop Id="24009" Name="Kwidzyńska" Street="Kwidzyńska" X="17.07966" Y="51.13156" />
+  <BusStop Id="24011" Name="Gęsia" Street="Kwidzyńska" X="17.088171" Y="51.131855" />
+  <BusStop Id="24013" Name="Bociania" Street="Kwidzyńska" X="17.0980587" Y="51.1297379" />
+  <BusStop Id="24016" Name="KOWALE" Street="pętla" X="17.10215" Y="51.12842" />
+  <BusStop Id="24014" Name="Bociania" Street="Kwidzyńska" X="17.0978851" Y="51.1298752" />
+  <BusStop Id="24012" Name="Gęsia" Street="Kwidzyńska" X="17.0877647" Y="51.131897" />
+  <BusStop Id="24010" Name="Kwidzyńska" Street="Kwidzyńska" X="17.0794754" Y="51.1316223" />
+  <BusStop Id="24008" Name="Kętrzyńska" Street="Toruńska" X="17.0740662" Y="51.13097" />
+  <BusStop Id="24002" Name="KROMERA" Street="Toruńska" X="17.06515" Y="51.1317635" />
+  <BusStop Id="20630" Name="Mosty Warszawskie" Street="Jedności Narodowej" X="17.0545845" Y="51.12848" />
+  <BusStop Id="20632" Name="Daszyńskiego" Street="Jedności Narodowej" X="17.04845" Y="51.1267433" />
+  <BusStop Id="20614" Name="Paulińska" Street="Chrobrego" X="17.03501" Y="51.1209755" />
+  <BusStop Id="20612" Name="Dubois" Street="Drobnera" X="17.0339718" Y="51.1171" />
+  <BusStop Id="10015" Name="Uniwersytet" Street="Grodzka" X="17.03239" Y="51.11376" />
+  <BusStop Id="10006" Name="Rynek" Street="Kazimierza Wlk." X="17.0266151" Y="51.1098328" />
+  <BusStop Id="10250" Name="Renoma" Street="Podwale" X="17.0300026" Y="51.1042938" />
+  <BusStop Id="10233" Name="Arkady" Street="Świdnicka" X="17.0292645" Y="51.1016579" />
+  <BusStop Id="23011" Name="ZAWALNA" Street="pętla" X="17.0371532" Y="51.13426" />
+  <BusStop Id="10052" Name="Wierzbowa" Street="Teatralna" X="17.0371113" Y="51.1050034" />
+  <BusStop Id="20269" Name="DWORZEC GŁ. PKP" Street="Peronowa" X="17.0351658" Y="51.0996323" />
+  <BusStop Id="11001" Name="DWORZEC PKS" Street="Borowska" X="17.0329075" Y="51.09813" />
+  <BusStop Id="21003" Name="Dyrekcyjna" Street="Borowska" X="17.032711" Y="51.09532" />
+  <BusStop Id="11035" Name="Sanocka" Street="Ślężna" X="17.0302372" Y="51.0932846" />
+  <BusStop Id="11231" Name="Uniwersytet Ekonomiczny" Street="Ślężna" X="17.0286732" Y="51.0898933" />
+  <BusStop Id="11036" Name="Sanocka" Street="Ślężna" X="17.0304222" Y="51.0934" />
+  <BusStop Id="21002" Name="DWORZEC PKS" Street="Borowska" X="17.0328312" Y="51.0975227" />
+  <BusStop Id="20268" Name="DWORZEC GŁ. PKP" Street="Peronowa" X="17.0355244" Y="51.0996971" />
+  <BusStop Id="10021" Name="GALERIA DOMINIKAŃSKA" Street="Św. Katarzyny" X="17.0387058" Y="51.108532" />
+  <BusStop Id="10023" Name="Hala Targowa" Street="Piaskowa" X="17.0395775" Y="51.1127739" />
+  <BusStop Id="11242" Name="PARK POŁUDNIOWY" Street="pętla" X="17.0144844" Y="51.0726776" />
+  <BusStop Id="11240" Name="PUŁTUSKA" Street="Ślężna" X="17.0157242" Y="51.0739441" />
+  <BusStop Id="11238" Name="Weigla" Street="Ślężna" X="17.01834" Y="51.07677" />
+  <BusStop Id="11236" Name="Jaworowa" Street="Ślężna" X="17.0222321" Y="51.0809746" />
+  <BusStop Id="11234" Name="Wiśniowa" Street="Ślężna" X="17.0246754" Y="51.0835228" />
+  <BusStop Id="11232" Name="Uniwersytet Ekonomiczny" Street="Ślężna" X="17.02847" Y="51.089138" />
+  <BusStop Id="20801" Name="Ogród Botaniczny" Street="Sienkiewicza" X="17.0520687" Y="51.1166" />
+  <BusStop Id="20803" Name="Górnickiego" Street="Sienkiewicza" X="17.054924" Y="51.1162567" />
+  <BusStop Id="20805" Name="Piastowska" Street="Sienkiewicza" X="17.0601044" Y="51.1157875" />
+  <BusStop Id="20807" Name="Grunwaldzka" Street="Sienkiewicza" X="17.0667667" Y="51.11514" />
+  <BusStop Id="24201" Name="Kochanowskiego" Street="Różyckiego" X="17.0736217" Y="51.1150665" />
+  <BusStop Id="24203" Name="Chopina" Street="Różyckiego" X="17.0816288" Y="51.11674" />
+  <BusStop Id="24205" Name="Karłowicza" Street="Różyckiego" X="17.0860634" Y="51.11692" />
+  <BusStop Id="24207" Name="Stadion Olimpijski" Street="Paderewskiego" X="17.089901" Y="51.11688" />
+  <BusStop Id="24209" Name="9 Maja" Street="Mickiewicza" X="17.0914459" Y="51.11361" />
+  <BusStop Id="24211" Name="Godebskiego" Street="Mickiewicza" X="17.0970058" Y="51.11383" />
+  <BusStop Id="24214" Name="SĘPOLNO" Street="pętla" X="17.1038971" Y="51.11429" />
+  <BusStop Id="24212" Name="Godebskiego" Street="Mickiewicza" X="17.0979958" Y="51.113945" />
+  <BusStop Id="24210" Name="9 Maja" Street="Mickiewicza" X="17.0911236" Y="51.1136742" />
+  <BusStop Id="24208" Name="Stadion Olimpijski" Street="Paderewskiego" X="17.0900269" Y="51.117054" />
+  <BusStop Id="24206" Name="Karłowicza" Street="Różyckiego" X="17.0864639" Y="51.11705" />
+  <BusStop Id="24204" Name="Chopina" Street="Różyckiego" X="17.0819988" Y="51.1168823" />
+  <BusStop Id="24202" Name="Kochanowskiego" Street="Różyckiego" X="17.0734558" Y="51.1151237" />
+  <BusStop Id="20808" Name="Grunwaldzka" Street="Grunwaldzka" X="17.0677376" Y="51.1150246" />
+  <BusStop Id="20806" Name="Piastowska" Street="Sienkiewicza" X="17.0614948" Y="51.11582" />
+  <BusStop Id="20804" Name="Górnickiego" Street="Sienkiewicza" X="17.0558777" Y="51.11634" />
+  <BusStop Id="20831" Name="Ogród Botaniczny" Street="Wyszyńskiego" X="17.0510769" Y="51.1161232" />
+  <BusStop Id="11233" Name="Wiśniowa" Street="Ślężna" X="17.0252857" Y="51.084362" />
+  <BusStop Id="11235" Name="Jaworowa" Street="Ślężna" X="17.0225964" Y="51.08152" />
+  <BusStop Id="11237" Name="Weigla" Street="Ślężna" X="17.0183678" Y="51.0769768" />
+  <BusStop Id="11239" Name="PUŁTUSKA" Street="Ślężna" X="17.0159111" Y="51.0743065" />
+  <BusStop Id="23710" Name="KOSZAROWA (Szpital)" Street="Koszarowa" X="17.0647812" Y="51.1416664" />
+  <BusStop Id="23714" Name="PL. DANIŁOWSKIEGO" Street="Przybyszewskiego" X="17.0609169" Y="51.1393852" />
+  <BusStop Id="23732" Name="Berenta" Street="Berenta" X="17.05759" Y="51.1357841" />
+  <BusStop Id="24102" Name="KROMERA" Street="al. M. Kromera" X="17.062624" Y="51.1316261" />
+  <BusStop Id="20724" Name="Mosty Warszawskie" Street="Wyszyńskiego" X="17.05489" Y="51.1280556" />
+  <BusStop Id="20722" Name="Wyszyńskiego" Street="Nowowiejska" X="17.05258" Y="51.1226845" />
+  <BusStop Id="20902" Name="Ogród Botaniczny" Street="Wyszyńskiego" X="17.0511" Y="51.117466" />
+  <BusStop Id="20304" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.0476952" Y="51.1099167" />
+  <BusStop Id="20302" Name="Poczta Główna" Street="Oławska" X="17.0456429" Y="51.10786" />
+  <BusStop Id="10333" Name="Eureka" Street="Podwale" X="17.0384274" Y="51.1037941" />
+  <BusStop Id="10365" Name="Arkady" Street="Świdnicka" X="17.0294724" Y="51.1020966" />
+  <BusStop Id="11335" Name="Pl. Hirszfelda" Street="Wielka" X="17.0171185" Y="51.09423" />
+  <BusStop Id="11521" Name="Krucza" Street="Krucza" X="17.00994" Y="51.0935936" />
+  <BusStop Id="11523" Name="Pretficza" Street="Krucza" X="17.00377" Y="51.09342" />
+  <BusStop Id="11721" Name="Inżynierska" Street="Inżynierska" X="16.99119" Y="51.0947723" />
+  <BusStop Id="11723" Name="Aleja Pracy" Street="Hallera" X="16.9853783" Y="51.0918732" />
+  <BusStop Id="11712" Name="FAT" Street="Grabiszyńska" X="16.97836" Y="51.09413" />
+  <BusStop Id="17101" Name="Solskiego" Street="Solskiego" X="16.9677086" Y="51.0812073" />
+  <BusStop Id="17105" Name="Wiejska" Street="Aleja Piastów" X="16.9641571" Y="51.0770073" />
+  <BusStop Id="17107" Name="Kadłubka" Street="Aleja Piastów" X="16.968874" Y="51.07623" />
+  <BusStop Id="17109" Name="Stanki" Street="Aleja Piastów" X="16.97384" Y="51.0761681" />
+  <BusStop Id="17125" Name="Bukowskiego" Street="Aleja Piastów" X="16.9780312" Y="51.07654" />
+  <BusStop Id="17124" Name="Al. Piastów" Street="pętla" X="16.977314" Y="51.07671" />
+  <BusStop Id="17108" Name="Stanki" Street="Aleja Piastów" X="16.9720726" Y="51.0763321" />
+  <BusStop Id="17106" Name="Kadłubka" Street="Aleja Piastów" X="16.9686661" Y="51.07648" />
+  <BusStop Id="17104" Name="Wiejska" Street="Solskiego" X="16.9639225" Y="51.07764" />
+  <BusStop Id="17102" Name="Solskiego" Street="Solskiego" X="16.9686756" Y="51.0817947" />
+  <BusStop Id="11726" Name="FAT" Street="Hallera" X="16.980381" Y="51.09376" />
+  <BusStop Id="11724" Name="Aleja Pracy" Street="Aleja Pracy" X="16.9864216" Y="51.0922623" />
+  <BusStop Id="11722" Name="Inżynierska" Street="Inżynierska" X="16.99197" Y="51.0945435" />
+  <BusStop Id="11524" Name="Pretficza" Street="Krucza" X="17.0024986" Y="51.09326" />
+  <BusStop Id="11522" Name="Krucza" Street="Krucza" X="17.0083733" Y="51.09343" />
+  <BusStop Id="11336" Name="Pl. Hirszfelda" Street="Wielka" X="17.016861" Y="51.09416" />
+  <BusStop Id="10366" Name="Arkady" Street="Świdnicka" X="17.0298042" Y="51.102047" />
+  <BusStop Id="20334" Name="DWORCOWA" Street="Kościuszki" X="17.0401859" Y="51.1011162" />
+  <BusStop Id="20332" Name="Krasińskiego" Street="Krasińskiego" X="17.0433464" Y="51.1058655" />
+  <BusStop Id="20303" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.0485859" Y="51.1104546" />
+  <BusStop Id="20903" Name="Ogród Botaniczny" Street="Wyszyńskiego" X="17.0514774" Y="51.11716" />
+  <BusStop Id="20721" Name="Wyszyńskiego" Street="Nowowiejska" X="17.05289" Y="51.1228027" />
+  <BusStop Id="20723" Name="Damrota" Street="Wyszyńskiego" X="17.05488" Y="51.12649" />
+  <BusStop Id="24112" Name="KROMERA" Street="Boya-Żeleńskiego" X="17.0630074" Y="51.1323624" />
+  <BusStop Id="23731" Name="Berenta" Street="Berenta" X="17.05759" Y="51.1355171" />
+  <BusStop Id="23733" Name="PL. DANIŁOWSKIEGO" Street="Berenta" X="17.0599918" Y="51.1383476" />
+  <BusStop Id="23715" Name="Czajkowskiego" Street="Czajkowskiego" X="17.0651112" Y="51.1391678" />
+  <BusStop Id="23725" Name="KOSZAROWA (Uniwersytet)" Street="Koszarowa" X="17.0684834" Y="51.1405" />
+  <BusStop Id="20923" Name="PL. GRUNWALDZKI" Street="pętla" X="17.0633621" Y="51.1121941" />
+  <BusStop Id="120820" Name="PL. GRUNWALDZKI" Street="pl. Grunwaldzki" X="17.0600262" Y="51.1116257" />
+  <BusStop Id="20906" Name="pl. Bema" Street="Drobnera" X="17.04139" Y="51.11723" />
+  <BusStop Id="10716" Name="Dubois" Street="Dubois" X="17.0332642" Y="51.1170158" />
+  <BusStop Id="10515" Name="Poznańska" Street="Długa" X="17.0124874" Y="51.121994" />
+  <BusStop Id="12313" Name="Rysia" Street="Popowicka" X="16.98994" Y="51.1285248" />
+  <BusStop Id="12711" Name="Kolista" Street="Kozanowska" X="16.974453" Y="51.1333" />
+  <BusStop Id="12713" Name="Wiślańska" Street="Kozanowska" X="16.9790535" Y="51.13592" />
+  <BusStop Id="12715" Name="Dzielna" Street="Kozanowska" X="16.9747543" Y="51.1388626" />
+  <BusStop Id="12717" Name="KOZANÓW" Street="pętla" X="16.9679585" Y="51.137825" />
+  <BusStop Id="12718" Name="KOZANÓW" Street="pętla" X="16.9688835" Y="51.13756" />
+  <BusStop Id="12716" Name="Dzielna" Street="Kozanowska" X="16.9768963" Y="51.1386375" />
+  <BusStop Id="12714" Name="Wiślańska" Street="Kozanowska" X="16.9789124" Y="51.13639" />
+  <BusStop Id="12702" Name="Kolista" Street="Pilczycka" X="16.9742851" Y="51.1318169" />
+  <BusStop Id="12314" Name="Rysia" Street="Popowicka" X="16.9905968" Y="51.1279144" />
+  <BusStop Id="10524" Name="Długa" Street="Długa" X="17.0148716" Y="51.11889" />
+  <BusStop Id="110655" Name="Pomorska" Street="Dubois" X="17.0310059" Y="51.1179" />
+  <BusStop Id="20905" Name="pl. Bema" Street="Sienkiewicza" X="17.0430737" Y="51.1169739" />
+  <BusStop Id="120823" Name="PL. GRUNWALDZKI" Street="pl. Grunwaldzki" X="17.0604362" Y="51.11164" />
+  <BusStop Id="17119" Name="CENTRUM HURTU UL. GIEŁDOWA" Street="Giełdowa" X="16.96953" Y="51.06812" />
+  <BusStop Id="17117" Name="Marchewkowa" Street="Karmelkowa" X="16.9741364" Y="51.06644" />
+  <BusStop Id="16704" Name="WAŁBRZYSKA" Street="Wałbrzyska" X="16.9795341" Y="51.06396" />
+  <BusStop Id="16702" Name="Kościelna" Street="Krzycka" X="16.9839058" Y="51.0638847" />
+  <BusStop Id="16506" Name="KLECINA" Street="Krzycka" X="16.98743" Y="51.06541" />
+  <BusStop Id="16504" Name="Os. Przyjaźni" Street="Krzycka" X="16.99737" Y="51.06958" />
+  <BusStop Id="16502" Name="Zimowa" Street="Krzycka" X="17.0000153" Y="51.0713348" />
+  <BusStop Id="11308" Name="KRZYKI" Street="Powstańców Śl." X="17.0076523" Y="51.0757446" />
+  <BusStop Id="11306" Name="Orla" Street="Powstańców Śl." X="17.0085" Y="51.0801659" />
+  <BusStop Id="11304" Name="HALLERA" Street="Powstańców Śl." X="17.0129166" Y="51.08682" />
+  <BusStop Id="11302" Name="Rondo" Street="Powstańców Śl." X="17.0178852" Y="51.091156" />
+  <BusStop Id="10111" Name="GALERIA DOMINIKAŃSKA" Street="Oławska" X="17.0397587" Y="51.1074066" />
+  <BusStop Id="20301" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.0502243" Y="51.10853" />
+  <BusStop Id="124201" Name="Kochanowskiego" Street="Kochanowskiego" X="17.0737286" Y="51.11513" />
+  <BusStop Id="24303" Name="Śniadeckich" Street="Kochanowskiego" X="17.077467" Y="51.11979" />
+  <BusStop Id="24131" Name="Kwidzyńska" Street="Brücknera" X="17.079464" Y="51.132267" />
+  <BusStop Id="29103" Name="Psie Pole" Street="Krzywoustego" X="17.1124859" Y="51.1459961" />
+  <BusStop Id="29539" Name="Kopańskiego" Street="Bora-Komorowskiego" X="17.11934" Y="51.15496" />
+  <BusStop Id="29503" Name="POLAR" Street="Bora-Komorowskiego" X="17.12047" Y="51.1561623" />
+  <BusStop Id="29521" Name="Królewska" Street="Królewska" X="17.1292515" Y="51.1555557" />
+  <BusStop Id="29530" Name="OSIEDLE SOBIESKIEGO" Street="pętla" X="17.1322632" Y="51.1588631" />
+  <BusStop Id="29522" Name="Królewska" Street="Królewska" X="17.1290226" Y="51.1555862" />
+  <BusStop Id="29504" Name="POLAR" Street="Bora-Komorowskiego" X="17.1191311" Y="51.1549721" />
+  <BusStop Id="29104" Name="Psie Pole" Street="Krzywoustego" X="17.1141682" Y="51.1471367" />
+  <BusStop Id="24132" Name="Kwidzyńska" Street="Brücknera" X="17.0783424" Y="51.13059" />
+  <BusStop Id="24304" Name="Śniadeckich" Street="Kochanowskiego" X="17.0773144" Y="51.120575" />
+  <BusStop Id="124202" Name="Kochanowskiego" Street="Kochanowskiego" X="17.0733986" Y="51.11507" />
+  <BusStop Id="10126" Name="GALERIA DOMINIKAŃSKA" Street="Piotra Skargi" X="17.0380459" Y="51.10623" />
+  <BusStop Id="11301" Name="Rondo" Street="Powstańców Śl." X="17.0178528" Y="51.09161" />
+  <BusStop Id="11303" Name="HALLERA" Street="Powstańców Śl." X="17.0125046" Y="51.0871429" />
+  <BusStop Id="11305" Name="Orla" Street="Powstańców Śl." X="17.0077744" Y="51.08003" />
+  <BusStop Id="11307" Name="KRZYKI" Street="Krzycka" X="17.00667" Y="51.0752754" />
+  <BusStop Id="16501" Name="Zimowa" Street="Krzycka" X="17.0008183" Y="51.07203" />
+  <BusStop Id="16503" Name="Os. Przyjaźni" Street="Krzycka" X="16.996666" Y="51.06923" />
+  <BusStop Id="16505" Name="KLECINA" Street="Krzycka" X="16.9893417" Y="51.0662575" />
+  <BusStop Id="16701" Name="Kościelna" Street="Kościelna" X="16.9826488" Y="51.0639076" />
+  <BusStop Id="16705" Name="WAŁBRZYSKA" Street="Wałbrzyska" X="16.9779339" Y="51.06424" />
+  <BusStop Id="17118" Name="Marchewkowa" Street="Karmelkowa" X="16.9741783" Y="51.0667038" />
+  <BusStop Id="24509" Name="BARTOSZOWICE" Street="Bacciarellego" X="17.11607" Y="51.1025543" />
+  <BusStop Id="24508" Name="BISKUPIN" Street="Olszewskiego" X="17.1095085" Y="51.1010361" />
+  <BusStop Id="24506" Name="Spółdzielcza" Street="Olszewskiego" X="17.1026917" Y="51.1019058" />
+  <BusStop Id="24504" Name="Tramwajowa" Street="Wróblewskiego" X="17.0838814" Y="51.1042938" />
+  <BusStop Id="24502" Name="Hala Stulecia" Street="Wróblewskiego" X="17.0726128" Y="51.1074371" />
+  <BusStop Id="10123" Name="GALERIA DOMINIKAŃSKA" Street="Kazimierza Wlk." X="17.0373878" Y="51.1080246" />
+  <BusStop Id="10101" Name="Świdnicka" Street="Kazimierza Wlk." X="17.0328922" Y="51.10744" />
+  <BusStop Id="10501" Name="PL. JANA PAWŁA II" Street="Legnicka" X="17.02073" Y="51.11216" />
+  <BusStop Id="10505" Name="pl. Strzegomski" Street="Legnicka" X="17.00789" Y="51.1132431" />
+  <BusStop Id="12303" Name="Kwiska" Street="Legnicka" X="16.9834251" Y="51.1255875" />
+  <BusStop Id="12511" Name="Na Ostatnim Groszu" Street="Orlińskiego" X="16.9750843" Y="51.1231842" />
+  <BusStop Id="12513" Name="Orlińskiego" Street="Horbaczewskiego" X="16.9719257" Y="51.1221237" />
+  <BusStop Id="12515" Name="Drzewieckiego" Street="Balonowa" X="16.9677525" Y="51.1218" />
+  <BusStop Id="12517" Name="Hynka" Street="Balonowa" X="16.96216" Y="51.122467" />
+  <BusStop Id="12541" Name="Bystrzycka" Street="Bystrzycka" X="16.959301" Y="51.1231232" />
+  <BusStop Id="12539" Name="BAJANA - pętla" Street="Bajana" X="16.9630032" Y="51.1267929" />
+  <BusStop Id="12542" Name="Bystrzycka" Street="Bystrzycka" X="16.9587574" Y="51.1233368" />
+  <BusStop Id="12518" Name="Hynka" Street="Balonowa" X="16.96161" Y="51.1223831" />
+  <BusStop Id="12516" Name="Drzewieckiego" Street="Balonowa" X="16.9679146" Y="51.1215858" />
+  <BusStop Id="12514" Name="Orlińskiego" Street="Horbaczewskiego" X="16.9729156" Y="51.12252" />
+  <BusStop Id="12512" Name="Na Ostatnim Groszu" Street="Na Ostatnim Groszu" X="16.9765453" Y="51.123394" />
+  <BusStop Id="12304" Name="Kwiska" Street="Legnicka" X="16.984417" Y="51.1247177" />
+  <BusStop Id="10506" Name="pl. Strzegomski" Street="Legnicka" X="17.00718" Y="51.11276" />
+  <BusStop Id="10502" Name="PL. JANA PAWŁA II" Street="Ruska" X="17.022831" Y="51.1110878" />
+  <BusStop Id="10102" Name="Świdnicka" Street="Kazimierza Wlk." X="17.0328465" Y="51.10703" />
+  <BusStop Id="120815" Name="PL. GRUNWALDZKI" Street="pl. Grunwaldzki" X="17.0603943" Y="51.1114426" />
+  <BusStop Id="24501" Name="Hala Stulecia" Street="Wróblewskiego" X="17.0728359" Y="51.1070442" />
+  <BusStop Id="24503" Name="Tramwajowa" Street="Wróblewskiego" X="17.08311" Y="51.10422" />
+  <BusStop Id="24505" Name="Spółdzielcza" Street="Olszewskiego" X="17.1023846" Y="51.1021156" />
+  <BusStop Id="24507" Name="BISKUPIN" Street="Olszewskiego" X="17.1087914" Y="51.1009941" />
+  <BusStop Id="23166" Name="KAMIEŃSKIEGO - pętla" Street="Kamieńskiego" X="17.0432224" Y="51.1507034" />
+  <BusStop Id="23170" Name="Kamieńskiego szpital" Street="Kamieńskiego" X="17.0429153" Y="51.1486855" />
+  <BusStop Id="23164" Name="Jutrosińska" Street="Kamieńskiego" X="17.042" Y="51.1470261" />
+  <BusStop Id="23124" Name="Kamieńskiego" Street="Żmigrodzka" X="17.0327187" Y="51.1395645" />
+  <BusStop Id="23141" Name="Broniewskiego" Street="Broniewskiego" X="17.0353317" Y="51.13591" />
+  <BusStop Id="23143" Name="Bałtycka" Street="Obornicka" X="17.0293789" Y="51.1382866" />
+  <BusStop Id="23114" Name="Różanka" Street="Bezpieczna" X="17.02112" Y="51.1394043" />
+  <BusStop Id="23112" Name="Łużycka" Street="Łużycka" X="17.016407" Y="51.1362343" />
+  <BusStop Id="123002" Name="most Osobowicki" Street="Osobowicka" X="17.0275478" Y="51.1330528" />
+  <BusStop Id="10704" Name="PL. STASZICA" Street="Pomorska" X="17.0302658" Y="51.122467" />
+  <BusStop Id="110602" Name="Pomorska" Street="Pomorska" X="17.0319042" Y="51.11727" />
+  <BusStop Id="110104" Name="Rynek" Street="Nowy Świat" X="17.02722" Y="51.1119576" />
+  <BusStop Id="120269" Name="DWORZEC GŁ. PKP" Street="Peronowa" X="17.0351543" Y="51.0996246" />
+  <BusStop Id="11321" Name="DWORZEC PKS" Street="Ślężna" X="17.0319881" Y="51.0969849" />
+  <BusStop Id="21105" Name="Śliczna" Street="Borowska" X="17.0349884" Y="51.08509" />
+  <BusStop Id="21171" Name="Orzechowa" Street="Armii Krajowej" X="17.04181" Y="51.082962" />
+  <BusStop Id="21173" Name="BARDZKA" Street="Bardzka" X="17.0492458" Y="51.08222" />
+  <BusStop Id="21138" Name="GAJ - pętla" Street="Świeradowska" X="17.0515556" Y="51.07694" />
+  <BusStop Id="21134" Name="Świeradowska" Street="Świeradowska" X="17.0455742" Y="51.0770531" />
+  <BusStop Id="21132" Name="FERIO GAJ" Street="Świeradowska" X="17.0402927" Y="51.0771523" />
+  <BusStop Id="21108" Name="Jabłeczna" Street="Borowska" X="17.0342369" Y="51.0784" />
+  <BusStop Id="21106" Name="Śliczna" Street="Borowska" X="17.035387" Y="51.08571" />
+  <BusStop Id="21102" Name="DWORZEC PKS" Street="Borowska" X="17.0329857" Y="51.09658" />
+  <BusStop Id="20364" Name="DWORZEC GŁ. PKP" Street="Peronowa" X="17.03411" Y="51.0992279" />
+  <BusStop Id="10103" Name="Rynek" Street="Nowy Świat" X="17.0272141" Y="51.1110649" />
+  <BusStop Id="110601" Name="Pomorska" Street="Pomorska" X="17.0317612" Y="51.1172371" />
+  <BusStop Id="10703" Name="PL. STASZICA" Street="Pomorska" X="17.0307713" Y="51.1221466" />
+  <BusStop Id="123001" Name="most Osobowicki" Street="Osobowicka" X="17.0263481" Y="51.1331558" />
+  <BusStop Id="23111" Name="Łużycka" Street="Łużycka" X="17.01661" Y="51.13612" />
+  <BusStop Id="23113" Name="Różanka" Street="Bezpieczna" X="17.0216961" Y="51.1395073" />
+  <BusStop Id="23144" Name="Bałtycka" Street="Broniewskiego" X="17.03062" Y="51.1366348" />
+  <BusStop Id="23121" Name="Broniewskiego" Street="Żmigrodzka" X="17.0366917" Y="51.13635" />
+  <BusStop Id="23123" Name="Kamieńskiego" Street="Żmigrodzka" X="17.0331516" Y="51.13935" />
+  <BusStop Id="23163" Name="Jutrosińska" Street="Kamieńskiego" X="17.0418873" Y="51.1463661" />
+  <BusStop Id="23169" Name="Kamieńskiego szpital" Street="Kamieńskiego" X="17.04321" Y="51.14911" />
+  <BusStop Id="20620" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.0340252" Y="51.124382" />
+  <BusStop Id="20662" Name="PL. STASZICA" Street="pętla" X="17.0308876" Y="51.1225548" />
+  <BusStop Id="10654" Name="Pomorska" Street="Dubois" X="17.0305653" Y="51.11806" />
+  <BusStop Id="10652" Name="Dmowskiego" Street="Jagiełły" X="17.0247288" Y="51.11625" />
+  <BusStop Id="10452" Name="PL. JANA PAWŁA II" Street="Podwale" X="17.022234" Y="51.11214" />
+  <BusStop Id="10274" Name="pl. Orląt Lwowskich" Street="Piłsudskiego" X="17.0214481" Y="51.1073036" />
+  <BusStop Id="10272" Name="pl. Legionów" Street="Piłsudskiego" X="17.0217342" Y="51.10486" />
+  <BusStop Id="20266" Name="Pułaskiego" Street="Małachowskiego" X="17.04303" Y="51.0981979" />
+  <BusStop Id="20264" Name="Kościuszki" Street="Pułaskiego" X="17.0452042" Y="51.0995" />
+  <BusStop Id="20262" Name="Komuny Paryskiej" Street="Pułaskiego" X="17.0462685" Y="51.10132" />
+  <BusStop Id="20291" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.049963" Y="51.1086159" />
+  <BusStop Id="20821" Name="most Grunwaldzki" Street="pl. Grunwaldzki" X="17.0554981" Y="51.11014" />
+  <BusStop Id="20823" Name="PL. GRUNWALDZKI" Street="Rondo Reagana" X="17.0604382" Y="51.1116142" />
+  <BusStop Id="29326" Name="LITEWSKA" Street="Litewska" X="17.1278782" Y="51.14233" />
+  <BusStop Id="29320" Name="LITEWSKA" Street="Litewska" X="17.1304188" Y="51.14236" />
+  <BusStop Id="29318" Name="Kowieńska" Street="Litewska" X="17.1356831" Y="51.1429634" />
+  <BusStop Id="29316" Name="Żmudzka" Street="Żmudzka" X="17.1409836" Y="51.1440125" />
+  <BusStop Id="29314" Name="Kiełczowska" Street="Kiełczowska" X="17.1357574" Y="51.1457176" />
+  <BusStop Id="29312" Name="Poleska" Street="Kiełczowska" X="17.129055" Y="51.146534" />
+  <BusStop Id="29132" Name="LZN" Street="Kiełczowska" X="17.1209583" Y="51.1467819" />
+  <BusStop Id="24104" Name="Grudziądzka" Street="Krzywoustego" X="17.0736389" Y="51.137886" />
+  <BusStop Id="20341" Name="DWORCOWA" Street="Dworcowa" X="17.0391426" Y="51.10006" />
+  <BusStop Id="20352" Name="DWORZEC GŁ. PKP" Street="Sucha" X="17.0368576" Y="51.09723" />
+  <BusStop Id="24101" Name="KROMERA" Street="al. M. Kromera" X="17.0651531" Y="51.13223" />
+  <BusStop Id="24103" Name="Grudziądzka" Street="Krzywoustego" X="17.0750656" Y="51.1379547" />
+  <BusStop Id="29131" Name="LZN" Street="Kiełczowska" X="17.1247349" Y="51.1465836" />
+  <BusStop Id="29311" Name="Poleska" Street="Kiełczowska" X="17.130497" Y="51.146183" />
+  <BusStop Id="29313" Name="Kiełczowska" Street="Kiełczowska" X="17.1370659" Y="51.1455269" />
+  <BusStop Id="29315" Name="Żmudzka" Street="Żmudzka" X="17.14096" Y="51.1446838" />
+  <BusStop Id="29317" Name="Kowieńska" Street="Litewska" X="17.1344128" Y="51.1429367" />
+  <BusStop Id="29319" Name="LITEWSKA" Street="pętla" X="17.1297836" Y="51.1424026" />
+  <BusStop Id="20619" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.0340023" Y="51.12432" />
+  <BusStop Id="20824" Name="PL. GRUNWALDZKI" Street="Rondo Reagana" X="17.0599632" Y="51.11145" />
+  <BusStop Id="20822" Name="most Grunwaldzki" Street="pl. Grunwaldzki" X="17.05539" Y="51.110218" />
+  <BusStop Id="20292" Name="Urząd Wojewódzki" Street="pl. Powstańców Warszawy" X="17.0495567" Y="51.1086426" />
+  <BusStop Id="20261" Name="Komuny Paryskiej" Street="Pułaskiego" X="17.0466175" Y="51.10222" />
+  <BusStop Id="20263" Name="Kościuszki" Street="Pułaskiego" X="17.0455322" Y="51.1003342" />
+  <BusStop Id="20265" Name="Pułaskiego" Street="Małachowskiego" X="17.0429611" Y="51.0983047" />
+  <BusStop Id="20267" Name="DWORZEC GŁ. PKP" Street="Piłsudskiego" X="17.0372677" Y="51.09965" />
+  <BusStop Id="10273" Name="pl. Orląt Lwowskich" Street="Piłsudskiego" X="17.021574" Y="51.10738" />
+  <BusStop Id="10451" Name="PL. JANA PAWŁA II" Street="Podwale" X="17.0225353" Y="51.11223" />
+  <BusStop Id="10651" Name="Dmowskiego" Street="Jagiełły" X="17.0247879" Y="51.1164551" />
+  <BusStop Id="10655" Name="Pomorska" Street="Dubois" X="17.0310059" Y="51.117897" />
+  <BusStop Id="20661" Name="PL. STASZICA" Street="pętla" X="17.0309734" Y="51.12251" />
+  <BusStop Id="12409" Name="PILCZYCE" Street="Lotnicza" X="16.9504566" Y="51.136097" />
+  <BusStop Id="18001" Name="Glinianki" Street="Kosmonautów" X="16.93581" Y="51.13805" />
+  <BusStop Id="18003" Name="Grabowa" Street="Kosmonautów" X="16.92094" Y="51.13993" />
+  <BusStop Id="18005" Name="Kamiennogórska" Street="Kosmonautów" X="16.89973" Y="51.14263" />
+  <BusStop Id="18007" Name="Złotnicka" Street="Kosmonautów" X="16.8898029" Y="51.14388" />
+  <BusStop Id="18009" Name="Wschowska" Street="Kosmonautów" X="16.8814545" Y="51.1449127" />
+  <BusStop Id="18011" Name="Jeleniogórska" Street="Kosmonautów" X="16.8780346" Y="51.14534" />
+  <BusStop Id="18204" Name="LEŚNICA" Street="pętla" X="16.87235" Y="51.1446953" />
+  <BusStop Id="18012" Name="Jeleniogórska" Street="Kosmonautów" X="16.8784332" Y="51.145195" />
+  <BusStop Id="18010" Name="Wschowska" Street="Kosmonautów" X="16.881731" Y="51.1447868" />
+  <BusStop Id="18008" Name="Złotnicka" Street="Kosmonautów" X="16.8900051" Y="51.1437645" />
+  <BusStop Id="18006" Name="Kamiennogórska" Street="Kosmonautów" X="16.9000549" Y="51.142498" />
+  <BusStop Id="18004" Name="Grabowa" Street="Kosmonautów" X="16.9213943" Y="51.13978" />
+  <BusStop Id="18002" Name="Glinianki" Street="Kosmonautów" X="16.9360123" Y="51.1379356" />
+  <BusStop Id="20825" Name="Bujwida" Street="pl. Grunwaldzki" X="17.06691" Y="51.11337" />
+  <BusStop Id="20826" Name="Bujwida" Street="pl. Grunwaldzki" X="17.067503" Y="51.11364" />
+  <BusStop Id="23204" Name="OSOBOWICE" Street="pętla" X="16.9940815" Y="51.1373672" />
+  <BusStop Id="23202" Name="Most Milenijny" Street="Osobowicka" X="16.9985847" Y="51.1359024" />
+  <BusStop Id="23008" Name="OSOBOWICKA (Cmentarz)" Street="Osobowicka" X="17.0057487" Y="51.1350746" />
+  <BusStop Id="23006" Name="OSOBOWICKA (Cmentarz II)" Street="Osobowicka" X="17.0112324" Y="51.1344948" />
+  <BusStop Id="23004" Name="Serbska" Street="Osobowicka" X="17.01989" Y="51.13366" />
+  <BusStop Id="23002" Name="most Osobowicki" Street="Osobowicka" X="17.0275459" Y="51.1330528" />
+  <BusStop Id="10606" Name="Kleczkowska" Street="Reymonta" X="17.02759" Y="51.12729" />
+  <BusStop Id="10604" Name="PL. STASZICA" Street="Pomorska" X="17.0302639" Y="51.122467" />
+  <BusStop Id="10602" Name="Pomorska" Street="Pomorska" X="17.0317669" Y="51.1172333" />
+  <BusStop Id="11451" Name="Gajowicka" Street="Hallera" X="17.0067158" Y="51.0879822" />
+  <BusStop Id="11453" Name="Mielecka" Street="Hallera" X="17.0004253" Y="51.08963" />
+  <BusStop Id="11651" Name="Ojca Beyzyma" Street="Hallera" X="16.9933243" Y="51.090374" />
+  <BusStop Id="11657" Name="Aleja Pracy" Street="Hallera" X="16.9852638" Y="51.09176" />
+  <BusStop Id="11659" Name="FAT" Street="Hallera" X="16.9803333" Y="51.0942459" />
+  <BusStop Id="10603" Name="PL. STASZICA" Street="Pomorska" X="17.0305" Y="51.1224937" />
+  <BusStop Id="10605" Name="Kleczkowska" Street="Reymonta" X="17.0279121" Y="51.1267357" />
+  <BusStop Id="23001" Name="most Osobowicki" Street="Osobowicka" X="17.0263481" Y="51.13316" />
+  <BusStop Id="23003" Name="Serbska" Street="Osobowicka" X="17.019434" Y="51.1337929" />
+  <BusStop Id="23005" Name="OSOBOWICKA (Cmentarz II)" Street="Osobowicka" X="17.0112534" Y="51.1345825" />
+  <BusStop Id="23007" Name="OSOBOWICKA (Cmentarz)" Street="Osobowicka" X="17.00564" Y="51.1351776" />
+  <BusStop Id="23201" Name="Most Milenijny" Street="Osobowicka" X="16.9983044" Y="51.1360168" />
+  <BusStop Id="23010" Name="Bałtycka" Street="Bałtycka" X="17.0301781" Y="51.1377869" />
+  <BusStop Id="10226" Name="DWORZEC GŁ. PKP" Street="Stawowa" X="17.03389" Y="51.09991" />
+  <BusStop Id="23009" Name="Bałtycka" Street="Bałtycka" X="17.02982" Y="51.13702" />
+  <BusStop Id="11215" Name="KRZYKI" Street="Karkonoska" X="17.0070934" Y="51.07474" />
+  <BusStop Id="16401" Name="Radio i Telewizja" Street="Karkonoska" X="17.0057487" Y="51.0715561" />
+  <BusStop Id="16403" Name="Przyjaźni" Street="Przyjaźni" X="17.0032883" Y="51.06855" />
+  <BusStop Id="16405" Name="Braterska" Street="Przyjaźni" X="16.9992142" Y="51.06768" />
+  <BusStop Id="16407" Name="Jedn. Wojskowa" Street="Przyjaźni" X="16.9947357" Y="51.06678" />
+  <BusStop Id="16410" Name="KLECINA" Street="pętla" X="16.9873562" Y="51.0656738" />
+  <BusStop Id="16408" Name="Jedn. Wojskowa" Street="Przyjaźni" X="16.9947357" Y="51.06678" />
+  <BusStop Id="16406" Name="Braterska" Street="Przyjaźni" X="16.99956" Y="51.0676231" />
+  <BusStop Id="16404" Name="Przyjaźni" Street="Przyjaźni" X="17.0035534" Y="51.06851" />
+  <BusStop Id="16402" Name="Radio i Telewizja" Street="Karkonoska" X="17.00596" Y="51.07174" />
+  <BusStop Id="11660" Name="FAT" Street="Hallera" X="16.9803333" Y="51.0940781" />
+  <BusStop Id="11658" Name="Aleja Pracy" Street="Hallera" X="16.9867077" Y="51.09139" />
+  <BusStop Id="11652" Name="Ojca Beyzyma" Street="Hallera" X="16.9924469" Y="51.09042" />
+  <BusStop Id="11454" Name="Mielecka" Street="Hallera" X="17.0006084" Y="51.0895233" />
+  <BusStop Id="11452" Name="Gajowicka" Street="Hallera" X="17.00568" Y="51.08818" />
+  <BusStop Id="11252" Name="HALLERA" Street="Hallera" X="17.0115032" Y="51.0865173" />
+  <BusStop Id="10253" Name="Podwale" Street="Podwale" X="17.0254765" Y="51.10645" />
+  <BusStop Id="10411" Name="Dolmed" Street="Złotoryjska" X="17.0023575" Y="51.1141434" />
+  <BusStop Id="10413" Name="Śrubowa" Street="Śrubowa" X="17.0010929" Y="51.11232" />
+  <BusStop Id="12002" Name="Wrocławski Park Przemysłowy" Street="pętla" X="16.9934158" Y="51.11251" />
+  <BusStop Id="10414" Name="Śrubowa" Street="Robotnicza" X="17.000309" Y="51.11198" />
+  <BusStop Id="10412" Name="Dolmed" Street="Złotoryjska" X="17.0026646" Y="51.1143646" />
+  <BusStop Id="10104" Name="Rynek" Street="Nowy Świat" X="17.0272217" Y="51.1119766" />
+  <BusStop Id="10005" Name="Rynek" Street="Kazimierza Wlk." X="17.0269527" Y="51.1112061" />
+  <BusStop Id="10601" Name="Pomorska" Street="Pomorska" X="17.0319023" Y="51.11727" />
+  <BusStop Id="12411" Name="PILCZYCE" Street="pętla" X="16.9476662" Y="51.1367035" />
+  <BusStop Id="21154" Name="TARNOGAJ" Street="pętla" X="17.0643139" Y="51.0786743" />
+  <BusStop Id="21150" Name="Klimasa" Street="Tarnogajska" X="17.0624771" Y="51.0801659" />
+  <BusStop Id="21161" Name="Mostostal" Street="Armii Krajowej" X="17.0662327" Y="51.0855331" />
+  <BusStop Id="125007" Name="Park Wschodni" Street="Krakowska" X="17.0721989" Y="51.08489" />
+  <BusStop Id="25109" Name="Karwińska" Street="Opolska" X="17.07819" Y="51.0813751" />
+  <BusStop Id="25113" Name="KSIĘŻE MAŁE" Street="Opolska" X="17.0844116" Y="51.0770035" />
+  <BusStop Id="25141" Name="Księska" Street="Księska" X="17.0902023" Y="51.0764" />
+  <BusStop Id="25145" Name="Blizanowicka" Street="Księska" X="17.0927658" Y="51.07589" />
+  <BusStop Id="524943" Name="Starodworska" Street="Starodworska" X="17.108139" Y="51.0738335" />
+  <BusStop Id="524945" Name="Z.U.W." Street="Starodworska" X="17.1170444" Y="51.07221" />
+  <BusStop Id="524947" Name="MOKRY DWÓR" Street="pętla" X="17.1240711" Y="51.07122" />
+  <BusStop Id="524946" Name="Z.U.W." Street="Starodworska" X="17.11753" Y="51.07225" />
+  <BusStop Id="524944" Name="Starodworska" Street="Starodworska" X="17.10843" Y="51.07388" />
+  <BusStop Id="25146" Name="Blizanowicka" Street="Księska" X="17.0924168" Y="51.0760651" />
+  <BusStop Id="25142" Name="Księska" Street="Księska" X="17.0892181" Y="51.0767975" />
+  <BusStop Id="25114" Name="KSIĘŻE MAŁE" Street="Opolska" X="17.08364" Y="51.07785" />
+  <BusStop Id="25108" Name="Karwińska" Street="Krakowska" X="17.07644" Y="51.0825729" />
+  <BusStop Id="125008" Name="Park Wschodni" Street="Krakowska" X="17.0720482" Y="51.0851974" />
+  <BusStop Id="21162" Name="Mostostal" Street="Armii Krajowej" X="17.0652943" Y="51.0853539" />
+  <BusStop Id="21149" Name="Klimasa" Street="Tarnogajska" X="17.0623779" Y="51.0799065" />
+  <BusStop Id="10530" Name="Pl. SOLIDARNOŚCI" Street="pętla" X="17.0178185" Y="51.11341" />
+  <BusStop Id="10503" Name="Młodych Techników" Street="Legnicka" X="17.0126038" Y="51.1130371" />
+  <BusStop Id="10507" Name="ZACHODNIA (Stacja kolejowa)" Street="Legnicka" X="17.0013" Y="51.1160278" />
+  <BusStop Id="12301" Name="Niedźwiedzia" Street="Legnicka" X="16.99335" Y="51.1217041" />
+  <BusStop Id="12705" Name="Hutnicza" Street="Pilczycka" X="16.96489" Y="51.13774" />
+  <BusStop Id="12707" Name="Górnicza" Street="Pilczycka" X="16.9582615" Y="51.1406326" />
+  <BusStop Id="18501" Name="Dworska" Street="Pilczycka" X="16.95297" Y="51.1437759" />
+  <BusStop Id="18526" Name="Gosławicka" Street="Pilczycka" X="16.9491844" Y="51.1453362" />
+  <BusStop Id="18515" Name="Maślicka - Osiedle" Street="Maślicka" X="16.94675" Y="51.14823" />
+  <BusStop Id="18503" Name="Maślicka" Street="Maślicka" X="16.9453163" Y="51.1491165" />
+  <BusStop Id="18505" Name="Maślice Małe" Street="Maślicka" X="16.9401169" Y="51.152935" />
+  <BusStop Id="18517" Name="Śliwowa" Street="Maślicka" X="16.939" Y="51.1549034" />
+  <BusStop Id="18507" Name="Północna" Street="Maślicka" X="16.9335232" Y="51.1575623" />
+  <BusStop Id="18509" Name="Kozia" Street="Maślicka" X="16.92767" Y="51.157692" />
+  <BusStop Id="18533" Name="Brodzka" Street="Maślicka" X="16.92407" Y="51.1575775" />
+  <BusStop Id="18511" Name="Jędrzejowska" Street="Maślicka" X="16.916893" Y="51.15837" />
+  <BusStop Id="18701" Name="Chwałkowska" Street="Główna" X="16.9101467" Y="51.1598" />
+  <BusStop Id="18703" Name="Wełniana" Street="Główna" X="16.9044952" Y="51.1611862" />
+  <BusStop Id="18707" Name="Główna" Street="Stabłowicka" X="16.8966942" Y="51.16364" />
+  <BusStop Id="18709" Name="WEL-TEX" Street="Stabłowicka" X="16.8992481" Y="51.1675" />
+  <BusStop Id="18720" Name="Szkoła Podst. nr 22" Street="Stabłowicka" X="16.9018269" Y="51.17054" />
+  <BusStop Id="18711" Name="PRACZE ODRZAŃSKIE (Stacja kolejowa)" Street="Stabłowicka" X="16.9033966" Y="51.1721535" />
+  <BusStop Id="18714" Name="PRACZE ODRZAŃSKIE" Street="pętla" X="16.9066086" Y="51.17471" />
+  <BusStop Id="18712" Name="PRACZE ODRZAŃSKIE (Stacja kolejowa)" Street="Stabłowicka" X="16.9024982" Y="51.171402" />
+  <BusStop Id="18710" Name="WEL-TEX" Street="Stabłowicka" X="16.8986053" Y="51.16684" />
+  <BusStop Id="18706" Name="Główna" Street="Główna" X="16.89668" Y="51.1631737" />
+  <BusStop Id="18704" Name="Wełniana" Street="Główna" X="16.9052353" Y="51.1608467" />
+  <BusStop Id="18702" Name="Chwałkowska" Street="Główna" X="16.9107666" Y="51.1595268" />
+  <BusStop Id="18512" Name="Jędrzejowska" Street="Maślicka" X="16.9175682" Y="51.1581421" />
+  <BusStop Id="18518" Name="Brodzka" Street="Maślicka" X="16.9216461" Y="51.15765" />
+  <BusStop Id="18510" Name="Kozia" Street="Maślicka" X="16.9266872" Y="51.15752" />
+  <BusStop Id="18508" Name="Północna" Street="Maślicka" X="16.9344654" Y="51.1570358" />
+  <BusStop Id="18506" Name="Maślice Małe" Street="Maślicka" X="16.9395523" Y="51.1533165" />
+  <BusStop Id="18504" Name="Maślicka" Street="Maślicka" X="16.9455414" Y="51.14884" />
+  <BusStop Id="18516" Name="Maślicka - Osiedle" Street="Maślicka" X="16.9477444" Y="51.1475" />
+  <BusStop Id="18502" Name="Dworska" Street="Pilczycka" X="16.95227" Y="51.14368" />
+  <BusStop Id="12708" Name="Górnicza" Street="Pilczycka" X="16.95942" Y="51.1399078" />
+  <BusStop Id="12712" Name="Pałucka" Street="Kozanowska" X="16.9751644" Y="51.13427" />
+  <BusStop Id="12302" Name="Niedźwiedzia" Street="Legnicka" X="16.9934826" Y="51.1211624" />
+  <BusStop Id="10508" Name="ZACHODNIA (Stacja kolejowa)" Street="Legnicka" X="17.00045" Y="51.11607" />
+  <BusStop Id="10526" Name="pl. Strzegomski" Street="Poznańska" X="17.0063667" Y="51.1140366" />
+  <BusStop Id="10514" Name="Szczepin" Street="Zachodnia" X="17.0079727" Y="51.1171" />
+  <BusStop Id="10512" Name="Inowrocławska" Street="Zachodnia" X="17.0139656" Y="51.115593" />
+  <BusStop Id="24141" Name="KROMERA" Street="pętla" X="17.0656853" Y="51.1320267" />
+  <BusStop Id="23712" Name="Kasprowicza" Street="Kasprowicza" X="17.0537243" Y="51.1380119" />
+  <BusStop Id="23134" Name="Pola" Street="Kasprowicza" X="17.0431786" Y="51.1367226" />
+  <BusStop Id="23145" Name="Bezpieczna" Street="Obornicka" X="17.0256824" Y="51.1424637" />
+  <BusStop Id="23149" Name="Paprotna" Street="Obornicka" X="17.0206318" Y="51.1481857" />
+  <BusStop Id="23151" Name="Irysowa" Street="Obornicka" X="17.01739" Y="51.1514359" />
+  <BusStop Id="23501" Name="Centrostal" Street="Obornicka" X="17.0094929" Y="51.1582451" />
+  <BusStop Id="23503" Name="Ostowa" Street="Obornicka" X="17.0033722" Y="51.1622" />
+  <BusStop Id="23505" Name="OSOBOWICE (Stacja kolejowa)" Street="Pełczyńska" X="16.9987221" Y="51.1660919" />
+  <BusStop Id="23507" Name="Kominiarska" Street="Pełczyńska" X="16.9972038" Y="51.1691856" />
+  <BusStop Id="23509" Name="LIPA PIOTROWSKA" Street="Pełczyńska" X="16.9950867" Y="51.1727524" />
+  <BusStop Id="23511" Name="Tymiankowa" Street="Pełczyńska" X="16.9919529" Y="51.17658" />
+  <BusStop Id="23513" Name="Zajączkowska" Street="Zajączkowska" X="16.9781475" Y="51.19331" />
+  <BusStop Id="23515" Name="ŚWINIARY" Street="pętla" X="16.9751568" Y="51.1966476" />
+  <BusStop Id="23514" Name="Zajączkowska" Street="Zajączkowska" X="16.97792" Y="51.19285" />
+  <BusStop Id="23512" Name="Tymiankowa" Street="Pełczyńska" X="16.9916553" Y="51.1766357" />
+  <BusStop Id="23510" Name="LIPA PIOTROWSKA" Street="Pełczyńska" X="16.9946728" Y="51.1731339" />
+  <BusStop Id="23508" Name="Kominiarska" Street="Pełczyńska" X="16.99715" Y="51.16893" />
+  <BusStop Id="23506" Name="OSOBOWICE (Stacja kolejowa)" Street="Pełczyńska" X="16.9985981" Y="51.16595" />
+  <BusStop Id="23504" Name="Ostowa" Street="Obornicka" X="17.00242" Y="51.1625633" />
+  <BusStop Id="23502" Name="Centrostal" Street="Obornicka" X="17.0089664" Y="51.1584129" />
+  <BusStop Id="23152" Name="Irysowa" Street="Obornicka" X="17.0179" Y="51.15065" />
+  <BusStop Id="23150" Name="Paprotna" Street="Obornicka" X="17.0205441" Y="51.14776" />
+  <BusStop Id="23146" Name="Bezpieczna" Street="Obornicka" X="17.02638" Y="51.1413651" />
+  <BusStop Id="23131" Name="Broniewskiego" Street="Kasprowicza" X="17.0373878" Y="51.1358566" />
+  <BusStop Id="23133" Name="Pola" Street="Kasprowicza" X="17.0447025" Y="51.1367531" />
+  <BusStop Id="23704" Name="Kasprowicza" Street="Kasprowicza" X="17.0536747" Y="51.13787" />
+  <BusStop Id="23713" Name="PL. DANIŁOWSKIEGO" Street="Kasprowicza" X="17.05909" Y="51.1385269" />
+  <BusStop Id="10551" Name="DW. ŚWIEBODZKI" Street="pętla" X="17.0176735" Y="51.1084976" />
+  <BusStop Id="10543" Name="Centrozłom" Street="Robotnicza" X="17.0082951" Y="51.1095734" />
+  <BusStop Id="10545" Name="Śrubowa" Street="Robotnicza" X="17.0001144" Y="51.11191" />
+  <BusStop Id="12103" Name="Dolnośląska Szkoła Wyższa" Street="Robotnicza" X="16.9905815" Y="51.11363" />
+  <BusStop Id="12105" Name="Wyższa Szkoła Bankowa" Street="Strzegomska" X="16.9780426" Y="51.1142464" />
+  <BusStop Id="12107" Name="Nowodworska" Street="Strzegomska" X="16.96477" Y="51.1138725" />
+  <BusStop Id="12109" Name="Nowy Dwór/krzyżówka" Street="Strzegomska" X="16.9592533" Y="51.1118927" />
+  <BusStop Id="12111" Name="Muchobór Mały" Street="Strzegomska" X="16.9542141" Y="51.10964" />
+  <BusStop Id="17311" Name="Mińska - Rondo" Street="Mińska" X="16.9489346" Y="51.1053123" />
+  <BusStop Id="17301" Name="Mińska" Street="Mińska" X="16.945549" Y="51.1031036" />
+  <BusStop Id="17303" Name="Muchobór Wielki" Street="Stanisławowska" X="16.94128" Y="51.09887" />
+  <BusStop Id="17305" Name="Stanisławowska" Street="Stanisławowska" X="16.9468536" Y="51.0968437" />
+  <BusStop Id="17315" Name="Trawowa" Street="Krzemieniecka" X="16.9502316" Y="51.0970879" />
+  <BusStop Id="17307" Name="Krzemieniecka" Street="Krzemieniecka" X="16.956955" Y="51.0963821" />
+  <BusStop Id="17309" Name="Końcowa" Street="Krzemieniecka" X="16.9624577" Y="51.0958252" />
+  <BusStop Id="11714" Name="Ostrowskiego" Street="Ostrowskiego" X="16.9732285" Y="51.0951157" />
+  <BusStop Id="11719" Name="GRABISZYŃSKA (Cmentarz)" Street="Grabiszyńska" X="16.9766483" Y="51.08991" />
+  <BusStop Id="11731" Name="GRABISZYŃSKA (Cmentarz II)" Street="Grabiszyńska" X="16.975359" Y="51.0877876" />
+  <BusStop Id="11729" Name="OPORÓW" Street="Grabiszyńska" X="16.9711666" Y="51.0841331" />
+  <BusStop Id="17103" Name="Wiejska" Street="Solskiego" X="16.9641132" Y="51.07818" />
+  <BusStop Id="17113" Name="Adamieckiego" Street="Karmelkowa" X="16.96366" Y="51.073288" />
+  <BusStop Id="17115" Name="Morelowskiego" Street="Karmelkowa" X="16.9689579" Y="51.0696869" />
+  <BusStop Id="16723" Name="Kobierzycka" Street="Kobierzycka" X="16.9834156" Y="51.0628662" />
+  <BusStop Id="16725" Name="KLECINA (Stacja kolejowa)" Street="pętla" X="16.986845" Y="51.0562019" />
+  <BusStop Id="16724" Name="KLECINA (Stacja kolejowa)" Street="pętla" X="16.9878769" Y="51.05797" />
+  <BusStop Id="16722" Name="Kobierzycka" Street="Kobierzycka" X="16.98338" Y="51.0629959" />
+  <BusStop Id="17116" Name="Morelowskiego" Street="Karmelkowa" X="16.96826" Y="51.0702324" />
+  <BusStop Id="17114" Name="Adamieckiego" Street="Karmelkowa" X="16.9630013" Y="51.0742645" />
+  <BusStop Id="11730" Name="OPORÓW" Street="Grabiszyńska" X="16.97139" Y="51.0841827" />
+  <BusStop Id="11720" Name="GRABISZYŃSKA (Cmentarz)" Street="Grabiszyńska" X="16.9766674" Y="51.0896263" />
+  <BusStop Id="11728" Name="Fiołkowa" Street="Grabiszyńska" X="16.97829" Y="51.0930824" />
+  <BusStop Id="11711" Name="FAT" Street="Ostrowskiego" X="16.97781" Y="51.094574" />
+  <BusStop Id="11713" Name="Ostrowskiego" Street="Ostrowskiego" X="16.9728851" Y="51.0953" />
+  <BusStop Id="17310" Name="Końcowa" Street="Krzemieniecka" X="16.9621563" Y="51.0959854" />
+  <BusStop Id="17308" Name="Krzemieniecka" Street="Kunickiego" X="16.9549561" Y="51.0967178" />
+  <BusStop Id="17316" Name="Trawowa" Street="Krzemieniecka" X="16.94976" Y="51.0972176" />
+  <BusStop Id="17306" Name="Stanisławowska" Street="Stanisławowska" X="16.9469032" Y="51.09695" />
+  <BusStop Id="17304" Name="Muchobór Wielki" Street="Stanisławowska" X="16.9415588" Y="51.09893" />
+  <BusStop Id="17302" Name="Mińska" Street="Mińska" X="16.9462185" Y="51.1035271" />
+  <BusStop Id="17312" Name="Mińska - Rondo" Street="Mińska" X="16.9502048" Y="51.1060867" />
+  <BusStop Id="12112" Name="Muchobór Mały" Street="Strzegomska" X="16.9535618" Y="51.1091652" />
+  <BusStop Id="12110" Name="Nowy Dwór/krzyżówka" Street="Strzegomska" X="16.9614754" Y="51.11243" />
+  <BusStop Id="12108" Name="Nowodworska" Street="Strzegomska" X="16.9660282" Y="51.1140671" />
+  <BusStop Id="12106" Name="Wyższa Szkoła Bankowa" Street="Strzegomska" X="16.9793568" Y="51.11415" />
+  <BusStop Id="12100" Name="Strzegomska 56" Street="Strzegomska" X="16.9846458" Y="51.1143036" />
+  <BusStop Id="12104" Name="Dolnośląska Szkoła Wyższa" Street="Wagonowa" X="16.9887161" Y="51.11248" />
+  <BusStop Id="12102" Name="Wrocławski Park Przemysłowy" Street="Fabryczna" X="16.994236" Y="51.11257" />
+  <BusStop Id="10546" Name="Śrubowa" Street="Robotnicza" X="17.0030251" Y="51.1112862" />
+  <BusStop Id="10544" Name="Centrozłom" Street="Robotnicza" X="17.00896" Y="51.10912" />
+  <BusStop Id="10541" Name="DW. ŚWIEBODZKI" Street="pętla" X="17.0180721" Y="51.1085854" />
+  <BusStop Id="12122a" Name="Nowy Dwór/krzyżówka" Street="Strzegomska" X="16.96118" Y="51.1125336" />
+  <BusStop Id="12123" Name="Chociebuska" Street="Chociebuska" X="16.9585667" Y="51.1157875" />
+  <BusStop Id="12125" Name="NOWY DWÓR" Street="Rogowska" X="16.9548759" Y="51.11863" />
+  <BusStop Id="12127" Name="Kołobrzeska" Street="Żernicka" X="16.9449673" Y="51.1212" />
+  <BusStop Id="17701" Name="Szczecińska" Street="Żernicka" X="16.9307842" Y="51.1225548" />
+  <BusStop Id="17703" Name="Żerniki" Street="Żernicka" X="16.9229565" Y="51.12364" />
+  <BusStop Id="17705" Name="Strachowicka" Street="Żernicka" X="16.919075" Y="51.12352" />
+  <BusStop Id="17707" Name="Jerzmanowska" Street="Jerzmanowska" X="16.9098969" Y="51.1260872" />
+  <BusStop Id="17709" Name="JERZMANOWSKA - BAZA" Street="Jerzmanowska" X="16.9024734" Y="51.1273" />
+  <BusStop Id="17711" Name="JERZMANOWO (Cmentarz I)" Street="Jerzmanowska" X="16.8838043" Y="51.1236267" />
+  <BusStop Id="17713" Name="Jerzmanowo" Street="Jerzmanowska" X="16.8766384" Y="51.1209946" />
+  <BusStop Id="17715" Name="Adamczewskich" Street="Jerzmanowska" X="16.8695679" Y="51.1209564" />
+  <BusStop Id="17717" Name="Kośnego" Street="Jerzmanowska" X="16.8640175" Y="51.1207161" />
+  <BusStop Id="17719" Name="Jarnołtowska" Street="Jarnołtowska" X="16.855835" Y="51.1203" />
+  <BusStop Id="17721" Name="Samotworska" Street="Jarnołtowska" X="16.848978" Y="51.1201172" />
+  <BusStop Id="17723" Name="JARNOŁTÓW" Street="pętla" X="16.84394" Y="51.12142" />
+  <BusStop Id="17722" Name="Samotworska" Street="Jarnołtowska" X="16.848505" Y="51.12011" />
+  <BusStop Id="17720" Name="Jarnołtowska" Street="Jarnołtowska" X="16.8565273" Y="51.12024" />
+  <BusStop Id="17718" Name="Kośnego" Street="Jerzmanowska" X="16.8631458" Y="51.1204529" />
+  <BusStop Id="17716" Name="Adamczewskich" Street="Jerzmanowska" X="16.8695412" Y="51.12085" />
+  <BusStop Id="17714" Name="Jerzmanowo" Street="Jerzmanowska" X="16.876646" Y="51.12085" />
+  <BusStop Id="17728" Name="JERZMANOWO (Cmentarz II)" Street="Jerzmanowska" X="16.8827953" Y="51.1231956" />
+  <BusStop Id="17712" Name="JERZMANOWO (Cmentarz I)" Street="Jerzmanowska" X="16.8860149" Y="51.124115" />
+  <BusStop Id="17710" Name="JERZMANOWSKA - BAZA" Street="Jerzmanowska" X="16.9006023" Y="51.1275253" />
+  <BusStop Id="17708" Name="Jerzmanowska" Street="Jerzmanowska" X="16.909" Y="51.1261253" />
+  <BusStop Id="17706" Name="Strachowicka" Street="Żernicka" X="16.91688" Y="51.12368" />
+  <BusStop Id="17704" Name="Żerniki" Street="Żernicka" X="16.92484" Y="51.1230965" />
+  <BusStop Id="17702" Name="Szczecińska" Street="Żernicka" X="16.9310017" Y="51.1224556" />
+  <BusStop Id="12128" Name="Kołobrzeska" Street="Żernicka" X="16.94542" Y="51.1210365" />
+  <BusStop Id="12126" Name="NOWY DWÓR" Street="Rogowska" X="16.9537945" Y="51.1186562" />
+  <BusStop Id="12124" Name="Chociebuska" Street="Chociebuska" X="16.958065" Y="51.1146774" />
+  <BusStop Id="21122" Name="DWORZEC GŁ. PKP" Street="Sucha" X="17.0350971" Y="51.0972481" />
+  <BusStop Id="21123" Name="Hubska" Street="Hubska" X="17.0435848" Y="51.0917625" />
+  <BusStop Id="21125" Name="Kamienna" Street="Bardzka" X="17.0479774" Y="51.0849953" />
+  <BusStop Id="21127" Name="Krynicka" Street="Bardzka" X="17.050684" Y="51.0798" />
+  <BusStop Id="21129" Name="Morwowa" Street="Bardzka" X="17.052475" Y="51.0754471" />
+  <BusStop Id="21135" Name="Cmentarz św. Ducha" Street="Bardzka" X="17.0532112" Y="51.0722351" />
+  <BusStop Id="26101" Name="Buforowa" Street="Buforowa" X="17.0537128" Y="51.07061" />
+  <BusStop Id="26103" Name="Jagodno" Street="Buforowa" X="17.0565052" Y="51.05872" />
+  <BusStop Id="26105" Name="Lamowice" Street="Buforowa" X="17.0594482" Y="51.049427" />
+  <BusStop Id="524902" Name="Iwiny" Street="Strzelińska" X="17.0609436" Y="51.0451546" />
+  <BusStop Id="26106" Name="Lamowice" Street="Buforowa" X="17.0594254" Y="51.0498352" />
+  <BusStop Id="26104" Name="Jagodno" Street="Buforowa" X="17.0564537" Y="51.059227" />
+  <BusStop Id="26102" Name="Buforowa" Street="Buforowa" X="17.0539627" Y="51.07046" />
+  <BusStop Id="21136" Name="Cmentarz św. Ducha" Street="Bardzka" X="17.0533276" Y="51.07285" />
+  <BusStop Id="21130" Name="Morwowa" Street="Bardzka" X="17.0524445" Y="51.0759621" />
+  <BusStop Id="21128" Name="Krynicka" Street="Bardzka" X="17.0506172" Y="51.0804672" />
+  <BusStop Id="21126" Name="Kamienna" Street="Hubska" X="17.0470161" Y="51.0861855" />
+  <BusStop Id="21124" Name="Hubska" Street="Hubska" X="17.0438843" Y="51.09165" />
+  <BusStop Id="20362" Name="DWORZEC GŁ. PKP" Street="pętla" X="17.03434" Y="51.0991936" />
+  <BusStop Id="21101" Name="Dyrekcyjna" Street="Gliniana" X="17.0322342" Y="51.0943069" />
+  <BusStop Id="21103" Name="Borowska" Street="Borowska" X="17.0339012" Y="51.0893135" />
+  <BusStop Id="21117" Name="P.O.D. Bajki" Street="Borowska" X="17.0343761" Y="51.0825348" />
+  <BusStop Id="21107" Name="Jabłeczna" Street="Borowska" X="17.0338345" Y="51.07776" />
+  <BusStop Id="21109" Name="Akademia Medyczna" Street="Borowska" X="17.0325527" Y="51.07473" />
+  <BusStop Id="26301" Name="Przystankowa" Street="Grota-Roweckiego" X="17.0322647" Y="51.07052" />
+  <BusStop Id="26303" Name="Wojszyce" Street="Grota-Roweckiego" X="17.032032" Y="51.06649" />
+  <BusStop Id="26305" Name="Parafialna" Street="Grota-Roweckiego" X="17.0321312" Y="51.063015" />
+  <BusStop Id="26321" Name="Oboźna" Street="Grota-Roweckiego" X="17.0324688" Y="51.0596962" />
+  <BusStop Id="26307" Name="Gałczyńskiego" Street="Grota-Roweckiego" X="17.03225" Y="51.05523" />
+  <BusStop Id="26309" Name="Roweckiego" Street="Kurpiów" X="17.0301743" Y="51.0508" />
+  <BusStop Id="26311" Name="Kurpiów" Street="Kurpiów" X="17.02689" Y="51.05468" />
+  <BusStop Id="26313" Name="Ołtaszyn" Street="Kurpiów" X="17.0237961" Y="51.0567932" />
+  <BusStop Id="26315" Name="Strachowskiego" Street="Strachowskiego" X="17.0148048" Y="51.05843" />
+  <BusStop Id="26317" Name="Zwycięska" Street="Zwycięska" X="17.0060081" Y="51.05965" />
+  <BusStop Id="16510" Name="Partynice" Street="Karkonoska" X="16.99765" Y="51.061554" />
+  <BusStop Id="16512" Name="Przyjaźni" Street="Karkonoska" X="17.00475" Y="51.0687752" />
+  <BusStop Id="11312" Name="KRZYKI" Street="pętla" X="17.0067062" Y="51.07439" />
+  <BusStop Id="16511" Name="Przyjaźni" Street="Karkonoska" X="17.0037785" Y="51.06787" />
+  <BusStop Id="26320" Name="Partynice" Street="Zwycięska" X="16.9985142" Y="51.0608635" />
+  <BusStop Id="26318" Name="Zwycięska" Street="Zwycięska" X="17.0066566" Y="51.05949" />
+  <BusStop Id="26316" Name="Strachowskiego" Street="Strachowskiego" X="17.0156574" Y="51.0582428" />
+  <BusStop Id="26314" Name="Ołtaszyn" Street="Kurpiów" X="17.0249672" Y="51.0565071" />
+  <BusStop Id="26312" Name="Kurpiów" Street="Kurpiów" X="17.0271168" Y="51.05405" />
+  <BusStop Id="26310" Name="Roweckiego" Street="Kurpiów" X="17.029932" Y="51.0508575" />
+  <BusStop Id="26308" Name="Gałczyńskiego" Street="Grota-Roweckiego" X="17.0322323" Y="51.054306" />
+  <BusStop Id="26322" Name="Oboźna" Street="Grota-Roweckiego" X="17.0326" Y="51.0582581" />
+  <BusStop Id="26306" Name="Parafialna" Street="Grota-Roweckiego" X="17.0323086" Y="51.0628166" />
+  <BusStop Id="26304" Name="Wojszyce" Street="Grota-Roweckiego" X="17.032198" Y="51.065918" />
+  <BusStop Id="26302" Name="Przystankowa" Street="Grota-Roweckiego" X="17.0324421" Y="51.0705261" />
+  <BusStop Id="21110" Name="Akademia Medyczna" Street="Borowska" X="17.0330639" Y="51.075264" />
+  <BusStop Id="21118" Name="P.O.D. Bajki" Street="Borowska" X="17.0353" Y="51.0839" />
+  <BusStop Id="21104" Name="Borowska" Street="Borowska" X="17.0341454" Y="51.0893021" />
+  <BusStop Id="25314" Name="BIEŃKOWICE" Street="pętla" X="17.0910244" Y="51.0477142" />
+  <BusStop Id="25312" Name="Ziemniaczana" Street="Ziemniaczana" X="17.0926743" Y="51.0515" />
+  <BusStop Id="25320" Name="Sadowa" Street="Mościckiego" X="17.0935287" Y="51.0530319" />
+  <BusStop Id="25310" Name="BROCHÓW" Street="Mościckiego" X="17.0864811" Y="51.0589752" />
+  <BusStop Id="25316" Name="Chińska" Street="Chińska" X="17.0832367" Y="51.0604362" />
+  <BusStop Id="25306" Name="BROCHÓW (Stacja kolejowa)" Street="Mościckiego" X="17.0837479" Y="51.06361" />
+  <BusStop Id="25304" Name="Topolowa" Street="Mościckiego" X="17.0804234" Y="51.06947" />
+  <BusStop Id="25302" Name="Wiaduktowa" Street="Mościckiego" X="17.0764084" Y="51.07522" />
+  <BusStop Id="125004" Name="Praktiker/Sconto" Street="Krakowska" X="17.0657234" Y="51.0895729" />
+  <BusStop Id="25102" Name="Krakowska" Street="Krakowska" X="17.0611553" Y="51.0927544" />
+  <BusStop Id="20326" Name="Na Niskich Łąkach" Street="Kościuszki" X="17.0554943" Y="51.0972862" />
+  <BusStop Id="20324" Name="Świstackiego" Street="Komuny Paryskiej" X="17.0509033" Y="51.0995636" />
+  <BusStop Id="20322" Name="Komuny Paryskiej" Street="Komuny Paryskiej" X="17.0474377" Y="51.10153" />
+  <BusStop Id="10121" Name="GALERIA DOMINIKAŃSKA" Street="pętla" X="17.0399151" Y="51.10892" />
+  <BusStop Id="20321" Name="DWORCOWA" Street="Kościuszki" X="17.0403938" Y="51.1011848" />
+  <BusStop Id="20317" Name="Kościuszki" Street="Kościuszki" X="17.0444221" Y="51.1000481" />
+  <BusStop Id="120213" Name="Świstackiego" Street="Kościuszki" X="17.0501385" Y="51.09901" />
+  <BusStop Id="120215" Name="Na Niskich Łąkach" Street="Kościuszki" X="17.0554543" Y="51.09706" />
+  <BusStop Id="25101" Name="Krakowska" Street="Krakowska" X="17.06025" Y="51.0931969" />
+  <BusStop Id="125003" Name="Praktiker/Sconto" Street="Krakowska" X="17.06599" Y="51.08911" />
+  <BusStop Id="25111" Name="Karwińska" Street="Karwińska" X="17.0767384" Y="51.08128" />
+  <BusStop Id="25301" Name="Wiaduktowa" Street="Mościckiego" X="17.0760975" Y="51.07546" />
+  <BusStop Id="25303" Name="Topolowa" Street="Mościckiego" X="17.0801182" Y="51.069603" />
+  <BusStop Id="45305" Name="BROCHÓW (Stacja kolejowa)" Street="Mościckiego" X="17.0835056" Y="51.06371" />
+  <BusStop Id="45307" Name="Chińska" Street="Birmańska" X="17.0836849" Y="51.0612831" />
+  <BusStop Id="25309" Name="BROCHÓW" Street="pętla" X="17.08729" Y="51.058918" />
+  <BusStop Id="25319" Name="Sadowa" Street="Mościckiego" X="17.0931644" Y="51.05322" />
+  <BusStop Id="25311" Name="Ziemniaczana" Street="Ziemniaczana" X="17.09233" Y="51.0511627" />
+  <BusStop Id="20922" Name="PL. GRUNWALDZKI" Street="pętla" X="17.062891" Y="51.11206" />
+  <BusStop Id="20913" Name="Kliniki" Street="Curie-Skłodowskiej" X="17.0665379" Y="51.1090965" />
+  <BusStop Id="124421" Name="Mickiewicza" Street="Mickiewicza" X="17.0725784" Y="51.10852" />
+  <BusStop Id="24311" Name="Park Szczytnicki" Street="Mickiewicza" X="17.08303" Y="51.1115532" />
+  <BusStop Id="24313" Name="9 Maja" Street="Mickiewicza" X="17.092289" Y="51.1135635" />
+  <BusStop Id="24315" Name="SĘPOLNO" Street="Mickiewicza" X="17.1033382" Y="51.11365" />
+  <BusStop Id="24701" Name="Monopolowa" Street="Swojczycka" X="17.111639" Y="51.11539" />
+  <BusStop Id="24703" Name="Stacja Paliw" Street="Swojczycka" X="17.11619" Y="51.1142044" />
+  <BusStop Id="24705" Name="Węglowa" Street="Swojczycka" X="17.12228" Y="51.1134644" />
+  <BusStop Id="24707" Name="Swojczyce" Street="Swojczycka" X="17.12882" Y="51.1145859" />
+  <BusStop Id="24721" Name="Mikołowska" Street="Strachocińska" X="17.1368065" Y="51.1108" />
+  <BusStop Id="24709" Name="Niedziałkowskiego" Street="Strachocińska" X="17.1396332" Y="51.10876" />
+  <BusStop Id="24711" Name="Zagrodnicza" Street="Strachocińska" X="17.1422443" Y="51.10718" />
+  <BusStop Id="24719" Name="Kmieca" Street="Strachocińska" X="17.14667" Y="51.1046448" />
+  <BusStop Id="24713" Name="Smocza" Street="Strachocińska" X="17.1541233" Y="51.1035271" />
+  <BusStop Id="24715" Name="Strumykowa" Street="Strachocińska" X="17.1571922" Y="51.10157" />
+  <BusStop Id="24718" Name="WOJNÓW" Street="Strachocińska" X="17.1640472" Y="51.097126" />
+  <BusStop Id="24716" Name="Strumykowa" Street="Strachocińska" X="17.1576977" Y="51.10142" />
+  <BusStop Id="24714" Name="Smocza" Street="Strachocińska" X="17.1547451" Y="51.103363" />
+  <BusStop Id="24720" Name="Kmieca" Street="Strachocińska" X="17.1457424" Y="51.1052361" />
+  <BusStop Id="24712" Name="Zagrodnicza" Street="Strachocińska" X="17.1432381" Y="51.1067352" />
+  <BusStop Id="24710" Name="Niedziałkowskiego" Street="Strachocińska" X="17.138422" Y="51.1095352" />
+  <BusStop Id="24722" Name="Mikołowska" Street="Strachocińska" X="17.1367874" Y="51.1111755" />
+  <BusStop Id="24708" Name="Swojczyce" Street="Swojczycka" X="17.12811" Y="51.1147957" />
+  <BusStop Id="24706" Name="Węglowa" Street="Swojczycka" X="17.1213379" Y="51.11356" />
+  <BusStop Id="24704" Name="Stacja Paliw" Street="Swojczycka" X="17.1170845" Y="51.1141052" />
+  <BusStop Id="24702" Name="Monopolowa" Street="Swojczycka" X="17.1112175" Y="51.1154671" />
+  <BusStop Id="24316" Name="SĘPOLNO" Street="Mickiewicza" X="17.1037941" Y="51.1137733" />
+  <BusStop Id="24314" Name="9 Maja" Street="Mickiewicza" X="17.0911026" Y="51.11355" />
+  <BusStop Id="24312" Name="Park Szczytnicki" Street="Mickiewicza" X="17.0821743" Y="51.11141" />
+  <BusStop Id="24532" Name="Mickiewicza" Street="Mickiewicza" X="17.0747528" Y="51.1092758" />
+  <BusStop Id="20914" Name="Kliniki" Street="Curie-Skłodowskiej" X="17.0661144" Y="51.1094437" />
+  <BusStop Id="20921" Name="PL. GRUNWALDZKI" Street="pętla" X="17.0625534" Y="51.11196" />
+  <BusStop Id="24305" Name="Zacisze" Street="Kochanowskiego" X="17.0782433" Y="51.1242" />
+  <BusStop Id="24114" Name="Kwidzyńska" Street="Toruńska" X="17.07796" Y="51.131588" />
+  <BusStop Id="23701" Name="Berenta" Street="Boya-Żeleńskiego" X="17.0577774" Y="51.1349754" />
+  <BusStop Id="23717" Name="Sołtysowicka" Street="Sołtysowicka" X="17.0701065" Y="51.1403122" />
+  <BusStop Id="23727" Name="Urząd Celny" Street="Sołtysowicka" X="17.0709171" Y="51.1424561" />
+  <BusStop Id="23719" Name="Poprzeczna" Street="Sołtysowicka" X="17.0742035" Y="51.1466141" />
+  <BusStop Id="23721" Name="Redycka" Street="Redycka" X="17.0752182" Y="51.14917" />
+  <BusStop Id="23723" Name="Bagatela" Street="Redycka" X="17.0693932" Y="51.1527672" />
+  <BusStop Id="23730" Name="SOŁTYSOWICE" Street="Redycka" X="17.0644264" Y="51.1551743" />
+  <BusStop Id="23724" Name="Bagatela" Street="Redycka" X="17.0700626" Y="51.1522179" />
+  <BusStop Id="23722" Name="Redycka" Street="Redycka" X="17.0755749" Y="51.14869" />
+  <BusStop Id="23720" Name="Poprzeczna" Street="Sołtysowicka" X="17.0729675" Y="51.1457863" />
+  <BusStop Id="23728" Name="Urząd Celny" Street="Sołtysowicka" X="17.0713577" Y="51.1438179" />
+  <BusStop Id="23718" Name="Sołtysowicka" Street="Sołtysowicka" X="17.06988" Y="51.140274" />
+  <BusStop Id="23702" Name="Berenta" Street="Boya-Żeleńskiego" X="17.0564728" Y="51.1355057" />
+  <BusStop Id="24111" Name="KROMERA" Street="Toruńska" X="17.0652122" Y="51.13177" />
+  <BusStop Id="24306" Name="Zacisze" Street="Kochanowskiego" X="17.0778255" Y="51.1243553" />
+  <BusStop Id="18385" Name="LEŚNICA" Street="pętla" X="16.8714314" Y="51.1447945" />
+  <BusStop Id="18389" Name="RUBCZAKA (Stacja kolejowa)" Street="Rubczaka" X="16.8663845" Y="51.14331" />
+  <BusStop Id="18391" Name="Rubczaka" Street="Rubczaka" X="16.8655472" Y="51.1443825" />
+  <BusStop Id="18313" Name="TRZMIELOWICKA (Stacja kolejowa)" Street="Trzmielowicka" X="16.86381" Y="51.1434021" />
+  <BusStop Id="18315" Name="Trzmielowicka" Street="Trzmielowicka" X="16.8553352" Y="51.1417122" />
+  <BusStop Id="18307" Name="Pustecka" Street="Miodowa" X="16.85392" Y="51.13997" />
+  <BusStop Id="18317" Name="Miodowa" Street="Miodowa" X="16.8489456" Y="51.1355629" />
+  <BusStop Id="18319" Name="Szkolna" Street="Szkolna" X="16.8481236" Y="51.1325645" />
+  <BusStop Id="18329" Name="Ratyń - skrzyżowanie" Street="Szkolna" X="16.847599" Y="51.13067" />
+  <BusStop Id="18321" Name="Ratyń - skrzyżowanie" Street="Gromadzka" X="16.8477669" Y="51.12959" />
+  <BusStop Id="18323" Name="Gromadzka" Street="Gromadzka" X="16.854887" Y="51.1292343" />
+  <BusStop Id="18325" Name="RATYŃ" Street="Gromadzka" X="16.8606644" Y="51.1296844" />
+  <BusStop Id="98325" Name="RATYŃ" Street="pętla" X="16.8604927" Y="51.1297646" />
+  <BusStop Id="18324" Name="Gromadzka" Street="Gromadzka" X="16.8538761" Y="51.12925" />
+  <BusStop Id="18322" Name="Ratyń - skrzyżowanie" Street="Gromadzka" X="16.8480034" Y="51.1296" />
+  <BusStop Id="18320" Name="Szkolna" Street="Szkolna" X="16.8481789" Y="51.13161" />
+  <BusStop Id="18318" Name="Miodowa" Street="Miodowa" X="16.8487473" Y="51.13515" />
+  <BusStop Id="18316" Name="Trzmielowicka" Street="Trzmielowicka" X="16.8546143" Y="51.14096" />
+  <BusStop Id="18314" Name="TRZMIELOWICKA (Stacja kolejowa)" Street="Trzmielowicka" X="16.8625259" Y="51.1427536" />
+  <BusStop Id="18392" Name="Rubczaka" Street="Rubczaka" X="16.8657036" Y="51.1443558" />
+  <BusStop Id="18390" Name="RUBCZAKA (Stacja kolejowa)" Street="Rubczaka" X="16.8669052" Y="51.1430359" />
+  <BusStop Id="18388" Name="LEŚNICA" Street="pętla" X="16.8715611" Y="51.1446762" />
+  <BusStop Id="23309" Name="RĘDZIN" Street="Wędkarzy" X="16.9667416" Y="51.166153" />
+  <BusStop Id="23308" Name="Las Osobowicki" Street="Osobowicka" X="16.9838352" Y="51.14798" />
+  <BusStop Id="23306" Name="Lipska" Street="Osobowicka" X="16.9871311" Y="51.1443329" />
+  <BusStop Id="23304" Name="Jarocińska" Street="Osobowicka" X="16.99061" Y="51.1419258" />
+  <BusStop Id="23302" Name="OSOBOWICE" Street="Osobowicka" X="16.9936657" Y="51.13748" />
+  <BusStop Id="123008" Name="OSOBOWICKA (Cmentarz)" Street="Osobowicka" X="17.0055561" Y="51.13509" />
+  <BusStop Id="123006" Name="OSOBOWICKA (Cmentarz II)" Street="Osobowicka" X="17.01096" Y="51.13454" />
+  <BusStop Id="23115" Name="Bezpieczna" Street="Bezpieczna" X="17.0254688" Y="51.14125" />
+  <BusStop Id="24133" Name="Brücknera" Street="Brücknera" X="17.08179" Y="51.13846" />
+  <BusStop Id="24129" Name="C.H. Korona" Street="Kowalska" X="17.0940914" Y="51.14045" />
+  <BusStop Id="24125" Name="Kowale (Stacja kolejowa)" Street="Kowalska" X="17.1022167" Y="51.13394" />
+  <BusStop Id="24121" Name="Działdowska" Street="Kowalska" X="17.105442" Y="51.1331749" />
+  <BusStop Id="24123" Name="Tczewska" Street="Kowalska" X="17.1119537" Y="51.13061" />
+  <BusStop Id="24127" Name="Kowalska" Street="Kowalska" X="17.1136341" Y="51.1290169" />
+  <BusStop Id="24726" Name="Ceglana" Street="Miłoszycka" X="17.12182" Y="51.1197472" />
+  <BusStop Id="24724" Name="Miłoszycka" Street="Miłoszycka" X="17.12651" Y="51.1167068" />
+  <BusStop Id="24321" Name="SĘPOLNO" Street="pętla" X="17.1039982" Y="51.1138763" />
+  <BusStop Id="24723" Name="Miłoszycka" Street="Miłoszycka" X="17.12715" Y="51.1165657" />
+  <BusStop Id="24725" Name="Ceglana" Street="Miłoszycka" X="17.1219521" Y="51.11983" />
+  <BusStop Id="24128" Name="Kowalska" Street="Kowalska" X="17.1131287" Y="51.12966" />
+  <BusStop Id="24124" Name="Tczewska" Street="Kowalska" X="17.1111736" Y="51.13147" />
+  <BusStop Id="24122" Name="Działdowska" Street="Kowalska" X="17.1057987" Y="51.1331635" />
+  <BusStop Id="24126" Name="Kowale (Stacja kolejowa)" Street="Kowalska" X="17.1016827" Y="51.1341743" />
+  <BusStop Id="24130" Name="KOWALSKA (Urząd Pocztowy)" Street="Kowalska" X="17.0974064" Y="51.13648" />
+  <BusStop Id="24108" Name="C.H. Korona" Street="Krzywoustego" X="17.0871124" Y="51.1408463" />
+  <BusStop Id="24134" Name="Brücknera" Street="Brücknera" X="17.0814285" Y="51.138588" />
+  <BusStop Id="23116" Name="Bezpieczna" Street="Bezpieczna" X="17.02508" Y="51.141243" />
+  <BusStop Id="23105" Name="OSOBOWICKA (Cmentarz II)" Street="Osobowicka" X="17.0091248" Y="51.1349068" />
+  <BusStop Id="23107" Name="OSOBOWICKA (Cmentarz)" Street="Osobowicka" X="17.004261" Y="51.13546" />
+  <BusStop Id="23301" Name="OSOBOWICE" Street="Osobowicka" X="16.9936466" Y="51.1376572" />
+  <BusStop Id="23303" Name="Jarocińska" Street="Osobowicka" X="16.99022" Y="51.14231" />
+  <BusStop Id="23305" Name="Lipska" Street="Osobowicka" X="16.9867744" Y="51.1448174" />
+  <BusStop Id="23307" Name="Las Osobowicki" Street="Osobowicka" X="16.9842186" Y="51.14782" />
+  <BusStop Id="23716" Name="Czajkowskiego" Street="Czajkowskiego" X="17.0662479" Y="51.13883" />
+  <BusStop Id="23109" Name="Most Milenijny" Street="Milenijna" X="16.9992924" Y="51.13652" />
+  <BusStop Id="12319" Name="Hala Orbita" Street="Milenijna" X="16.9894447" Y="51.1323547" />
+  <BusStop Id="12317" Name="Wejherowska" Street="Wejherowska" X="16.9853344" Y="51.1291771" />
+  <BusStop Id="12529" Name="Na Ostatnim Groszu" Street="Na Ostatnim Groszu" X="16.9748459" Y="51.12256" />
+  <BusStop Id="12533" Name="Gądowianka" Street="Estakada" X="16.9710922" Y="51.11924" />
+  <BusStop Id="11716" Name="Ostrowskiego" Street="Petuniowa" X="16.9728527" Y="51.095726" />
+  <BusStop Id="11727" Name="Aleja Pracy" Street="Hallera" X="16.98656" Y="51.0912857" />
+  <BusStop Id="11744" Name="Ojca Beyzyma" Street="Hallera" X="16.9921379" Y="51.0903435" />
+  <BusStop Id="11741" Name="Aleja Wędrowców" Street="Ojca Beyzyma" X="16.9918842" Y="51.08801" />
+  <BusStop Id="11745" Name="Ślusarska" Street="Ojca Beyzyma" X="16.9905243" Y="51.0847664" />
+  <BusStop Id="11747" Name="BLACHARSKA" Street="pętla" X="16.9893913" Y="51.08205" />
+  <BusStop Id="11746" Name="Ślusarska" Street="Ojca Beyzyma" X="16.9903851" Y="51.0841637" />
+  <BusStop Id="11742" Name="Aleja Wędrowców" Street="Ojca Beyzyma" X="16.9921341" Y="51.08829" />
+  <BusStop Id="11743" Name="Ojca Beyzyma" Street="Hallera" X="16.9922924" Y="51.0906525" />
+  <BusStop Id="12151" Name="Traktatowa" Street="Muchoborska" X="16.97061" Y="51.1125832" />
+  <BusStop Id="12530" Name="Gądowianka" Street="Na Ostatnim Groszu" X="16.9730282" Y="51.12017" />
+  <BusStop Id="112206" Name="Kwiska" Street="Legnicka" X="16.9834366" Y="51.12528" />
+  <BusStop Id="12315" Name="Wejherowska" Street="Popowicka" X="16.98513" Y="51.1298332" />
+  <BusStop Id="12320" Name="Hala Orbita" Street="Milenijna" X="16.9897633" Y="51.13221" />
+  <BusStop Id="23110" Name="Most Milenijny" Street="Milenijna" X="17.000412" Y="51.136673" />
+  <BusStop Id="20315" Name="Na Niskich Łąkach" Street="Na Niskich Łąkach" X="17.0577545" Y="51.0966873" />
+  <BusStop Id="25501" Name="Rakowiecka" Street="Na Niskich Łąkach" X="17.0676765" Y="51.0971069" />
+  <BusStop Id="25503" Name="Międzyrzecka" Street="Międzyrzecka" X="17.082365" Y="51.094368" />
+  <BusStop Id="25505" Name="Bierdzany" Street="Międzyrzecka" X="17.091404" Y="51.0920219" />
+  <BusStop Id="25507" Name="Nowy Dom" Street="Opatowicka" X="17.1072636" Y="51.09336" />
+  <BusStop Id="25517" Name="Opatowicka nr 69" Street="Opatowicka" X="17.1159248" Y="51.0950928" />
+  <BusStop Id="25509" Name="Opatowicka nr 85" Street="Opatowicka" X="17.1230316" Y="51.09516" />
+  <BusStop Id="25511" Name="OPATOWICE" Street="Opatowicka" X="17.1292229" Y="51.0948372" />
+  <BusStop Id="25519" Name="Opatowicka nr 127" Street="Opatowicka" X="17.1321678" Y="51.09297" />
+  <BusStop Id="25513" Name="Zalewowa" Street="Opatowicka" X="17.1350822" Y="51.0905" />
+  <BusStop Id="524951" Name="Trestno - Kościół" Street="Nadodrzańska" X="17.1449451" Y="51.08016" />
+  <BusStop Id="524953" Name="TRESTNO" Street="pętla" X="17.1453838" Y="51.07574" />
+  <BusStop Id="524952" Name="Trestno - Kościół" Street="Nadodrzańska" X="17.1451111" Y="51.08027" />
+  <BusStop Id="25514" Name="Zalewowa" Street="Opatowicka" X="17.1345634" Y="51.09081" />
+  <BusStop Id="25518" Name="Opatowicka nr 127" Street="Opatowicka" X="17.13211" Y="51.09313" />
+  <BusStop Id="85512" Name="OPATOWICE" Street="Opatowicka" X="17.128624" Y="51.0949249" />
+  <BusStop Id="85510" Name="Opatowicka nr 85" Street="Opatowicka" X="17.122427" Y="51.0952377" />
+  <BusStop Id="25508" Name="Nowy Dom" Street="Opatowicka" X="17.107069" Y="51.0934067" />
+  <BusStop Id="25506" Name="Bierdzany" Street="Międzyrzecka" X="17.0913" Y="51.09212" />
+  <BusStop Id="25504" Name="Międzyrzecka" Street="Międzyrzecka" X="17.0807438" Y="51.09496" />
+  <BusStop Id="25502" Name="Rakowiecka" Street="Na Niskich Łąkach" X="17.068243" Y="51.0972366" />
+  <BusStop Id="20316" Name="Na Niskich Łąkach" Street="Na Niskich Łąkach" X="17.0566521" Y="51.0966835" />
+  <BusStop Id="20339" Name="DWORCOWA" Street="pętla" X="17.0392933" Y="51.10059" />
+  <BusStop Id="10511" Name="Inowrocławska" Street="Zachodnia" X="17.0152931" Y="51.1154442" />
+  <BusStop Id="10521" Name="Szczepin" Street="Zachodnia" X="17.0064888" Y="51.11765" />
+  <BusStop Id="10509" Name="Głogowska" Street="Zachodnia" X="17.00403" Y="51.1177025" />
+  <BusStop Id="12519" Name="Kuźniki-stacja" Street="Bystrzycka" X="16.9550934" Y="51.12622" />
+  <BusStop Id="12911" Name="KUŹNIKI" Street="Hermanowska" X="16.949955" Y="51.1238441" />
+  <BusStop Id="12129" Name="Kołobrzeska" Street="Kołobrzeska" X="16.9466476" Y="51.1214828" />
+  <BusStop Id="12131" Name="Rogowska - działki" Street="Rogowska" X="16.9522" Y="51.11162" />
+  <BusStop Id="12133" Name="Zemska" Street="Rogowska" X="16.9467525" Y="51.11643" />
+  <BusStop Id="12136" Name="NOWY DWÓR" Street="pętla" X="16.9519" Y="51.1193657" />
+  <BusStop Id="12134" Name="Zemska" Street="Rogowska" X="16.9473724" Y="51.1153946" />
+  <BusStop Id="12132" Name="Rogowska - działki" Street="Rogowska" X="16.9525661" Y="51.11138" />
+  <BusStop Id="12122" Name="Nowy Dwór/krzyżówka" Street="Gubińska" X="16.9599934" Y="51.1125336" />
+  <BusStop Id="12130" Name="Kołobrzeska" Street="Kołobrzeska" X="16.9469986" Y="51.12154" />
+  <BusStop Id="12903" Name="KUŹNIKI" Street="Kołobrzeska" X="16.9501457" Y="51.1233063" />
+  <BusStop Id="12520" Name="Kuźniki-stacja" Street="Bystrzycka" X="16.9548645" Y="51.12624" />
+  <BusStop Id="10510" Name="Głogowska" Street="Zachodnia" X="17.003561" Y="51.1174355" />
+  <BusStop Id="10538" Name="Pl. SOLIDARNOŚCI" Street="Rybacka" X="17.0179672" Y="51.1134148" />
+  <BusStop Id="18301" Name="LEŚNICA" Street="Średzka" X="16.8703728" Y="51.1455421" />
+  <BusStop Id="18371" Name="Wolska" Street="Marszowicka" X="16.8693142" Y="51.1465721" />
+  <BusStop Id="18373" Name="Polkowicka" Street="Marszowicka" X="16.8734684" Y="51.1554375" />
+  <BusStop Id="18376" Name="Osiedle Malownicze" Street="Marszowicka" X="16.8774719" Y="51.16039" />
+  <BusStop Id="18736" Name="Marszowicka" Street="Marszowicka" X="16.8785172" Y="51.1631737" />
+  <BusStop Id="18734" Name="Bojanowska" Street="Marszowicka" X="16.8816319" Y="51.1652832" />
+  <BusStop Id="18731" Name="Małomicka" Street="Marszowicka" X="16.8875675" Y="51.1667023" />
+  <BusStop Id="18732" Name="Marszowice" Street="Marszowicka" X="16.890131" Y="51.16687" />
+  <BusStop Id="18741" Name="PRACZE ODRZAŃSKIE" Street="pętla" X="16.90642" Y="51.17469" />
+  <BusStop Id="18705" Name="Główna" Street="Główna" X="16.89582" Y="51.1634064" />
+  <BusStop Id="18721" Name="Marszowice" Street="Główna" X="16.8912048" Y="51.16741" />
+  <BusStop Id="18730" Name="Małomicka" Street="Marszowicka" X="16.8862133" Y="51.1667328" />
+  <BusStop Id="18733" Name="Bojanowska" Street="Marszowicka" X="16.8813457" Y="51.1651268" />
+  <BusStop Id="18735" Name="Marszowicka" Street="Marszowicka" X="16.8783627" Y="51.1630173" />
+  <BusStop Id="18375" Name="Osiedle Malownicze" Street="Marszowicka" X="16.8771648" Y="51.1599541" />
+  <BusStop Id="18374" Name="Polkowicka" Street="Marszowicka" X="16.8730755" Y="51.1552658" />
+  <BusStop Id="18372" Name="Wolska" Street="Marszowicka" X="16.8691025" Y="51.14651" />
+  <BusStop Id="21156" Name="Gazowa" Street="Gazowa" X="17.0688572" Y="51.07829" />
+  <BusStop Id="21152" Name="TARNOGAJ" Street="pętla" X="17.0639439" Y="51.0786" />
+  <BusStop Id="21148" Name="Transbud" Street="Armii Krajowej" X="17.0588455" Y="51.0837479" />
+  <BusStop Id="21146" Name="NYSKA" Street="Armii Krajowej" X="17.05233" Y="51.08306" />
+  <BusStop Id="21121" Name="DWORZEC GŁ. PKP" Street="Sucha" X="17.0365849" Y="51.0972748" />
+  <BusStop Id="11331" Name="Komandorska" Street="Komandorska" X="17.0295353" Y="51.0978928" />
+  <BusStop Id="11333" Name="Wielka" Street="Wielka" X="17.0245228" Y="51.0921669" />
+  <BusStop Id="11525" Name="Kolbuszowska" Street="Krucza" X="16.9972935" Y="51.09403" />
+  <BusStop Id="11526" Name="Kolbuszowska" Street="Krucza" X="16.9968929" Y="51.09397" />
+  <BusStop Id="11334" Name="Wielka" Street="Wielka" X="17.0233364" Y="51.09236" />
+  <BusStop Id="11330" Name="Arena" Street="Komandorska" X="17.0272675" Y="51.09503" />
+  <BusStop Id="11332" Name="EPI" Street="Komandorska" X="17.0290222" Y="51.0976524" />
+  <BusStop Id="21120" Name="DWORZEC GŁ. PKP" Street="Sucha" X="17.0347366" Y="51.09731" />
+  <BusStop Id="21145" Name="NYSKA" Street="Armii Krajowej" X="17.0508137" Y="51.0827827" />
+  <BusStop Id="21147" Name="Transbud" Street="Armii Krajowej" X="17.0597172" Y="51.08353" />
+  <BusStop Id="21151" Name="TARNOGAJ" Street="Gazowa" X="17.0646744" Y="51.0777969" />
+  <BusStop Id="21155" Name="Gazowa" Street="Gazowa" X="17.0704155" Y="51.0781555" />
+  <BusStop Id="12720" Name="KOZANÓW" Street="pętla" X="16.9683132" Y="51.13748" />
+  <BusStop Id="12149" Name="Szkocka" Street="Klecińska" X="16.96856" Y="51.10915" />
+  <BusStop Id="12153" Name="Wrocławski Park Technologiczny" Street="Klecińska" X="16.9707527" Y="51.10507" />
+  <BusStop Id="12157" Name="POD Oświata" Street="Klecińska" X="16.9728031" Y="51.1009827" />
+  <BusStop Id="11706" Name="FAT" Street="Grabiszyńska" X="16.9812679" Y="51.09463" />
+  <BusStop Id="11704" Name="Hutmen" Street="Grabiszyńska" X="16.9863243" Y="51.09603" />
+  <BusStop Id="11702" Name="Bzowa" Street="Grabiszyńska" X="16.99264" Y="51.0976067" />
+  <BusStop Id="111404" Name="Stalowa" Street="Grabiszyńska" X="17.0006924" Y="51.0995636" />
+  <BusStop Id="111402" Name="Pereca" Street="Grabiszyńska" X="17.0079937" Y="51.1011238" />
+  <BusStop Id="10385" Name="Grabiszyńska" Street="Zaporoska" X="17.01319" Y="51.1016" />
+  <BusStop Id="11541" Name="Zaporoska" Street="Zaporoska" X="17.0145283" Y="51.0965462" />
+  <BusStop Id="11346" Name="Rondo" Street="Zaporoska" X="17.0158138" Y="51.0916748" />
+  <BusStop Id="11545" Name="Gimnazjum nr 23" Street="Racławicka" X="17.0069561" Y="51.0846863" />
+  <BusStop Id="11543" Name="Racławicka" Street="Racławicka" X="17.0006371" Y="51.0817" />
+  <BusStop Id="16518" Name="Wawrzyniaka" Street="Skarbowców" X="16.99686" Y="51.07659" />
+  <BusStop Id="16516" Name="Chłodna" Street="Sowia" X="16.9968376" Y="51.0749931" />
+  <BusStop Id="16514" Name="Sowia" Street="Sowia" X="17.0016251" Y="51.0737534" />
+  <BusStop Id="11310" Name="KRZYKI" Street="pętla" X="17.0065746" Y="51.07489" />
+  <BusStop Id="16513" Name="Sowia" Street="Sowia" X="17.00185" Y="51.0738" />
+  <BusStop Id="16515" Name="Chłodna" Street="Sowia" X="16.9966774" Y="51.0751266" />
+  <BusStop Id="16517" Name="Wawrzyniaka" Street="Skarbowców" X="16.9982071" Y="51.07808" />
+  <BusStop Id="11544" Name="Racławicka" Street="Racławicka" X="17.0002117" Y="51.08141" />
+  <BusStop Id="11546" Name="Gimnazjum nr 23" Street="Gajowicka" X="17.0038185" Y="51.08461" />
+  <BusStop Id="11540" Name="Gajowicka" Street="Hallera" X="17.0068035" Y="51.0876579" />
+  <BusStop Id="11345" Name="Rondo" Street="Zaporoska" X="17.0162468" Y="51.0916824" />
+  <BusStop Id="11542" Name="Zaporoska" Street="Zaporoska" X="17.0146656" Y="51.0979042" />
+  <BusStop Id="10386" Name="Grabiszyńska" Street="Zaporoska" X="17.0137558" Y="51.1012421" />
+  <BusStop Id="111401" Name="Pereca" Street="Grabiszyńska" X="17.0074482" Y="51.10108" />
+  <BusStop Id="111403" Name="Stalowa" Street="Grabiszyńska" X="17.0015221" Y="51.0996971" />
+  <BusStop Id="11701" Name="Bzowa" Street="Grabiszyńska" X="16.9913769" Y="51.09751" />
+  <BusStop Id="11703" Name="Hutmen" Street="Grabiszyńska" X="16.9853516" Y="51.095974" />
+  <BusStop Id="11707" Name="FAT" Street="Klecińska" X="16.97947" Y="51.0951462" />
+  <BusStop Id="12158" Name="POD Oświata" Street="Klecińska" X="16.9728069" Y="51.1019554" />
+  <BusStop Id="12150" Name="Wrocławski Park Technologiczny" Street="Klecińska" X="16.9706917" Y="51.10612" />
+  <BusStop Id="12156" Name="Szkocka" Street="Klecińska" X="16.9688473" Y="51.1101456" />
+  <BusStop Id="12736" Name="KOZANÓW" Street="pętla" X="16.9687614" Y="51.13748" />
+  <BusStop Id="12316" Name="Wejherowska" Street="Popowicka" X="16.9866447" Y="51.1294556" />
+  <BusStop Id="12312" Name="Popowice" Street="Popowicka" X="16.9966984" Y="51.12605" />
+  <BusStop Id="10520" Name="POPOWICE (Stacja kolejowa)" Street="Starogroblowa" X="17.0028572" Y="51.1258965" />
+  <BusStop Id="10518" Name="DŁUGA (Politechnika)" Street="Długa" X="17.0109253" Y="51.12362" />
+  <BusStop Id="10516" Name="Poznańska" Street="Poznańska" X="17.01195" Y="51.1211166" />
+  <BusStop Id="10534" Name="PL. JANA PAWŁA II" Street="Podwale" X="17.0214138" Y="51.11122" />
+  <BusStop Id="10381" Name="pl. Orląt Lwowskich" Street="Tęczowa" X="17.0194" Y="51.10714" />
+  <BusStop Id="10383" Name="Kolejowa" Street="Tęczowa" X="17.0149269" Y="51.1056175" />
+  <BusStop Id="11531" Name="Zaporoska" Street="Gajowicka" X="17.0135632" Y="51.09698" />
+  <BusStop Id="11535" Name="Krucza" Street="Gajowicka" X="17.0095444" Y="51.0941353" />
+  <BusStop Id="11537" Name="Gajowicka" Street="Gajowicka" X="17.0067425" Y="51.0891" />
+  <BusStop Id="11351" Name="HALLERA" Street="Wiśniowa" X="17.012558" Y="51.0860748" />
+  <BusStop Id="11361" Name="Szp. Kolejowy" Street="Wiśniowa" X="17.0189323" Y="51.0847931" />
+  <BusStop Id="11373" Name="Wiśniowa" Street="Ślężna" X="17.0240364" Y="51.08324" />
+  <BusStop Id="11375" Name="Jaworowa" Street="Ślężna" X="17.0212841" Y="51.08034" />
+  <BusStop Id="11363" Name="Weigla" Street="Ślężna" X="17.0176811" Y="51.0764542" />
+  <BusStop Id="11377" Name="PUŁTUSKA" Street="Ślężna" X="17.0161839" Y="51.07478" />
+  <BusStop Id="11365" Name="PARK POŁUDNIOWY" Street="Sudecka" X="17.0125" Y="51.0736427" />
+  <BusStop Id="11366" Name="PUŁTUSKA" Street="pętla" X="17.0150127" Y="51.07432" />
+  <BusStop Id="11364" Name="Weigla" Street="Ślężna" X="17.019125" Y="51.077404" />
+  <BusStop Id="11376" Name="Jaworowa" Street="Ślężna" X="17.0231571" Y="51.08172" />
+  <BusStop Id="11362" Name="Wiśniowa" Street="Wiśniowa" X="17.02363" Y="51.08432" />
+  <BusStop Id="11354" Name="Szp. Kolejowy" Street="Wiśniowa" X="17.0166149" Y="51.08567" />
+  <BusStop Id="11352" Name="HALLERA" Street="Hallera" X="17.0114784" Y="51.0867348" />
+  <BusStop Id="11538" Name="Gajowicka" Street="Gajowicka" X="17.0066528" Y="51.08864" />
+  <BusStop Id="11536" Name="Krucza" Street="Gajowicka" X="17.0084915" Y="51.09216" />
+  <BusStop Id="11530" Name="Żelazna" Street="Gajowicka" X="17.0125027" Y="51.0961342" />
+  <BusStop Id="10384" Name="Kolejowa" Street="Tęczowa" X="17.0139179" Y="51.1052628" />
+  <BusStop Id="10531" Name="pl. Orląt Lwowskich" Street="Tęczowa" X="17.0210075" Y="51.1076775" />
+  <BusStop Id="10513" Name="Szczepin" Street="Zachodnia" X="17.00754" Y="51.1177254" />
+  <BusStop Id="10527" Name="LITOMSKA (ZUS)" Street="Poznańska" X="17.0101433" Y="51.119915" />
+  <BusStop Id="10517" Name="DŁUGA (Politechnika)" Street="Długa" X="17.0100231" Y="51.1252937" />
+  <BusStop Id="10519" Name="POPOWICE (Stacja kolejowa)" Street="Starogroblowa" X="17.00359" Y="51.1261" />
+  <BusStop Id="12311" Name="Popowice" Street="Popowicka" X="16.9952946" Y="51.12638" />
+  <BusStop Id="29507" Name="ZAKRZÓW" Street="pętla" X="17.125124" Y="51.16248" />
+  <BusStop Id="29506" Name="Przedwiośnie" Street="Bora-Komorowskiego" X="17.12151" Y="51.159668" />
+  <BusStop Id="29502" Name="Stolbud" Street="Bora-Komorowskiego" X="17.1156445" Y="51.1516571" />
+  <BusStop Id="29102" Name="Zielna" Street="Krzywoustego" X="17.1079178" Y="51.1454544" />
+  <BusStop Id="24110" Name="C.H. Korona" Street="Krzywoustego" X="17.0927124" Y="51.142128" />
+  <BusStop Id="24106" Name="Brücknera" Street="Krzywoustego" X="17.0810833" Y="51.13952" />
+  <BusStop Id="24146" Name="Długosza" Street="al. M. Kromera" X="17.0690784" Y="51.13558" />
+  <BusStop Id="20904" Name="pl. Bema" Street="Sienkiewicza" X="17.0441914" Y="51.1173019" />
+  <BusStop Id="110654" Name="Pomorska" Street="Dubois" X="17.03075" Y="51.1180153" />
+  <BusStop Id="10523" Name="Dmowskiego" Street="Dmowskiego" X="17.0236511" Y="51.11697" />
+  <BusStop Id="10525" Name="Długa" Street="Długa" X="17.01529" Y="51.1190872" />
+  <BusStop Id="12523" Name="Pilmet" Street="Metalowców" X="16.9549637" Y="51.1295929" />
+  <BusStop Id="12527" Name="Metalowców" Street="Metalowców" X="16.95659" Y="51.1322975" />
+  <BusStop Id="12505" Name="PILCZYCE" Street="Lotnicza" X="16.9505138" Y="51.1364326" />
+  <BusStop Id="12531" Name="PILCZYCE" Street="Lotnicza" X="16.9480286" Y="51.1366577" />
+  <BusStop Id="12506" Name="PILCZYCE" Street="Lotnicza" X="16.9498978" Y="51.13633" />
+  <BusStop Id="12528" Name="Metalowców" Street="Metalowców" X="16.9563675" Y="51.13225" />
+  <BusStop Id="12524" Name="Pilmet" Street="Metalowców" X="16.95497" Y="51.12987" />
+  <BusStop Id="10522" Name="Dmowskiego" Street="Dmowskiego" X="17.0237217" Y="51.11664" />
+  <BusStop Id="20711" Name="Dubois" Street="Drobnera" X="17.0342159" Y="51.1169548" />
+  <BusStop Id="24145" Name="Długosza" Street="Krzywoustego" X="17.0704479" Y="51.13632" />
+  <BusStop Id="24105" Name="Brücknera" Street="Krzywoustego" X="17.08081" Y="51.13917" />
+  <BusStop Id="24107" Name="C.H. Korona" Street="Krzywoustego" X="17.0932865" Y="51.14179" />
+  <BusStop Id="29101" Name="Zielna" Street="Krzywoustego" X="17.1072636" Y="51.14512" />
+  <BusStop Id="29501" Name="Stolbud" Street="Bora-Komorowskiego" X="17.1165676" Y="51.1520348" />
+  <BusStop Id="29505" Name="Przedwiośnie" Street="Okulickiego" X="17.1224213" Y="51.16043" />
+  <BusStop Id="123004" Name="Serbska" Street="Osobowicka" X="17.0201569" Y="51.1337128" />
+  <BusStop Id="23102" Name="most Osobowicki" Street="Osobowicka" X="17.0269241" Y="51.1330757" />
+  <BusStop Id="23161" Name="Mochnackiego" Street="Kamieńskiego" X="17.0366058" Y="51.14199" />
+  <BusStop Id="23167" Name="Gąsiorowskiego" Street="Kamieńskiego" X="17.0397587" Y="51.14386" />
+  <BusStop Id="23551" Name="Twardogórska" Street="Kamieńskiego" X="17.043705" Y="51.152935" />
+  <BusStop Id="23553" Name="Kątowa" Street="Kamieńskiego" X="17.0443878" Y="51.1561966" />
+  <BusStop Id="23555" Name="Ługowa" Street="Kamieńskiego" X="17.0446854" Y="51.15921" />
+  <BusStop Id="23541" Name="OŚRODEK REHABILITACJI" Street="Poświęcka" X="17.0321026" Y="51.1565" />
+  <BusStop Id="23556" Name="Ługowa" Street="Kamieńskiego" X="17.0444431" Y="51.158783" />
+  <BusStop Id="23554" Name="Kątowa" Street="Kamieńskiego" X="17.0442181" Y="51.1564941" />
+  <BusStop Id="23552" Name="Twardogórska" Street="Kamieńskiego" X="17.0435085" Y="51.1527367" />
+  <BusStop Id="23168" Name="Gąsiorowskiego" Street="Kamieńskiego" X="17.0400028" Y="51.1442261" />
+  <BusStop Id="23162" Name="Mochnackiego" Street="Kamieńskiego" X="17.0367565" Y="51.142292" />
+  <BusStop Id="23172" Name="Bałtycka" Street="Obornicka" X="17.0294533" Y="51.1371841" />
+  <BusStop Id="23103" Name="Serbska" Street="Osobowicka" X="17.01965" Y="51.1339" />
+  <BusStop Id="23558" Name="POLANOWICE" Street="pętla" X="17.04579" Y="51.1628532" />
+  <BusStop Id="29531" Name="Przedwiośnie (Stacja kolejowa)" Street="Przedwiośnie" X="17.1210136" Y="51.16025" />
+  <BusStop Id="29533" Name="Azaliowa" Street="Przedwiośnie" X="17.1118374" Y="51.164" />
+  <BusStop Id="29535" Name="PAWŁOWICE" Street="Przedwiośnie" X="17.1064014" Y="51.1655464" />
+  <BusStop Id="29537" Name="Starodębowa" Street="Starodębowa" X="17.1059036" Y="51.16731" />
+  <BusStop Id="29538" Name="Pawłowicka" Street="Pawłowicka" X="17.1126919" Y="51.1683578" />
+  <BusStop Id="29536" Name="Malwowa" Street="Azaliowa" X="17.10999" Y="51.16693" />
+  <BusStop Id="29534" Name="Azaliowa" Street="Azaliowa" X="17.11194" Y="51.1641769" />
+  <BusStop Id="120825" Name="Bujwida" Street="pl. Grunwaldzki" X="17.0669" Y="51.11337" />
+  <BusStop Id="29328" Name="LITEWSKA" Street="Litewska" X="17.1275864" Y="51.142292" />
+  <BusStop Id="120826" Name="Bujwida" Street="pl. Grunwaldzki" X="17.0676517" Y="51.113678" />
+  <BusStop Id="23736" Name="PL. DANIŁOWSKIEGO" Street="pętla" X="17.0579834" Y="51.13839" />
+  <BusStop Id="23703" Name="Kasprowicza" Street="Boya-Żeleńskiego" X="17.0529118" Y="51.1374435" />
+  <BusStop Id="23122" Name="Broniewskiego" Street="Żmigrodzka" X="17.0365028" Y="51.1351051" />
+  <BusStop Id="20718" Name="Trzebnicka" Street="Trzebnicka" X="17.0363483" Y="51.1279221" />
+  <BusStop Id="120616" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.03482" Y="51.1248436" />
+  <BusStop Id="12138" Name="NOWY DWÓR" Street="pętla" X="16.9515743" Y="51.1194267" />
+  <BusStop Id="10548" Name="Śrubowa" Street="Śrubowa" X="17.0010147" Y="51.11244" />
+  <BusStop Id="10504" Name="Młodych Techników" Street="Legnicka" X="17.0121441" Y="51.1126022" />
+  <BusStop Id="110005" Name="Rynek" Street="Kazimierza Wlk." X="17.0269527" Y="51.1112061" />
+  <BusStop Id="120615" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.03498" Y="51.1247559" />
+  <BusStop Id="20717" Name="Trzebnicka" Street="Trzebnicka" X="17.0368481" Y="51.1287" />
+  <BusStop Id="716718" Name="Auchan" Street="pętla" X="16.97406" Y="51.05207" />
+  <BusStop Id="16718" Name="POD Bielany" Street="Francuska" X="16.9776459" Y="51.05539" />
+  <BusStop Id="16720" Name="Połabian" Street="Czekoladowa" X="16.9713249" Y="51.05672" />
+  <BusStop Id="16714" Name="Słoneczna" Street="Czekoladowa" X="16.9747944" Y="51.06003" />
+  <BusStop Id="16706" Name="Marcepanowa" Street="Czekoladowa" X="16.9763985" Y="51.06237" />
+  <BusStop Id="16500" Name="Skarbowców" Street="Krzycka" X="16.9912834" Y="51.0670052" />
+  <BusStop Id="11344" Name="Drukarska" Street="Kamienna" X="17.0213966" Y="51.08978" />
+  <BusStop Id="11342" Name="Uniwersytet Ekonomiczny" Street="Kamienna" X="17.0272846" Y="51.0895424" />
+  <BusStop Id="21179" Name="P.O.D. Bajki" Street="Armii Krajowej" X="17.0360146" Y="51.0830231" />
+  <BusStop Id="26111" Name="POD Zgoda" Street="Konduktorska" X="17.0599575" Y="51.0660629" />
+  <BusStop Id="26113" Name="Tunelowa" Street="Konduktorska" X="17.0654888" Y="51.0648842" />
+  <BusStop Id="26115" Name="POD Mieczyk" Street="Centralna" X="17.0724964" Y="51.0638962" />
+  <BusStop Id="25317" Name="Park Brochowski" Street="Centralna" X="17.0759678" Y="51.06269" />
+  <BusStop Id="25307" Name="Centralna" Street="Centralna" X="17.0817623" Y="51.06089" />
+  <BusStop Id="25318" Name="Park Brochowski" Street="Centralna" X="17.07487" Y="51.063282" />
+  <BusStop Id="26116" Name="POD Mieczyk" Street="Konduktorska" X="17.06928" Y="51.06413" />
+  <BusStop Id="26114" Name="Tunelowa" Street="Konduktorska" X="17.0647011" Y="51.0651321" />
+  <BusStop Id="26112" Name="POD Zgoda" Street="Konduktorska" X="17.0592918" Y="51.066288" />
+  <BusStop Id="21174" Name="BARDZKA" Street="Armii Krajowej" X="17.04804" Y="51.08321" />
+  <BusStop Id="21172" Name="Orzechowa" Street="Armii Krajowej" X="17.0394726" Y="51.0833473" />
+  <BusStop Id="11341" Name="Uniwersytet Ekonomiczny" Street="Kamienna" X="17.0267372" Y="51.08977" />
+  <BusStop Id="11343" Name="Drukarska" Street="Kamienna" X="17.0202389" Y="51.0900726" />
+  <BusStop Id="16713" Name="Marcepanowa" Street="Czekoladowa" X="16.9758167" Y="51.0617638" />
+  <BusStop Id="16715" Name="Słoneczna" Street="Czekoladowa" X="16.9737854" Y="51.05883" />
+  <BusStop Id="16721" Name="Połabian" Street="Czekoladowa" X="16.9704819" Y="51.0562439" />
+  <BusStop Id="16719" Name="POD Bielany" Street="Francuska" X="16.9775162" Y="51.0552254" />
+  <BusStop Id="25134" Name="Księże Wielkie" Street="pętla" X="17.0992012" Y="51.06765" />
+  <BusStop Id="25132" Name="Brochowska" Street="Tyska" X="17.0948086" Y="51.06902" />
+  <BusStop Id="25122" Name="Sosnowiecka" Street="Opolska" X="17.0912743" Y="51.0709076" />
+  <BusStop Id="25116" Name="Zagłębiowska" Street="Opolska" X="17.0880184" Y="51.0740242" />
+  <BusStop Id="21144" Name="Kamienna" Street="Kamienna" X="17.0465088" Y="51.0859451" />
+  <BusStop Id="21142" Name="Borowska" Street="Kamienna" X="17.036478" Y="51.08807" />
+  <BusStop Id="11511" Name="Krucza" Street="Grochowa" X="17.010788" Y="51.09443" />
+  <BusStop Id="11513" Name="Grochowa" Street="Grochowa" X="17.0058155" Y="51.0962219" />
+  <BusStop Id="12142" Name="NOWY DWÓR" Street="pętla" X="16.9517822" Y="51.1194954" />
+  <BusStop Id="11504" Name="Stalowa" Street="Stalowa" X="17.00126" Y="51.09922" />
+  <BusStop Id="11514" Name="Grochowa" Street="Grochowa" X="17.0040417" Y="51.09718" />
+  <BusStop Id="11512" Name="Krucza" Street="Grochowa" X="17.0086269" Y="51.09506" />
+  <BusStop Id="21141" Name="Borowska" Street="Kamienna" X="17.0360584" Y="51.08794" />
+  <BusStop Id="21143" Name="Kamienna" Street="Kamienna" X="17.0448818" Y="51.0862732" />
+  <BusStop Id="25115" Name="Zagłębiowska" Street="Opolska" X="17.0888138" Y="51.0731" />
+  <BusStop Id="25121" Name="Sosnowiecka" Street="Opolska" X="17.091547" Y="51.0704651" />
+  <BusStop Id="25131" Name="Brochowska" Street="Opolska" X="17.09288" Y="51.0692024" />
+  <BusStop Id="25137" Name="Brochowska" Street="Tyska" X="17.0952911" Y="51.0690422" />
+  <BusStop Id="12738" Name="KOZANÓW" Street="pętla" X="16.9688416" Y="51.137394" />
+  <BusStop Id="12732" Name="Dokerska" Street="Dokerska" X="16.9639111" Y="51.1413879" />
+  <BusStop Id="12704" Name="Modra" Street="Pilczycka" X="16.966774" Y="51.13626" />
+  <BusStop Id="10371" Name="pl. Orląt Lwowskich" Street="Piłsudskiego" X="17.0212612" Y="51.1068649" />
+  <BusStop Id="10373" Name="pl. Legionów" Street="Piłsudskiego" X="17.0224133" Y="51.10394" />
+  <BusStop Id="10375" Name="Piłsudskiego" Street="Zielińskiego" X="17.024765" Y="51.1018257" />
+  <BusStop Id="11322" Name="EPI" Street="Swobodna" X="17.0304775" Y="51.09819" />
+  <BusStop Id="11320" Name="EPI" Street="Swobodna" X="17.0317154" Y="51.09813" />
+  <BusStop Id="11319" Name="Gwiaździsta" Street="Swobodna" X="17.0262928" Y="51.099556" />
+  <BusStop Id="10376" Name="Piłsudskiego" Street="Zielińskiego" X="17.0253067" Y="51.1020432" />
+  <BusStop Id="10372" Name="Gromada" Street="Piłsudskiego" X="17.0217476" Y="51.1065178" />
+  <BusStop Id="12701" Name="Kolista" Street="Pilczycka" X="16.9722347" Y="51.133213" />
+  <BusStop Id="12703" Name="Modra" Street="Pilczycka" X="16.9670982" Y="51.13626" />
+  <BusStop Id="12731" Name="Górnicza" Street="Gwarecka" X="16.95921" Y="51.1405945" />
+  <BusStop Id="12733" Name="Dokerska" Street="Dokerska" X="16.9635983" Y="51.14157" />
+  <BusStop Id="12510" Name="Rękodzielnicza" Street="Hutnicza" X="16.9603443" Y="51.1362419" />
+  <BusStop Id="12526" Name="Metalowców" Street="Hutnicza" X="16.9592228" Y="51.1330948" />
+  <BusStop Id="12537" Name="Szybowcowa" Street="Bajana" X="16.9652233" Y="51.12939" />
+  <BusStop Id="11554" Name="Mielecka" Street="Hallera" X="16.9996948" Y="51.0895271" />
+  <BusStop Id="21175" Name="Wiśniowa" Street="Armii Krajowej" X="17.02642" Y="51.0835533" />
+  <BusStop Id="21177" Name="Spiska" Street="Armii Krajowej" X="17.03111" Y="51.08315" />
+  <BusStop Id="21131" Name="FERIO GAJ" Street="Świeradowska" X="17.0416" Y="51.07698" />
+  <BusStop Id="21139" Name="GAJ - pętla" Street="pętla" X="17.05032" Y="51.07697" />
+  <BusStop Id="21178" Name="P.O.D. Bajki" Street="Armii Krajowej" X="17.0340786" Y="51.08343" />
+  <BusStop Id="21176" Name="Spiska" Street="Armii Krajowej" X="17.02998" Y="51.08357" />
+  <BusStop Id="11539" Name="Gajowicka" Street="Hallera" X="17.00547" Y="51.08845" />
+  <BusStop Id="11553" Name="Mielecka" Street="Hallera" X="17.000164" Y="51.0897865" />
+  <BusStop Id="12538" Name="BAJANA - pętla" Street="Bajana" X="16.9639339" Y="51.1273575" />
+  <BusStop Id="12540" Name="Szybowcowa" Street="Bajana" X="16.9660263" Y="51.1301231" />
+  <BusStop Id="12525" Name="Metalowców" Street="Górnicza" X="16.95674" Y="51.13383" />
+  <BusStop Id="12509" Name="Rękodzielnicza" Street="Górnicza" X="16.9579945" Y="51.1373825" />
+  <BusStop Id="18383" Name="LEŚNICA" Street="pętla" X="16.8716431" Y="51.1448975" />
+  <BusStop Id="18309" Name="Płońskiego" Street="Płońskiego" X="16.86841" Y="51.1447334" />
+  <BusStop Id="18312" Name="Średzka" Street="Trzmielowicka" X="16.8666134" Y="51.14536" />
+  <BusStop Id="18351" Name="Średzka" Street="Dolnobrzeska" X="16.8674126" Y="51.1463242" />
+  <BusStop Id="18353" Name="Brzezińska" Street="Dolnobrzeska" X="16.8667221" Y="51.1496544" />
+  <BusStop Id="18349" Name="Owczarska" Street="Dolnobrzeska" X="16.8635674" Y="51.1527634" />
+  <BusStop Id="18355" Name="Dolnobrzeska" Street="Dolnobrzeska" X="16.85942" Y="51.15502" />
+  <BusStop Id="18357" Name="Mokra" Street="Wińska" X="16.83775" Y="51.171463" />
+  <BusStop Id="18359" Name="Las Mokrzański" Street="Wińska" X="16.8334389" Y="51.1761322" />
+  <BusStop Id="18358" Name="Mokra" Street="Wińska" X="16.83736" Y="51.171566" />
+  <BusStop Id="18356" Name="Dolnobrzeska" Street="Dolnobrzeska" X="16.8590355" Y="51.155014" />
+  <BusStop Id="18350" Name="Owczarska" Street="Dolnobrzeska" X="16.8646889" Y="51.15172" />
+  <BusStop Id="18354" Name="Brzezińska" Street="Dolnobrzeska" X="16.8666267" Y="51.1494446" />
+  <BusStop Id="18352" Name="Średzka" Street="Dolnobrzeska" X="16.8672962" Y="51.1465034" />
+  <BusStop Id="18311" Name="Średzka" Street="Trzmielowicka" X="16.866354" Y="51.14529" />
+  <BusStop Id="18310" Name="Płońskiego" Street="Płońskiego" X="16.8673286" Y="51.1446228" />
+  <BusStop Id="18303" Name="Zajazdowa" Street="Krępicka" X="16.8653717" Y="51.148098" />
+  <BusStop Id="18305" Name="Krępicka - szkoła" Street="Krępicka" X="16.8600445" Y="51.1502" />
+  <BusStop Id="18361" Name="Krępicka" Street="Krępicka" X="16.85619" Y="51.1513863" />
+  <BusStop Id="18363" Name="Krępicka" Street="Mokrzańska" X="16.8552628" Y="51.1505165" />
+  <BusStop Id="18343" Name="Mokrzańska" Street="Średzka" X="16.8531284" Y="51.14755" />
+  <BusStop Id="18346" Name="ŻAR" Street="Średzka" X="16.8342762" Y="51.1497841" />
+  <BusStop Id="18364" Name="Mokrzańska" Street="Mokrzańska" X="16.8539" Y="51.1478577" />
+  <BusStop Id="18362" Name="Krępicka" Street="Krępicka" X="16.85638" Y="51.1512375" />
+  <BusStop Id="18306" Name="Krępicka - szkoła" Street="Krępicka" X="16.8604546" Y="51.1500168" />
+  <BusStop Id="18304" Name="Zajazdowa" Street="Krępicka" X="16.8656178" Y="51.1478424" />
+  <BusStop Id="12904" Name="KUŹNIKI" Street="Kołobrzeska" X="16.9495182" Y="51.1229439" />
+  <BusStop Id="10542" Name="DW. ŚWIEBODZKI" Street="Robotnicza" X="17.0188313" Y="51.1085167" />
+  <BusStop Id="29532" Name="OSIEDLE SOBIESKIEGO" Street="pętla" X="17.132309" Y="51.1589127" />
+  <BusStop Id="23181" Name="ZAWALNA" Street="pętla" X="17.0372314" Y="51.1343079" />
+  <BusStop Id="10706" Name="Kleczkowska" Street="Reymonta" X="17.0276318" Y="51.12672" />
+  <BusStop Id="10705" Name="Kleczkowska" Street="Reymonta" X="17.02783" Y="51.12745" />
+  <BusStop Id="23165" Name="KAMIEŃSKIEGO - pętla" Street="Kamieńskiego" X="17.0430756" Y="51.1507034" />
+  <BusStop Id="120614" Name="Paulińska" Street="Chrobrego" X="17.03501" Y="51.1209755" />
+  <BusStop Id="10712" Name="Dubois" Street="Drobnera" X="17.0333" Y="51.1164131" />
+  <BusStop Id="11323" Name="Zielińskiego" Street="Zielińskiego" X="17.02051" Y="51.098526" />
+  <BusStop Id="11353" Name="Szp. Kolejowy" Street="Sudecka" X="17.01807" Y="51.08444" />
+  <BusStop Id="11355" Name="Jarzębinowa" Street="Sudecka" X="17.016716" Y="51.08193" />
+  <BusStop Id="11357" Name="Skierniewicka" Street="Sudecka" X="17.0144711" Y="51.0776558" />
+  <BusStop Id="16521" Name="Wyścigowa" Street="Wojszycka" X="17.0120564" Y="51.06971" />
+  <BusStop Id="16524" Name="Wojszycka" Street="pętla" X="17.0143757" Y="51.0677528" />
+  <BusStop Id="16522" Name="Wyścigowa" Street="Wojszycka" X="17.0113716" Y="51.07061" />
+  <BusStop Id="11358" Name="Skierniewicka" Street="Sudecka" X="17.0149269" Y="51.07816" />
+  <BusStop Id="11356" Name="Jarzębinowa" Street="Sudecka" X="17.016571" Y="51.0813026" />
+  <BusStop Id="11532" Name="Zaporoska" Street="Szczęśliwa" X="17.01565" Y="51.0969658" />
+  <BusStop Id="11324" Name="Zielińskiego" Street="Zielińskiego" X="17.0202332" Y="51.0981064" />
+  <BusStop Id="10374" Name="pl. Legionów" Street="Sądowa" X="17.0233669" Y="51.10524" />
+  <BusStop Id="110255" Name="pl. Orląt Lwowskich" Street="Podwale" X="17.0221386" Y="51.1077843" />
+  <BusStop Id="120613" Name="Paulińska" Street="Chrobrego" X="17.03534" Y="51.1202927" />
+  <BusStop Id="21140" Name="GAJ - pętla" Street="Świeradowska" X="17.0508156" Y="51.07695" />
+  <BusStop Id="120821" Name="most Grunwaldzki" Street="pl. Grunwaldzki" X="17.05549" Y="51.1101379" />
+  <BusStop Id="24511" Name="Partyzantów" Street="Dembowskiego" X="17.093996" Y="51.106266" />
+  <BusStop Id="24513" Name="Okrzei" Street="Dembowskiego" X="17.0992565" Y="51.1063576" />
+  <BusStop Id="24515" Name="Monte Cassino" Street="Dembowskiego" X="17.1051636" Y="51.1064758" />
+  <BusStop Id="24521" Name="Libelta" Street="Monte Cassino" X="17.1084213" Y="51.1094627" />
+  <BusStop Id="24322" Name="SĘPOLNO" Street="pętla" X="17.1037025" Y="51.11395" />
+  <BusStop Id="24522" Name="Libelta" Street="Monte Cassino" X="17.10868" Y="51.11001" />
+  <BusStop Id="24516" Name="Monte Cassino" Street="Dembowskiego" X="17.104454" Y="51.10656" />
+  <BusStop Id="24514" Name="Okrzei" Street="Dembowskiego" X="17.0984669" Y="51.1064339" />
+  <BusStop Id="24512" Name="Partyzantów" Street="Dembowskiego" X="17.0920773" Y="51.10632" />
+  <BusStop Id="120824" Name="PL. GRUNWALDZKI" Street="pl. Grunwaldzki" X="17.05991" Y="51.11144" />
+  <BusStop Id="120822" Name="most Grunwaldzki" Street="pl. Grunwaldzki" X="17.0550976" Y="51.11014" />
+  <BusStop Id="21133" Name="Świeradowska" Street="Świeradowska" X="17.047739" Y="51.0768661" />
+  <BusStop Id="24517" Name="Bacciarellego" Street="Bacciarellego" X="17.1104946" Y="51.10564" />
+  <BusStop Id="24518" Name="Bacciarellego" Street="Bacciarellego" X="17.1116562" Y="51.105442" />
+  <BusStop Id="24144" Name="KROMERA" Street="pętla" X="17.0658722" Y="51.1319962" />
+  <BusStop Id="29511" Name="Stolbud" Street="Zakrzowska" X="17.11554" Y="51.1506081" />
+  <BusStop Id="29513" Name="Piwnika - Ponurego" Street="Kłokoczycka" X="17.1098461" Y="51.1502151" />
+  <BusStop Id="29529" Name="POD Źródło Zdrowia" Street="Kłokoczycka" X="17.107708" Y="51.1512032" />
+  <BusStop Id="29515" Name="POD Pod Dębem" Street="Kłokoczycka" X="17.1046753" Y="51.1543427" />
+  <BusStop Id="29519" Name="Białych Goździków" Street="Kłokoczycka" X="17.0993214" Y="51.1569328" />
+  <BusStop Id="29517" Name="KŁOKOCZYCE" Street="pętla" X="17.0962849" Y="51.1569633" />
+  <BusStop Id="29518" Name="Białych Goździków" Street="Kłokoczycka" X="17.1009521" Y="51.1568069" />
+  <BusStop Id="29516" Name="POD Pod Dębem" Street="Kłokoczycka" X="17.1044483" Y="51.15371" />
+  <BusStop Id="29528" Name="POD Źródło Zdrowia" Street="Kłokoczycka" X="17.1085835" Y="51.15069" />
+  <BusStop Id="29514" Name="Piwnika - Ponurego" Street="Kłokoczycka" X="17.1110554" Y="51.14951" />
+  <BusStop Id="29512" Name="Stolbud" Street="Zakrzowska" X="17.11584" Y="51.1507454" />
+  <BusStop Id="10335" Name="Renoma" Street="Podwale" X="17.03222" Y="51.10413" />
+  <BusStop Id="12140" Name="NOWY DWÓR" Street="pętla" X="16.9521065" Y="51.1194344" />
+  <BusStop Id="110256" Name="pl. Orląt Lwowskich" Street="Podwale" X="17.0223789" Y="51.1074867" />
+  <BusStop Id="110250" Name="Renoma" Street="Podwale" X="17.03001" Y="51.10429" />
+  <BusStop Id="10535" Name="PL. JANA PAWŁA II" Street="Podwale" X="17.0228119" Y="51.11224" />
+  <BusStop Id="10555" Name="Dmowskiego" Street="Jagiełły" X="17.0256672" Y="51.116993" />
+  <BusStop Id="120665" Name="Słowiańska" Street="Słowiańska" X="17.04262" Y="51.1240158" />
+  <BusStop Id="120627" Name="Nowowiejska" Street="Jedności Narodowej" X="17.04513" Y="51.1243629" />
+  <BusStop Id="120669" Name="Wyszyńskiego" Street="Nowowiejska" X="17.051878" Y="51.12233" />
+  <BusStop Id="120851" Name="Prusa" Street="Nowowiejska" X="17.0563469" Y="51.1198654" />
+  <BusStop Id="120853" Name="Piastowska" Street="Piastowska" X="17.0609112" Y="51.11621" />
+  <BusStop Id="20318" Name="pl. Wróblewskiego" Street="Pułaskiego" X="17.0477428" Y="51.1036072" />
+  <BusStop Id="120261" Name="Komuny Paryskiej" Street="Pułaskiego" X="17.0466175" Y="51.10222" />
+  <BusStop Id="120263" Name="Kościuszki" Street="Pułaskiego" X="17.04553" Y="51.10033" />
+  <BusStop Id="20370" Name="Pułaskiego" Street="Pułaskiego" X="17.0439835" Y="51.0986748" />
+  <BusStop Id="24120" Name="KOWALE" Street="Działdowska" X="17.10166" Y="51.1289635" />
+  <BusStop Id="24118" Name="Bociania" Street="Kwidzyńska" X="17.0982" Y="51.1297" />
+  <BusStop Id="24116" Name="Gęsia" Street="Kwidzyńska" X="17.087841" Y="51.1320343" />
+  <BusStop Id="10124" Name="GALERIA DOMINIKAŃSKA" Street="Piotra Skargi" X="17.0383511" Y="51.1071548" />
+  <BusStop Id="110221" Name="Eureka" Street="Piotra Skargi" X="17.0379581" Y="51.1049271" />
+  <BusStop Id="110223" Name="DWORZEC GŁ. PKP" Street="Kołłątaja" X="17.0360756" Y="51.1007347" />
+  <BusStop Id="41120" Name="DWORZEC PKS" Street="pętla" X="17.03447" Y="51.0964241" />
+  <BusStop Id="10367" Name="Swobodna" Street="Swobodna" X="17.0242462" Y="51.1000671" />
+  <BusStop Id="10368" Name="Swobodna" Street="Zielińskiego" X="17.0242" Y="51.09994" />
+  <BusStop Id="41119" Name="DWORZEC PKS" Street="pętla" X="17.0342865" Y="51.096447" />
+  <BusStop Id="110222" Name="Eureka" Street="Kołłątaja" X="17.0374069" Y="51.1042862" />
+  <BusStop Id="24113" Name="Kwidzyńska" Street="Kwidzyńska" X="17.0807552" Y="51.131752" />
+  <BusStop Id="24115" Name="Gęsia" Street="Kwidzyńska" X="17.0890751" Y="51.1320229" />
+  <BusStop Id="24117" Name="Bociania" Street="Kwidzyńska" X="17.0971813" Y="51.1298943" />
+  <BusStop Id="24119" Name="KOWALE" Street="Działdowska" X="17.1018429" Y="51.1289673" />
+  <BusStop Id="12504" Name="Metalowców" Street="Lotnicza" X="16.95778" Y="51.1324348" />
+  <BusStop Id="12306" Name="Małopanewska" Street="Legnicka" X="16.9868183" Y="51.1239052" />
+  <BusStop Id="10108" Name="Rynek" Street="Kazimierza Wlk." X="17.0263748" Y="51.1096268" />
+  <BusStop Id="20313" Name="pl. Wróblewskiego" Street="Traugutta" X="17.0463848" Y="51.10606" />
+  <BusStop Id="120203" Name="pl. Zgody" Street="Traugutta" X="17.0532475" Y="51.1006432" />
+  <BusStop Id="120205" Name="Na Niskich Łąkach" Street="Traugutta" X="17.0558853" Y="51.0977364" />
+  <BusStop Id="25135" Name="Armii Krajowej" Street="Krakowska" X="17.069334" Y="51.086937" />
+  <BusStop Id="25110" Name="Armii Krajowej" Street="Krakowska" X="17.0683117" Y="51.0878372" />
+  <BusStop Id="120206" Name="Na Niskich Łąkach" Street="Krakowska" X="17.05672" Y="51.0962677" />
+  <BusStop Id="120204" Name="pl. Zgody" Street="Traugutta" X="17.0543137" Y="51.0999" />
+  <BusStop Id="20312" Name="pl. Wróblewskiego" Street="Pułaskiego" X="17.0489388" Y="51.1053467" />
+  <BusStop Id="12305" Name="Małopanewska" Street="Legnicka" X="16.987484" Y="51.1240578" />
+  <BusStop Id="12507" Name="Bajana" Street="Lotnicza" X="16.9657421" Y="51.1311951" />
+  <BusStop Id="12503" Name="Metalowców" Street="Lotnicza" X="16.9582977" Y="51.13275" />
+  <BusStop Id="18718" Name="Zbożowa" Street="Brodzka" X="16.912159" Y="51.1735344" />
+  <BusStop Id="18514" Name="Lubelska" Street="Brodzka" X="16.9192715" Y="51.16349" />
+  <BusStop Id="18530" Name="Brodzka" Street="Brodzka" X="16.9223728" Y="51.158165" />
+  <BusStop Id="121033" Name="Dyrekcyjna" Street="Dyrekcyjna" X="17.0332375" Y="51.09519" />
+  <BusStop Id="121005" Name="Joannitów" Street="Gliniana" X="17.0361233" Y="51.0933838" />
+  <BusStop Id="121007" Name="Gajowa" Street="Gliniana" X="17.0400715" Y="51.091732" />
+  <BusStop Id="121009" Name="Prudnicka" Street="Hubska" X="17.0450535" Y="51.0892029" />
+  <BusStop Id="121010" Name="Prudnicka" Street="Hubska" X="17.0448112" Y="51.0900459" />
+  <BusStop Id="121008" Name="Gajowa" Street="Gliniana" X="17.0399723" Y="51.09194" />
+  <BusStop Id="121006" Name="Joannitów" Street="Gliniana" X="17.036808" Y="51.0933723" />
+  <BusStop Id="121004" Name="Dyrekcyjna" Street="Gliniana" X="17.0337677" Y="51.0940933" />
+  <BusStop Id="121034" Name="Dyrekcyjna" Street="Dyrekcyjna" X="17.0339565" Y="51.0951576" />
+  <BusStop Id="111406" Name="Fadroma" Street="Grabiszyńska" X="16.996912" Y="51.0986137" />
+  <BusStop Id="10378" Name="Grabiszyńska" Street="Grabiszyńska" X="17.0145168" Y="51.1024666" />
+  <BusStop Id="20931" Name="Katedra" Street="Wyszyńskiego" X="17.0508022" Y="51.1142044" />
+  <BusStop Id="20932" Name="Katedra" Street="Wyszyńskiego" X="17.0498524" Y="51.11331" />
+  <BusStop Id="10377" Name="pl. Legionów" Street="Grabiszyńska" X="17.0201149" Y="51.1041679" />
+  <BusStop Id="10379" Name="Grabiszyńska" Street="Grabiszyńska" X="17.0123444" Y="51.10226" />
+  <BusStop Id="111405" Name="Fadroma" Street="Grabiszyńska" X="16.9954815" Y="51.0984154" />
+  <BusStop Id="110015" Name="Uniwersytet" Street="Grodzka" X="17.0323753" Y="51.1137581" />
+  <BusStop Id="11325" Name="Hotel Wrocław" Street="Powstańców Śl." X="17.0248127" Y="51.0975227" />
+  <BusStop Id="11327" Name="Urząd Pracy" Street="Powstańców Śl." X="17.0207233" Y="51.09416" />
+  <BusStop Id="11317" Name="Sztabowa" Street="Powstańców Śl." X="17.0146713" Y="51.0889969" />
+  <BusStop Id="11337" Name="Jastrzębia" Street="Powstańców Śl." X="17.0112" Y="51.08569" />
+  <BusStop Id="16519" Name="Radio i Telewizja" Street="Karkonoska" X="17.0060253" Y="51.07186" />
+  <BusStop Id="16523" Name="Przyjaźni" Street="Letnia" X="17.004015" Y="51.06974" />
+  <BusStop Id="16507" Name="Zimowa" Street="Karkonoska" X="16.9987621" Y="51.070652" />
+  <BusStop Id="116408" Name="Jedn. Wojskowa" Street="Przyjaźni" X="16.9946041" Y="51.06673" />
+  <BusStop Id="116406" Name="Braterska" Street="Przyjaźni" X="16.99955" Y="51.06762" />
+  <BusStop Id="16520" Name="Radio i Telewizja" Street="Karkonoska" X="17.0063267" Y="51.071888" />
+  <BusStop Id="11338" Name="Jastrzębia" Street="Powstańców Śl." X="17.01141" Y="51.08495" />
+  <BusStop Id="11318" Name="Sztabowa" Street="Powstańców Śl." X="17.01439" Y="51.0880661" />
+  <BusStop Id="11328" Name="Urząd Pracy" Street="Powstańców Śl." X="17.0216" Y="51.09433" />
+  <BusStop Id="11326" Name="Hotel Wrocław" Street="Powstańców Śl." X="17.025692" Y="51.09777" />
+  <BusStop Id="110232" Name="Renoma" Street="Świdnicka" X="17.0306683" Y="51.10379" />
+  <BusStop Id="11314" Name="KRZYKI" Street="pętla" X="17.00639" Y="51.07496" />
+  <BusStop Id="17724" Name="JERZMANOWO - pętla" Street="Adamczewskich" X="16.8662567" Y="51.12057" />
+  <BusStop Id="16525" Name="Hippiczna" Street="Wyścigowa" X="17.008955" Y="51.0684853" />
+  <BusStop Id="120264" Name="Kościuszki" Street="Pułaskiego" X="17.0452" Y="51.0995" />
+  <BusStop Id="120262" Name="Komuny Paryskiej" Street="Pułaskiego" X="17.04647" Y="51.1016273" />
+  <BusStop Id="20916" Name="PL. GRUNWALDZKI" Street="Piastowska" X="17.060833" Y="51.1124649" />
+  <BusStop Id="120854" Name="Piastowska" Street="Piastowska" X="17.06088" Y="51.11537" />
+  <BusStop Id="120852" Name="Prusa" Street="Nowowiejska" X="17.05741" Y="51.11948" />
+  <BusStop Id="120670" Name="Wyszyńskiego" Street="Nowowiejska" X="17.0529461" Y="51.12192" />
+  <BusStop Id="120628" Name="Nowowiejska" Street="Jedności Narodowej" X="17.0448952" Y="51.1242447" />
+  <BusStop Id="120666" Name="Słowiańska" Street="Słowiańska" X="17.0413017" Y="51.12363" />
+  <BusStop Id="10556" Name="Dmowskiego" Street="Dmowskiego" X="17.0247288" Y="51.1162453" />
+  <BusStop Id="29322" Name="Szewczenki" Street="Litewska" X="17.125679" Y="51.1419144" />
+  <BusStop Id="29124" Name="Gorlicka" Street="Gorlicka" X="17.1193829" Y="51.1438141" />
+  <BusStop Id="29122" Name="Psie Pole" Street="Gorlicka" X="17.1138" Y="51.1459" />
+  <BusStop Id="20730" Name="Mosty Warszawskie" Street="Jedności Narodowej" X="17.0538483" Y="51.1283875" />
+  <BusStop Id="120632" Name="Daszyńskiego" Street="Jedności Narodowej" X="17.0484447" Y="51.1267433" />
+  <BusStop Id="120626" Name="Jedności Narodowej" Street="Poniatowskiego" X="17.04346" Y="51.12155" />
+  <BusStop Id="120624" Name="Na Szańcach" Street="Poniatowskiego" X="17.04207" Y="51.1193924" />
+  <BusStop Id="110024" Name="Hala Targowa" Street="Piaskowa" X="17.0394154" Y="51.1126671" />
+  <BusStop Id="110021" Name="GALERIA DOMINIKAŃSKA" Street="Św. Katarzyny" X="17.0387077" Y="51.108532" />
+  <BusStop Id="110023" Name="Hala Targowa" Street="Piaskowa" X="17.03958" Y="51.1127739" />
+  <BusStop Id="40621" Name="pl. Bema" Street="Bema" X="17.02311" Y="51.0700455" />
+  <BusStop Id="120625" Name="Jedności Narodowej" Street="Poniatowskiego" X="17.0430756" Y="51.1206474" />
+  <BusStop Id="120631" Name="Daszyńskiego" Street="Jedności Narodowej" X="17.0476933" Y="51.1263237" />
+  <BusStop Id="20729" Name="Mosty Warszawskie" Street="Wyszyńskiego" X="17.0561028" Y="51.12865" />
+  <BusStop Id="29123" Name="Gorlicka" Street="Gorlicka" X="17.1186962" Y="51.14397" />
+  <BusStop Id="29321" Name="Szewczenki" Street="Litewska" X="17.125473" Y="51.14179" />
+  <BusStop Id="24526" Name="Piramowicza" Street="Olszewskiego" X="17.0969677" Y="51.102993" />
+  <BusStop Id="24524" Name="Chełmońskiego" Street="Olszewskiego" X="17.0908737" Y="51.1037636" />
+  <BusStop Id="120814" Name="Reja" Street="Curie-Skłodowskiej" X="17.0569344" Y="51.1124229" />
+  <BusStop Id="12321" Name="DH Astra" Street="Lotnicza" X="16.9756756" Y="51.1284256" />
+  <BusStop Id="12501" Name="Park Zachodni" Street="Lotnicza" X="16.9709435" Y="51.1298561" />
+  <BusStop Id="18101" Name="Glinianki" Street="Kosmonautów" X="16.9354649" Y="51.138485" />
+  <BusStop Id="18103" Name="Grabowa" Street="Kosmonautów" X="16.9209442" Y="51.1400452" />
+  <BusStop Id="18105" Name="Kamiennogórska" Street="Kosmonautów" X="16.8989239" Y="51.14285" />
+  <BusStop Id="18107" Name="Złotnicka" Street="Kosmonautów" X="16.88887" Y="51.144104" />
+  <BusStop Id="18109" Name="Wschowska" Street="Kosmonautów" X="16.8802261" Y="51.14517" />
+  <BusStop Id="18384" Name="LEŚNICA" Street="pętla" X="16.8719654" Y="51.1448669" />
+  <BusStop Id="18110" Name="Wschowska" Street="Kosmonautów" X="16.8818531" Y="51.1448669" />
+  <BusStop Id="18108" Name="Złotnicka" Street="Kosmonautów" X="16.8905563" Y="51.1437836" />
+  <BusStop Id="18106" Name="Kamiennogórska" Street="Kosmonautów" X="16.9007454" Y="51.142498" />
+  <BusStop Id="18104" Name="Grabowa" Street="Kosmonautów" X="16.9222813" Y="51.13979" />
+  <BusStop Id="18102" Name="Glinianki" Street="Kosmonautów" X="16.9356785" Y="51.138237" />
+  <BusStop Id="12508" Name="Bajana" Street="Lotnicza" X="16.9669647" Y="51.13049" />
+  <BusStop Id="12502" Name="Park Zachodni" Street="Lotnicza" X="16.9728718" Y="51.1287956" />
+  <BusStop Id="12322" Name="DH Astra" Street="Lotnicza" X="16.975996" Y="51.1278534" />
+  <BusStop Id="20909" Name="Katedra" Street="Szczytnicka" X="17.0513287" Y="51.11363" />
+  <BusStop Id="120813" Name="Reja" Street="Szczytnicka" X="17.0554485" Y="51.1128273" />
+  <BusStop Id="24523" Name="Chełmońskiego" Street="Olszewskiego" X="17.0909519" Y="51.1036568" />
+  <BusStop Id="24525" Name="Piramowicza" Street="Olszewskiego" X="17.0957413" Y="51.10307" />
+  <BusStop Id="24520" Name="Monte Cassino" Street="Spółdzielcza" X="17.1050529" Y="51.1057" />
+  <BusStop Id="24533" Name="Spółdzielcza" Street="Spółdzielcza" X="17.1024284" Y="51.1026649" />
+  <BusStop Id="24534" Name="Spółdzielcza" Street="Spółdzielcza" X="17.1027222" Y="51.10279" />
+  <BusStop Id="24519" Name="Monte Cassino" Street="Spółdzielcza" X="17.1055183" Y="51.1060371" />
+  <BusStop Id="11378" Name="PUŁTUSKA" Street="Ślężna" X="17.016449" Y="51.0745621" />
+  <BusStop Id="11374" Name="Wiśniowa" Street="Ślężna" X="17.0256882" Y="51.08446" />
+  <BusStop Id="11372" Name="Uniwersytet Ekonomiczny" Street="Ślężna" X="17.0291862" Y="51.0900879" />
+  <BusStop Id="20901" Name="Ogród Botaniczny" Street="Sienkiewicza" X="17.0523911" Y="51.1165543" />
+  <BusStop Id="120803" Name="Górnickiego" Street="Sienkiewicza" X="17.0549316" Y="51.1162529" />
+  <BusStop Id="120805" Name="Piastowska" Street="Sienkiewicza" X="17.0601025" Y="51.1157875" />
+  <BusStop Id="24319" Name="Moniuszki" Street="Moniuszki" X="17.0816078" Y="51.11944" />
+  <BusStop Id="24317" Name="Stadion Olimpijski" Street="Paderewskiego" X="17.0900784" Y="51.11683" />
+  <BusStop Id="24323" Name="Godebskiego" Street="Mickiewicza" X="17.098465" Y="51.1137772" />
+  <BusStop Id="24324" Name="Godebskiego" Street="Mickiewicza" X="17.0987225" Y="51.1138725" />
+  <BusStop Id="24318" Name="Stadion Olimpijski" Street="Paderewskiego" X="17.0902634" Y="51.1169739" />
+  <BusStop Id="24320" Name="Moniuszki" Street="Moniuszki" X="17.0826054" Y="51.1194878" />
+  <BusStop Id="24300" Name="Śniadeckich" Street="Moniuszki" X="17.0780029" Y="51.1201172" />
+  <BusStop Id="120804" Name="Górnickiego" Street="Sienkiewicza" X="17.0558815" Y="51.116333" />
+  <BusStop Id="20900" Name="Ogród Botaniczny" Street="Sienkiewicza" X="17.0503654" Y="51.1169052" />
+  <BusStop Id="11369" Name="Sanocka" Street="Ślężna" X="17.0300846" Y="51.09327" />
+  <BusStop Id="11371" Name="Uniwersytet Ekonomiczny" Street="Ślężna" X="17.0286331" Y="51.09025" />
+  <BusStop Id="23519" Name="Pracze Widawskie" Street="Zduńska" X="17.0156021" Y="51.17768" />
+  <BusStop Id="23534" Name="Kominiarska-plac sportowy" Street="Kominiarska" X="17.0116081" Y="51.17532" />
+  <BusStop Id="23518" Name="Rzemieślnicza" Street="Kominiarska" X="17.0037842" Y="51.1708832" />
+  <BusStop Id="23517" Name="Rzemieślnicza" Street="Kominiarska" X="17.00471" Y="51.1714478" />
+  <BusStop Id="23533" Name="Kominiarska-plac sportowy" Street="Kominiarska" X="17.01241" Y="51.17559" />
+  <BusStop Id="20715" Name="DWORZEC NADODRZE" Street="pl. Powstańców Wielkopolskich" X="17.0338383" Y="51.1247444" />
+  <BusStop Id="23125" Name="Kępińska" Street="Żmigrodzka" X="17.031435" Y="51.144413" />
+  <BusStop Id="23127" Name="Wrozamet" Street="Żmigrodzka" X="17.029871" Y="51.14731" />
+  <BusStop Id="23521" Name="MARINO" Street="Żmigrodzka" X="17.0292931" Y="51.1514168" />
+  <BusStop Id="23523" Name="Poświęcka" Street="Żmigrodzka" X="17.0291824" Y="51.1549721" />
+  <BusStop Id="23525" Name="Lekarska" Street="Sułowska" X="17.02773" Y="51.1601677" />
+  <BusStop Id="23527" Name="Pod Morwami" Street="Sułowska" X="17.0282574" Y="51.1649933" />
+  <BusStop Id="23531" Name="Polanowicka" Street="Sułowska" X="17.0236759" Y="51.1700668" />
+  <BusStop Id="23535" Name="Widawa" Street="Księgarska" X="17.0217628" Y="51.1752968" />
+  <BusStop Id="23532" Name="Polanowicka" Street="Sułowska" X="17.02418" Y="51.16964" />
+  <BusStop Id="23528" Name="Pod Morwami" Street="Sułowska" X="17.02771" Y="51.1638527" />
+  <BusStop Id="23526" Name="Lekarska" Street="Sułowska" X="17.0276184" Y="51.1596031" />
+  <BusStop Id="23524" Name="Poświęcka" Street="Żmigrodzka" X="17.0288429" Y="51.1548424" />
+  <BusStop Id="23522" Name="MARINO" Street="Żmigrodzka" X="17.0289612" Y="51.1506729" />
+  <BusStop Id="23128" Name="Wrozamet" Street="Żmigrodzka" X="17.0302315" Y="51.1484261" />
+  <BusStop Id="23126" Name="Kępińska" Street="Żmigrodzka" X="17.0308247" Y="51.14421" />
+  <BusStop Id="23147" Name="Bałtycka" Street="Bałtycka" X="17.0306129" Y="51.1375923" />
+  <BusStop Id="17120" Name="POCZTA POLSKA" Street="Ibn Siny Avicenny" X="16.94896" Y="51.0870857" />
+  <BusStop Id="17111" Name="Ibn Siny Avicenny" Street="Ibn Siny Avicenny" X="16.95283" Y="51.08712" />
+  <BusStop Id="17121" Name="Wiejska" Street="Wiejska" X="16.9621849" Y="51.07743" />
+  <BusStop Id="10532" Name="Pl. SOLIDARNOŚCI" Street="pętla" X="17.01753" Y="51.1137123" />
+  <BusStop Id="18531" Name="Królewiecka - Osiedle" Street="Królewiecka" X="16.9441032" Y="51.1463" />
+  <BusStop Id="18519" Name="Warmińska" Street="Królewiecka" X="16.9383717" Y="51.14674" />
+  <BusStop Id="18529" Name="Brodnicka" Street="Królewiecka" X="16.9304123" Y="51.1489563" />
+  <BusStop Id="18535" Name="Suwalska" Street="Królewiecka" X="16.9236469" Y="51.155262" />
+  <BusStop Id="18521" Name="Brodzka" Street="Królewiecka" X="16.9229984" Y="51.1568832" />
+  <BusStop Id="18513" Name="Lubelska" Street="Brodzka" X="16.9191532" Y="51.16392" />
+  <BusStop Id="18719" Name="Zbożowa" Street="Brodzka" X="16.9115334" Y="51.1737442" />
+  <BusStop Id="18743" Name="PRACZE ODRZAŃSKIE" Street="Brodzka" X="16.9076328" Y="51.1744347" />
+  <BusStop Id="18708" Name="Główna" Street="Stabłowicka" X="16.89573" Y="51.16291" />
+  <BusStop Id="18130" Name="Park Stabłowicki" Street="Jeleniogórska" X="16.8937111" Y="51.1601944" />
+  <BusStop Id="18128" Name="Stabłowice" Street="Jeleniogórska" X="16.8913937" Y="51.156498" />
+  <BusStop Id="18126" Name="Ciechocińska" Street="Jeleniogórska" X="16.8855152" Y="51.1539955" />
+  <BusStop Id="18124" Name="Śnieżna" Street="Jeleniogórska" X="16.8789368" Y="51.14951" />
+  <BusStop Id="18122" Name="Jeleniogórska" Street="Jeleniogórska" X="16.8763847" Y="51.14634" />
+  <BusStop Id="18387" Name="LEŚNICA" Street="pętla" X="16.8712635" Y="51.14472" />
+  <BusStop Id="18302" Name="LEŚNICA" Street="Średzka" X="16.872" Y="51.1451836" />
+  <BusStop Id="18121" Name="Jeleniogórska" Street="Jeleniogórska" X="16.87603" Y="51.1456337" />
+  <BusStop Id="18123" Name="Śnieżna" Street="Jeleniogórska" X="16.879364" Y="51.14969" />
+  <BusStop Id="18125" Name="Ciechocińska" Street="Jeleniogórska" X="16.8850269" Y="51.1534767" />
+  <BusStop Id="18127" Name="Stabłowice" Street="Jeleniogórska" X="16.8911419" Y="51.15593" />
+  <BusStop Id="18129" Name="Park Stabłowicki" Street="Jeleniogórska" X="16.8936958" Y="51.1596832" />
+  <BusStop Id="18742" Name="PRACZE ODRZAŃSKIE" Street="Brodzka" X="16.9082565" Y="51.17426" />
+  <BusStop Id="18534" Name="Suwalska" Street="Królewiecka" X="16.9239616" Y="51.15456" />
+  <BusStop Id="18528" Name="Brodnicka" Street="Królewiecka" X="16.93078" Y="51.14822" />
+  <BusStop Id="18520" Name="Warmińska" Street="Królewiecka" X="16.9402046" Y="51.14648" />
+  <BusStop Id="18532" Name="Królewiecka - Osiedle" Street="Królewiecka" X="16.94604" Y="51.1455841" />
+  <BusStop Id="20345" Name="DWORCOWA" Street="pętla" X="17.0392017" Y="51.10026" />
+  <BusStop Id="17313" Name="Mińska - Rondo" Street="Graniczna" X="16.9495811" Y="51.1075363" />
+  <BusStop Id="17501" Name="Kombinat" Street="Graniczna" X="16.9404278" Y="51.10929" />
+  <BusStop Id="17503" Name="Zagłoby" Street="Graniczna" X="16.928257" Y="51.10983" />
+  <BusStop Id="17505" Name="Przybyły" Street="Graniczna" X="16.9169521" Y="51.109" />
+  <BusStop Id="17507" Name="Graniczna" Street="Graniczna" X="16.9107246" Y="51.1086121" />
+  <BusStop Id="17509" Name="Skarżyńskiego" Street="Skarżyńskiego" X="16.8993587" Y="51.1079063" />
+  <BusStop Id="17511" Name="LOTNISKO" Street="pętla" X="16.898468" Y="51.1047745" />
+  <BusStop Id="17510" Name="Skarżyńskiego" Street="Skarżyńskiego" X="16.8998318" Y="51.108036" />
+  <BusStop Id="17508" Name="Graniczna" Street="Graniczna" X="16.9100018" Y="51.1085472" />
+  <BusStop Id="17506" Name="Przybyły" Street="Graniczna" X="16.9176445" Y="51.10896" />
+  <BusStop Id="17504" Name="Zagłoby" Street="Graniczna" X="16.9288616" Y="51.1096878" />
+  <BusStop Id="17502" Name="Kombinat" Street="Graniczna" X="16.9403667" Y="51.1091537" />
+  <BusStop Id="17314" Name="Mińska - Rondo" Street="Graniczna" X="16.9494934" Y="51.1072235" />
+  <BusStop Id="20343" Name="DWORCOWA" Street="pętla" X="17.0393887" Y="51.10096" />
+  <BusStop Id="18148" Name="Małopolska" Street="Małopolska" X="16.8977222" Y="51.13788" />
+  <BusStop Id="18146" Name="Złotniki" Street="Małopolska" X="16.8916721" Y="51.13951" />
+  <BusStop Id="18144" Name="Wielkopolska" Street="Małopolska" X="16.8875751" Y="51.14059" />
+  <BusStop Id="18142" Name="Złotnicka" Street="Złotnicka" X="16.8893528" Y="51.14363" />
+  <BusStop Id="18141" Name="Złotnicka" Street="Złotnicka" X="16.88904" Y="51.1432838" />
+  <BusStop Id="18143" Name="Wielkopolska" Street="Złotnicka" X="16.88691" Y="51.14115" />
+  <BusStop Id="18145" Name="Złotniki" Street="Małopolska" X="16.8934059" Y="51.1389427" />
+  <BusStop Id="18147" Name="Małopolska" Street="Małopolska" X="16.8988914" Y="51.1374626" />
+  <BusStop Id="18523" Name="Turoszowska" Street="Rędzińska" X="16.9476376" Y="51.1530571" />
+  <BusStop Id="18525" Name="RĘDZIŃSKA" Street="pętla" X="16.9488831" Y="51.15739" />
+  <BusStop Id="18524" Name="Turoszowska" Street="Rędzińska" X="16.9473152" Y="51.1527748" />
+  <BusStop Id="10536" Name="Pl. SOLIDARNOŚCI" Street="pętla" X="17.017683" Y="51.1137123" />
+  <BusStop Id="11313" Name="KRZYKI" Street="pętla" X="17.006237" Y="51.07486" />
+  <BusStop Id="716101" Name="Biskupice Podgórne LG Display" Street="LG" X="16.8763542" Y="51.0169563" />
+  <BusStop Id="716102" Name="Biskupice Podgórne LG Chem" Street="LG" X="16.8774815" Y="51.0183" />
+  <BusStop Id="716103" Name="Biskupice Podgórne LG Innotek" Street="LG" X="16.8784447" Y="51.01938" />
+  <BusStop Id="716105" Name="Biskupice Podgórne Dong Seo/Dong Yang" Street="LG" X="16.87954" Y="51.02054" />
+  <BusStop Id="716106" Name="Biskupice Podgórne LG Electronics" Street="LG" X="16.8802853" Y="51.02164" />
+  <BusStop Id="17733" Name="Gałowska" Street="Samotworska" X="16.8450966" Y="51.11324" />
+  <BusStop Id="812901" Name="SAMOTWÓR" Street="pętla" X="16.8312626" Y="51.10297" />
+  <BusStop Id="17734" Name="Gałowska" Street="Samotworska" X="16.8452473" Y="51.11352" />
+  <BusStop Id="26333" Name="Parafialna" Street="Parafialna" X="17.0307636" Y="51.062088" />
+  <BusStop Id="26335" Name="Świt" Street="Parafialna" X="17.0257244" Y="51.0604858" />
+  <BusStop Id="26341" Name="Ołtaszyn" Street="Kutrzeby" X="17.0222836" Y="51.0568047" />
+  <BusStop Id="26343" Name="Kutrzeby" Street="Kutrzeby" X="17.0187225" Y="51.0516357" />
+  <BusStop Id="26345" Name="POD Storczyk" Street="Kutrzeby" X="17.0159283" Y="51.0477562" />
+  <BusStop Id="726951" Name="Wysoka" Street="Chabrowa" X="17.01214" Y="51.0463181" />
+  <BusStop Id="723955" Name="Wysoka-Chabrowa" Street="Chabrowa" X="17.0035477" Y="51.0480957" />
+  <BusStop Id="723953" Name="Wysoka-Radosna" Street="Chabrowa" X="17.000227" Y="51.04876" />
+  <BusStop Id="723952" Name="Wysoka Osiedle" Street="Radosna" X="17.0036316" Y="51.053112" />
+  <BusStop Id="26324" Name="Zwycięska" Street="Ołtaszyńska" X="17.007061" Y="51.0589752" />
+  <BusStop Id="26328" Name="Ożynowa" Street="Ołtaszyńska" X="17.0099163" Y="51.0649529" />
+  <BusStop Id="26326" Name="Malinowa" Street="Ołtaszyńska" X="17.010561" Y="51.0667229" />
+  <BusStop Id="26325" Name="Malinowa" Street="Ołtaszyńska" X="17.010603" Y="51.06697" />
+  <BusStop Id="26327" Name="Ożynowa" Street="Ołtaszyńska" X="17.0094624" Y="51.0644035" />
+  <BusStop Id="26323" Name="Zwycięska" Street="Ołtaszyńska" X="17.0068951" Y="51.05892" />
+  <BusStop Id="723951" Name="Wysoka Osiedle" Street="Radosna" X="17.0036831" Y="51.05329" />
+  <BusStop Id="723954" Name="Wysoka-Radosna" Street="Chabrowa" X="16.999958" Y="51.04873" />
+  <BusStop Id="723956" Name="Wysoka-Chabrowa" Street="Chabrowa" X="17.0039959" Y="51.047924" />
+  <BusStop Id="726952" Name="Wysoka" Street="Chabrowa" X="17.01298" Y="51.04609" />
+  <BusStop Id="26346" Name="POD Storczyk" Street="Kutrzeby" X="17.0160217" Y="51.0476532" />
+  <BusStop Id="26344" Name="Kutrzeby" Street="Kutrzeby" X="17.01943" Y="51.0523567" />
+  <BusStop Id="26334" Name="Ołtaszyn" Street="Parafialna" X="17.0231571" Y="51.057663" />
+  <BusStop Id="26336" Name="Świt" Street="Parafialna" X="17.0270348" Y="51.0608673" />
+  <BusStop Id="524907" Name="ŻERNIKI WROCŁAWSKIE" Street="pętla" X="17.0560284" Y="51.0334167" />
+  <BusStop Id="524903" Name="Żerniki Wr." Street="Strzelińska" X="17.0655365" Y="51.0336876" />
+  <BusStop Id="524911" Name="Smardzów" Street="Żernicka" X="17.0845642" Y="51.0278053" />
+  <BusStop Id="524921" Name="Św. Katarzyna1" Street="Parkowa" X="17.1084785" Y="51.0268135" />
+  <BusStop Id="524913" Name="Św. Katarzyna - skrzyżowanie" Street="Wrocławska" X="17.1145973" Y="51.0259323" />
+  <BusStop Id="524915" Name="Św. Katarzyna " Street="Główna" X="17.11916" Y="51.02913" />
+  <BusStop Id="524917" Name="ŚW. Katarzyna - stacja" Street="pętla" X="17.12193" Y="51.0299225" />
+  <BusStop Id="524916" Name="Św. Katarzyna " Street="Główna" X="17.1177979" Y="51.0282822" />
+  <BusStop Id="524914" Name="Św. Katarzyna - skrzyżowanie" Street="Wrocławska" X="17.1142559" Y="51.02611" />
+  <BusStop Id="524912" Name="Smardzów" Street="Żernicka" X="17.0842133" Y="51.02793" />
+  <BusStop Id="524909" Name="Żerniki Wr. - skrzyżowanie" Street="Kolejowa" X="17.0630913" Y="51.0306778" />
+  <BusStop Id="25117" Name="Brochowska" Street="Opolska" X="17.0944233" Y="51.0677338" />
+  <BusStop Id="524121" Name="Radwanice - Skrajna" Street="Wrocławska" X="17.1015644" Y="51.06086" />
+  <BusStop Id="524123" Name="Radwanice - Mickiewicza" Street="Wrocławska" X="17.1054268" Y="51.0571556" />
+  <BusStop Id="524125" Name="Radwanice - Poprzeczna" Street="Wrocławska" X="17.1106281" Y="51.05226" />
+  <BusStop Id="524127" Name="Radwanice - szkoła" Street="Wrocławska" X="17.11547" Y="51.04853" />
+  <BusStop Id="524143" Name="Radwanice - Dębowa" Street="Wrocławska" X="17.1221771" Y="51.0445442" />
+  <BusStop Id="524129" Name="Siechnice - CPN" Street="Opolska" X="17.12959" Y="51.0401" />
+  <BusStop Id="524131" Name="Siechnice - ZOZ" Street="Kolejowa" X="17.1401043" Y="51.0376625" />
+  <BusStop Id="524133" Name="Siechnice - Elektrociepłownia" Street="Szkolna" X="17.1449318" Y="51.0370178" />
+  <BusStop Id="524135" Name="Siechnice - Szkolna" Street="Szkolna" X="17.1469116" Y="51.03427" />
+  <BusStop Id="524942" Name="Siechnice - Szkolna" Street="Świerczewskiego" X="17.1470032" Y="51.0333824" />
+  <BusStop Id="524932" Name="Siechnice - Opolska" Street="Opolska" X="17.1417522" Y="51.0314827" />
+  <BusStop Id="524930" Name="Siechnice - wiadukt" Street="Opolska" X="17.13667" Y="51.03555" />
+  <BusStop Id="524920" Name="Św. Katarzyna n.ż" Street="Główna" X="17.1252327" Y="51.03252" />
+  <BusStop Id="524919" Name="Św. Katarzyna n.ż" Street="Główna" X="17.1262856" Y="51.03281" />
+  <BusStop Id="524929" Name="Siechnice - wiadukt" Street="Opolska" X="17.135952" Y="51.0359535" />
+  <BusStop Id="524931" Name="Siechnice - Opolska" Street="Świerczewskiego" X="17.1436844" Y="51.03068" />
+  <BusStop Id="524933" Name="Siechnice - Szkolna" Street="Świerczewskiego" X="17.1474552" Y="51.03342" />
+  <BusStop Id="524136" Name="Siechnice - Szkolna" Street="Szkolna" X="17.1471786" Y="51.0340652" />
+  <BusStop Id="524134" Name="Siechnice - Elektrociepłownia" Street="Szkolna" X="17.1451149" Y="51.0367" />
+  <BusStop Id="524132" Name="Siechnice - ZOZ" Street="Kolejowa" X="17.1408939" Y="51.0378036" />
+  <BusStop Id="524130" Name="Siechnice - CPN" Street="Opolska" X="17.129261" Y="51.0405" />
+  <BusStop Id="524142" Name="Radwanice - Dębowa" Street="Wrocławska" X="17.1231632" Y="51.044117" />
+  <BusStop Id="524128" Name="Radwanice - szkoła" Street="Wrocławska" X="17.1157818" Y="51.0486755" />
+  <BusStop Id="524126" Name="Radwanice - Poprzeczna" Street="Wrocławska" X="17.1099186" Y="51.0531349" />
+  <BusStop Id="524124" Name="Radwanice - Mickiewicza" Street="Wrocławska" X="17.106142" Y="51.0567474" />
+  <BusStop Id="524122" Name="Radwanice - Skrajna" Street="Wrocławska" X="17.1009941" Y="51.0616226" />
+  <BusStop Id="25118" Name="Brochowska" Street="Opolska" X="17.0943756" Y="51.06794" />
+  <BusStop Id="524941" Name="Siechnice - ogrodnictwo" Street="Opolska" X="17.1488457" Y="51.026535" />
+  <BusStop Id="524949" Name="Siechnice - Staszica" Street="Opolska" X="17.1547451" Y="51.02231" />
+  <BusStop Id="524950" Name="SIECHNICE - TIM" Street="Kwiatkowskiego" X="17.1634865" Y="51.02173" />
+  <BusStop Id="524948" Name="Siechnice - Staszica" Street="Opolska" X="17.1554737" Y="51.02226" />
+  <BusStop Id="524936" Name="Siechnice - ogrodnictwo" Street="Opolska" X="17.14868" Y="51.0272141" />
+  <BusStop Id="326219" Name="ŁOZINA" Street="pętla" X="17.1760731" Y="51.2324448" />
+  <BusStop Id="326121" Name="Bierzyce" Street=" " X="17.1836872" Y="51.2358" />
+  <BusStop Id="326123" Name="Kępa - Skrzyżowanie" Street=" " X="17.19663" Y="51.24095" />
+  <BusStop Id="326125" Name="Kępa" Street=" " X="17.2096081" Y="51.23837" />
+  <BusStop Id="326179" Name="Michałowice" Street=" " X="17.21411" Y="51.2326546" />
+  <BusStop Id="326135" Name="Januszkowice - Wierzbowa" Street=" " X="17.235075" Y="51.22714" />
+  <BusStop Id="326127" Name="Januszkowice" Street=" " X="17.23873" Y="51.2210922" />
+  <BusStop Id="326129" Name="Dobroszów" Street=" " X="17.2288551" Y="51.21626" />
+  <BusStop Id="326131" Name="Dąbrowica" Street=" " X="17.2168922" Y="51.2174454" />
+  <BusStop Id="326134" Name="Łosice" Street=" " X="17.2055321" Y="51.2179375" />
+  <BusStop Id="326114" Name="Szczodre - stawy" Street=" " X="17.2050724" Y="51.2044868" />
+  <BusStop Id="326112" Name="Szczodre - Szkoła" Street=" " X="17.1897659" Y="51.19827" />
+  <BusStop Id="326110" Name="SZCZODRE" Street="Parkowa" X="17.18292" Y="51.1944" />
+  <BusStop Id="326108" Name="Szczodre - Trzebnicka" Street="Parkowa" X="17.18395" Y="51.1906128" />
+  <BusStop Id="326106" Name="Długołęka - skrzyżowanie" Street="Parkowa" X="17.1904526" Y="51.178772" />
+  <BusStop Id="326104" Name="Długołęka - Urząd Gminy" Street="Wrocławska" X="17.1880569" Y="51.1776924" />
+  <BusStop Id="326102" Name="Długołęka - Volvo" Street="Wrocławska" X="17.1778183" Y="51.1747665" />
+  <BusStop Id="326904" Name="MIRKÓW" Street="Wrocławska" X="17.1645718" Y="51.1680756" />
+  <BusStop Id="326902" Name="Mirków - Wolności" Street="Wrocławska" X="17.15707" Y="51.1636276" />
+  <BusStop Id="29112" Name="Bierutowska - wiadukt" Street="Bierutowska" X="17.14655" Y="51.1581955" />
+  <BusStop Id="29118" Name="Bierutowska 75" Street="Bierutowska" X="17.139986" Y="51.15576" />
+  <BusStop Id="29110" Name="Bierutowska" Street="Bierutowska" X="17.1367645" Y="51.1541519" />
+  <BusStop Id="29114" Name="PZL HYDRAL" Street="Bierutowska" X="17.1266747" Y="51.15135" />
+  <BusStop Id="29106" Name="Psie Pole (Stacja kolejowa)" Street="Bierutowska" X="17.1186218" Y="51.1490173" />
+  <BusStop Id="24142" Name="KROMERA" Street="pętla" X="17.0657825" Y="51.13201" />
+  <BusStop Id="29105" Name="Psie Pole (Stacja kolejowa)" Street="Bierutowska" X="17.1200085" Y="51.1496849" />
+  <BusStop Id="29107" Name="PZL HYDRAL" Street="Bierutowska" X="17.128252" Y="51.15146" />
+  <BusStop Id="29109" Name="Bierutowska" Street="Bierutowska" X="17.136364" Y="51.15379" />
+  <BusStop Id="29117" Name="Bierutowska 75" Street="Bierutowska" X="17.1406841" Y="51.1559677" />
+  <BusStop Id="29111" Name="Bierutowska - wiadukt" Street="Bierutowska" X="17.1476879" Y="51.15847" />
+  <BusStop Id="326901" Name="Mirków - Wolności" Street="Wrocławska" X="17.15731" Y="51.163414" />
+  <BusStop Id="326903" Name="MIRKÓW" Street="Wrocławska" X="17.16445" Y="51.167572" />
+  <BusStop Id="326101" Name="Długołęka - Volvo" Street="Wrocławska" X="17.1799088" Y="51.17505" />
+  <BusStop Id="326103" Name="Długołęka - Urząd Gminy" Street="Wrocławska" X="17.1887722" Y="51.17764" />
+  <BusStop Id="326105" Name="Długołęka - skrzyżowanie" Street="Parkowa" X="17.1904221" Y="51.17945" />
+  <BusStop Id="326107" Name="Szczodre - Trzebnicka" Street="Parkowa" X="17.1841965" Y="51.19042" />
+  <BusStop Id="326109" Name="SZCZODRE" Street="Parkowa" X="17.1829224" Y="51.19457" />
+  <BusStop Id="326111" Name="Szczodre - Szkoła" Street=" " X="17.1895084" Y="51.19815" />
+  <BusStop Id="326113" Name="Szczodre - stawy" Street=" " X="17.2049141" Y="51.2043266" />
+  <BusStop Id="326133" Name="Łosice" Street=" " X="17.2059612" Y="51.21779" />
+  <BusStop Id="326132" Name="Dąbrowica" Street=" " X="17.2174358" Y="51.2174721" />
+  <BusStop Id="326130" Name="Dobroszów" Street=" " X="17.2285957" Y="51.21616" />
+  <BusStop Id="326128" Name="Januszkowice" Street=" " X="17.2387714" Y="51.2212448" />
+  <BusStop Id="326136" Name="Januszkowice - Wierzbowa" Street=" " X="17.2356987" Y="51.22694" />
+  <BusStop Id="326178" Name="Michałowice" Street=" " X="17.214838" Y="51.2324829" />
+  <BusStop Id="326126" Name="Kępa" Street=" " X="17.2092228" Y="51.2385674" />
+  <BusStop Id="326124" Name="Kępa - Skrzyżowanie" Street=" " X="17.1964817" Y="51.2413254" />
+  <BusStop Id="326122" Name="Bierzyce" Street=" " X="17.1841736" Y="51.2359962" />
+  <BusStop Id="326220" Name="ŁOZINA" Street="pętla" X="17.17604" Y="51.2327156" />
+  <BusStop Id="326115" Name="Łosice" Street=" " X="17.2037277" Y="51.2167931" />
+  <BusStop Id="326117" Name="Budziwojowice" Street=" " X="17.18842" Y="51.2228" />
+  <BusStop Id="326119" Name="ŁOZINA" Street="pętla" X="17.17628" Y="51.2320938" />
+  <BusStop Id="326120" Name="ŁOZINA" Street="pętla" X="17.1759186" Y="51.232132" />
+  <BusStop Id="326118" Name="Budziwojowice" Street=" " X="17.1881046" Y="51.2230148" />
+  <BusStop Id="326116" Name="Łosice" Street=" " X="17.203495" Y="51.2167664" />
+  <BusStop Id="326151" Name="Długołęka - Kościół" Street=" " X="17.19224" Y="51.1736755" />
+  <BusStop Id="326153" Name="Kamień I" Street=" " X="17.2135448" Y="51.1685333" />
+  <BusStop Id="326155" Name="Kamień II" Street=" " X="17.2195911" Y="51.1667747" />
+  <BusStop Id="326157" Name="PIECOWICE" Street=" " X="17.2171955" Y="51.14451" />
+  <BusStop Id="326159" Name="Bielawa" Street=" " X="17.252327" Y="51.15998" />
+  <BusStop Id="396166" Name="Raków" Street=" " X="17.27716" Y="51.1689568" />
+  <BusStop Id="326163" Name="Borowa - Stacja PKP" Street=" " X="17.27998" Y="51.1854439" />
+  <BusStop Id="326165" Name="Borowa - szkoła" Street=" " X="17.27922" Y="51.1892929" />
+  <BusStop Id="326167" Name="Borowa - skrzyżowanie" Street=" " X="17.27996" Y="51.1956749" />
+  <BusStop Id="326169" Name="Stępin" Street=" " X="17.2807217" Y="51.2084732" />
+  <BusStop Id="326171" Name="STĘPIN - pętla" Street=" " X="17.2854919" Y="51.21351" />
+  <BusStop Id="326170" Name="Stępin" Street=" " X="17.2807083" Y="51.2087975" />
+  <BusStop Id="326168" Name="Borowa - skrzyżowanie" Street=" " X="17.2799988" Y="51.19455" />
+  <BusStop Id="326166" Name="Borowa - szkoła" Street=" " X="17.2791767" Y="51.189106" />
+  <BusStop Id="326164" Name="Borowa - Stacja PKP" Street=" " X="17.27995" Y="51.1850662" />
+  <BusStop Id="326162" Name="Raków" Street=" " X="17.2771454" Y="51.16872" />
+  <BusStop Id="326160" Name="Bielawa" Street=" " X="17.2523556" Y="51.1602058" />
+  <BusStop Id="326158" Name="PIECOWICE" Street=" " X="17.2168732" Y="51.14442" />
+  <BusStop Id="326156" Name="Kamień II" Street=" " X="17.21918" Y="51.1670456" />
+  <BusStop Id="326154" Name="Kamień I" Street=" " X="17.2134361" Y="51.1688042" />
+  <BusStop Id="326152" Name="Długołęka - Kościół" Street=" " X="17.192791" Y="51.17354" />
+  <BusStop Id="29116" Name="Psie Pole - stacja PKP" Street="pętla" X="17.1189957" Y="51.14973" />
+  <BusStop Id="29551" Name="Pawłowicka" Street="Pawłowicka" X="17.1129475" Y="51.1690331" />
+  <BusStop Id="29553" Name="Przebiśniegowa" Street="Pawłowicka" X="17.1091518" Y="51.17344" />
+  <BusStop Id="326183" Name="Ramiszów-kolonia" Street=" " X="17.0981922" Y="51.1779" />
+  <BusStop Id="326185" Name="Pasikurowice-cmentarz" Street=" " X="17.1012669" Y="51.20639" />
+  <BusStop Id="326187" Name="Pasikurowice-Malinowa" Street=" " X="17.1037216" Y="51.209446" />
+  <BusStop Id="326189" Name="Pasikurowice-Energetyczna" Street=" " X="17.1097965" Y="51.2138329" />
+  <BusStop Id="326193" Name="Siedlec-szkoła" Street=" " X="17.1145878" Y="51.2299843" />
+  <BusStop Id="326195" Name="Siedlec-skrzyżowanie" Street=" " X="17.117569" Y="51.2317162" />
+  <BusStop Id="326198" Name="Godzieszowa" Street=" " X="17.1302986" Y="51.24101" />
+  <BusStop Id="326196" Name="Siedlec-skrzyżowanie" Street=" " X="17.1167889" Y="51.2317123" />
+  <BusStop Id="326194" Name="Siedlec-szkoła" Street=" " X="17.1141663" Y="51.2299652" />
+  <BusStop Id="326188" Name="Pasikurowice-Energetyczna" Street=" " X="17.109745" Y="51.21412" />
+  <BusStop Id="326186" Name="Pasikurowice-Malinowa" Street=" " X="17.1037235" Y="51.2095947" />
+  <BusStop Id="326184" Name="Pasikurowice-cmentarz" Street=" " X="17.10091" Y="51.20684" />
+  <BusStop Id="326182" Name="Ramiszów-kolonia" Street=" " X="17.0980282" Y="51.177948" />
+  <BusStop Id="29552" Name="Przebiśniegowa" Street="Pawłowicka" X="17.1089382" Y="51.1734467" />
+  <BusStop Id="23529" Name="Widawa" Street="Sułowska" X="17.0232258" Y="51.175766" />
+  <BusStop Id="227901" Name="PSARY" Street="Główna" X="17.0284081" Y="51.1844254" />
+  <BusStop Id="23530" Name="Widawa" Street="Sułowska" X="17.0227814" Y="51.175312" />
+  <BusStop Id="524901" Name="Iwiny" Street="Strzelińska" X="17.0608425" Y="51.04454" />
+  <BusStop Id="20925" Name="Norwida" Street="pl. Grunwaldzki" X="17.065052" Y="51.1127167" />
+  <BusStop Id="29301" Name="Palacha" Street="Szewczenki" X="17.1263237" Y="51.1405029" />
+  <BusStop Id="29303" Name="Zgorzelisko" Street="Szewczenki" X="17.1313229" Y="51.13838" />
+  <BusStop Id="29305" Name="Mroźna" Street="Szewczenki" X="17.1379051" Y="51.13493" />
+  <BusStop Id="326931" Name="Wilczyce" Street="Wrocławska" X="17.1429348" Y="51.1329765" />
+  <BusStop Id="326933" Name="Wilczyce - Szkoła" Street="Wrocławska" X="17.1517277" Y="51.1297073" />
+  <BusStop Id="326935" Name="Wilczycka" Street="Wilczycka" X="17.1549511" Y="51.1292953" />
+  <BusStop Id="326927" Name="Wilczyce - Sosnowa" Street="Wilczycka" X="17.1628" Y="51.13033" />
+  <BusStop Id="326937" Name="Kiełczów - osiedle" Street="Wilczycka" X="17.1725426" Y="51.13257" />
+  <BusStop Id="326939" Name="Kiełczów - WODROL" Street="Wilczycka" X="17.1771832" Y="51.1370544" />
+  <BusStop Id="326941" Name="KIEŁCZÓW" Street="pętla" X="17.1790962" Y="51.13946" />
+  <BusStop Id="326940" Name="Kiełczów - WODROL" Street="Wilczycka" X="17.1755848" Y="51.1349" />
+  <BusStop Id="326938" Name="Kiełczów - osiedle" Street="Wilczycka" X="17.1716156" Y="51.1324158" />
+  <BusStop Id="326928" Name="Wilczyce - Sosnowa" Street="Wilczycka" X="17.16333" Y="51.13051" />
+  <BusStop Id="326936" Name="Wilczycka" Street="Wilczycka" X="17.1550484" Y="51.1293869" />
+  <BusStop Id="326934" Name="Wilczyce - Szkoła" Street="Wrocławska" X="17.1506042" Y="51.1300621" />
+  <BusStop Id="326932" Name="Wilczyce" Street="Wrocławska" X="17.1428032" Y="51.13315" />
+  <BusStop Id="29306" Name="Mroźna" Street="Szewczenki" X="17.1384354" Y="51.1348648" />
+  <BusStop Id="29304" Name="Zgorzelisko" Street="Szewczenki" X="17.1306171" Y="51.13893" />
+  <BusStop Id="29302" Name="Palacha" Street="Szewczenki" X="17.1264343" Y="51.1405754" />
+  <BusStop Id="911913" Name="BRZEZINA - pętla" Street="pętla" X="16.8264313" Y="51.20315" />
+  <BusStop Id="911912" Name="Brzezina" Street=" " X="16.8347378" Y="51.2015533" />
+  <BusStop Id="98360" Name="Las Mokrzański" Street="Wińska" X="16.8335552" Y="51.17591" />
+  <BusStop Id="18331" Name="Ratyń - skrzyżowanie" Street="Gromadzka" X="16.8466759" Y="51.129982" />
+  <BusStop Id="18333" Name="Las Ratyński" Street="Gromadzka" X="16.8330765" Y="51.12352" />
+  <BusStop Id="911901" Name="Gałów - ferma" Street="Gromadzka" X="16.82539" Y="51.118042" />
+  <BusStop Id="911903" Name="Gałów - PGR" Street="Gromadzka" X="16.8166714" Y="51.11192" />
+  <BusStop Id="911905" Name="GAŁÓW" Street="pętla" X="16.8109512" Y="51.111763" />
+  <BusStop Id="911904" Name="Gałów - PGR" Street="Gromadzka" X="16.8163452" Y="51.1112671" />
+  <BusStop Id="911902" Name="Gałów - ferma" Street="Gromadzka" X="16.8257847" Y="51.1182175" />
+  <BusStop Id="18334" Name="Las Ratyński" Street="Gromadzka" X="16.8330288" Y="51.12328" />
+  <BusStop Id="18332" Name="Ratyń - skrzyżowanie" Street="Gromadzka" X="16.8468456" Y="51.1298447" />
+  <BusStop Id="911911" Name="Brzezina" Street=" " X="16.8348885" Y="51.2014847" />
+  <BusStop Id="911915" Name="Brzezinka Średzka" Street=" " X="16.83712" Y="51.2160759" />
+  <BusStop Id="911917" Name="Pisarzowice - ul. Kolejowa" Street=" " X="16.8510361" Y="51.20853" />
+  <BusStop Id="911920" Name="Pisarzowice" Street=" " X="16.8518639" Y="51.2065849" />
+  <BusStop Id="911927" Name="Pisarzowice - Baza" Street=" " X="16.8524647" Y="51.20497" />
+  <BusStop Id="911925" Name="Wilkszyn" Street="Wilkszyńska" X="16.8630314" Y="51.1917" />
+  <BusStop Id="911924" Name="Wilkszyn - Polna" Street="Marszowicka" X="16.86651" Y="51.1885643" />
+  <BusStop Id="911922" Name="Miłoszyn" Street="Wilkszyńska" X="16.8720455" Y="51.18317" />
+  <BusStop Id="18726" Name="Krzelowska" Street="Wilkszyńska" X="16.8786068" Y="51.1774673" />
+  <BusStop Id="18728" Name="Łososiowicka" Street="Wilkszyńska" X="16.88116" Y="51.1757126" />
+  <BusStop Id="18724" Name="Wilkszyńska" Street="Wilkszyńska" X="16.8862267" Y="51.17365" />
+  <BusStop Id="18722" Name="Marszowice" Street="Wilkszyńska" X="16.8905029" Y="51.16786" />
+  <BusStop Id="18386" Name="LEŚNICA" Street="pętla" X="16.8718185" Y="51.1447945" />
+  <BusStop Id="18723" Name="Wilkszyńska" Street="Wilkszyńska" X="16.8866787" Y="51.17355" />
+  <BusStop Id="18727" Name="Łososiowicka" Street="Wilkszyńska" X="16.8808556" Y="51.17601" />
+  <BusStop Id="18725" Name="Krzelowska" Street="Wilkszyńska" X="16.8781738" Y="51.17786" />
+  <BusStop Id="911921" Name="Miłoszyn" Street="Wilkszyńska" X="16.8711185" Y="51.1842346" />
+  <BusStop Id="911923" Name="Wilkszyn - Polna" Street="Marszowicka" X="16.8661976" Y="51.1890335" />
+  <BusStop Id="991925" Name="Wilkszyn" Street="pętla" X="16.862854" Y="51.19174" />
+  <BusStop Id="991926" Name="Pisarzowice - Baza" Street=" " X="16.8526173" Y="51.2049" />
+  <BusStop Id="911919" Name="Pisarzowice" Street=" " X="16.8518085" Y="51.20737" />
+  <BusStop Id="991918" Name="Pisarzowice - ul. Kolejowa" Street=" " X="16.8514061" Y="51.2100525" />
+  <BusStop Id="911916" Name="Brzezinka Średzka" Street=" " X="16.8370476" Y="51.21637" />
+  <BusStop Id="524908" Name="Żerniki Wr. - skrzyżowanie" Street="Kolejowa" X="17.0631256" Y="51.0305977" />
+  <BusStop Id="524139" Name="Siechnice - Opolska" Street="Opolska" X="17.1422443" Y="51.03094" />
+  <BusStop Id="524938" Name="SIECHNICE - OSIEDLE" Street="pętla" X="16.5858345" Y="51.034977" />
+  <BusStop Id="524138" Name="Siechnice - Zacisze" Street="Kościelna" X="16.5858345" Y="51.034977" />
+  <BusStop Id="524935" Name="Siechnice - Zacisze" Street="Kościelna" X="16.5858345" Y="51.034977" />
+  <BusStop Id="524937" Name="SIECHNICE - OSIEDLE" Street="pętla" X="16.5858345" Y="51.034977" />
+</BusStopList>

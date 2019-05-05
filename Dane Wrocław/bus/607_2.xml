@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Line Name="607" Variant="2">
+  <BusStopLine BusStop="716101">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="30" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="20" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="20" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="20" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="20" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="716102">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="31" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="21" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="34" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="21" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="21" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="21" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="716103">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="32" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="22" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="35" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="22" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="22" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="22" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="716105">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="33" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="23" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="36" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="23" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="23" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="23" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="716106">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="42" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="24" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="40" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="24" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="24" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="24" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="17104">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="6">
+        <Minute m="59" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="41" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="15" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="41" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="41" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="41" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="11707">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="15">
+        <Minute m="47" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="47" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="47" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12150">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="15">
+        <Minute m="50" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="50" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="50" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12304">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="15">
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="57" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="10501">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="16">
+        <Minute m="2" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="2" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="2" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota" />
+    <Schedule DayType="Niedziela" />
+  </BusStopLine>
+</Line>

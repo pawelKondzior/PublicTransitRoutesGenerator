@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="607" typ="Podmiejska autobusowa" wazny_od="30.08.2015" wazny_do="">
+  <wariant id="1" nazwa="PL. JANA PAWŁA II - Biskupice Podgórne LG Electronics">
+   <przystanek id="10501" nazwa="PL. JANA PAWŁA II" ulica="Legnicka" cechy="">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="46">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12303" nazwa="Kwiska" ulica="Legnicka" cechy="">
+    <tabliczka id="2" mc="8">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="52" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12153" nazwa="Wrocławski Park Technologiczny" ulica="Klecińska" cechy="">
+    <tabliczka id="3" mc="7">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="11711" nazwa="FAT" ulica="Ostrowskiego" cechy="">
+    <tabliczka id="4" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="04">
+       </min>
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17111" nazwa="Ibn Siny Avicenny" ulica="Ibn Siny Avicenny" cechy="">
+    <tabliczka id="5" mc="6" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="10">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716101" nazwa="Biskupice Podgórne LG Display" ulica="LG" cechy="">
+    <tabliczka id="6" mc="20">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="30">
+       </min>
+       <min m="41">
+       </min>
+       <min m="42" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716102" nazwa="Biskupice Podgórne LG Chem" ulica="LG" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="31">
+       </min>
+       <min m="42">
+       </min>
+       <min m="43" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716103" nazwa="Biskupice Podgórne LG Innotek" ulica="Seulska" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="32">
+       </min>
+       <min m="43">
+       </min>
+       <min m="44" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716105" nazwa="Biskupice Podgórne Dong Seo/Dong Yang" ulica="Współpracy" cechy="">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="33">
+       </min>
+       <min m="44">
+       </min>
+       <min m="45" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Biskupice Podgórne LG Display - Zajezdnia Obornicka" obj="jpII">
+   <przystanek id="716101" nazwa="Biskupice Podgórne LG Display" ulica="LG" cechy="">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="30">
+       </min>
+       <min m="41">
+       </min>
+       <min m="42" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716102" nazwa="Biskupice Podgórne LG Chem" ulica="LG" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="31">
+       </min>
+       <min m="42">
+       </min>
+       <min m="43" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716103" nazwa="Biskupice Podgórne LG Innotek" ulica="Seulska" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="32">
+       </min>
+       <min m="43">
+       </min>
+       <min m="44" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716105" nazwa="Biskupice Podgórne Dong Seo/Dong Yang" ulica="Współpracy" cechy="">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="33">
+       </min>
+       <min m="44">
+       </min>
+       <min m="45" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="46" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+       <min m="50" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="58" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17104" nazwa="Wiejska" ulica="Solskiego" cechy="">
+    <tabliczka id="11" mc="19">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="05" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="11707" nazwa="FAT" ulica="Klecińska" cechy="">
+    <tabliczka id="12" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="09" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12150" nazwa="Wrocławski Park Technologiczny" ulica="Klecińska" cechy="">
+    <tabliczka id="13" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="12" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12304" nazwa="Kwiska" ulica="Legnicka" cechy="">
+    <tabliczka id="14" mc="7">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10502" nazwa="PL. JANA PAWŁA II" ulica="Legnicka" cechy="">
+    <tabliczka id="15" mc="8">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="110005" nazwa="Rynek" ulica="Kazimierza Wlk." cechy="">
+    <tabliczka id="16" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="110601" nazwa="Pomorska" ulica="Pomorska" cechy="">
+    <tabliczka id="17" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10703" nazwa="PL. STASZICA" ulica="Pomorska" cechy="">
+    <tabliczka id="18" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10705" nazwa="Kleczkowska" ulica="Reymonta" cechy="">
+    <tabliczka id="19" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="123001" nazwa="most Osobowicki" ulica="Osobowicka" cechy="">
+    <tabliczka id="20" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23103" nazwa="Serbska (C.K. Agora)" ulica="Osobowicka" cechy="">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23111" nazwa="Łużycka" ulica="Łużycka" cechy="">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23113" nazwa="Różanka" ulica="Bezpieczna" cechy="">
+    <tabliczka id="23" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23145" nazwa="Bezpieczna" ulica="Obornicka" cechy="">
+    <tabliczka id="24" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23149" nazwa="Paprotna" ulica="Obornicka" cechy="">
+    <tabliczka id="25" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="16">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="9" nazwa="Zajezdnia Obornicka" ulica="Obornicka" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Biskupice Podgórne LG Electronics - Zajezdnia Obornicka">
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+    <tabliczka id="10" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="46" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+       <min m="50" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="58" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17104" nazwa="Wiejska" ulica="Solskiego" cechy="">
+    <tabliczka id="11" mc="19">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="05" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="11707" nazwa="FAT" ulica="Klecińska" cechy="">
+    <tabliczka id="12" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="09" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12150" nazwa="Wrocławski Park Technologiczny" ulica="Klecińska" cechy="">
+    <tabliczka id="13" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="12" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12156" nazwa="Szkocka" ulica="Klecińska" cechy="">
+    <tabliczka id="26" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="14" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12530" nazwa="Gądowianka" ulica="Na Ostatnim Groszu" cechy="">
+    <tabliczka id="27" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12512" nazwa="Na Ostatnim Groszu" ulica="Na Ostatnim Groszu" cechy="">
+    <tabliczka id="28" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="112206" nazwa="Kwiska" ulica="Legnicka" cechy="">
+    <tabliczka id="29" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12315" nazwa="Wejherowska" ulica="Popowicka" cechy="">
+    <tabliczka id="30" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12320" nazwa="Hala Orbita" ulica="Milenijna" cechy="">
+    <tabliczka id="31" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23110" nazwa="most Milenijny" ulica="most Milenijny" cechy="">
+    <tabliczka id="32" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23154" nazwa="Obornicka (Obwodnica)" ulica="Obornicka" cechy="">
+    <tabliczka id="33" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23152" nazwa="Irysowa" ulica="Obornicka" cechy="">
+    <tabliczka id="34" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="9" nazwa="Zajezdnia Obornicka" ulica="Obornicka" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="4" nazwa="Zajezdnia Obornicka - PL. JANA PAWŁA II">
+   <przystanek id="9" nazwa="Zajezdnia Obornicka" ulica="Obornicka" cechy="">
+    <tabliczka id="35" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="27">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23150" nazwa="Paprotna" ulica="Obornicka" cechy="">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="28">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23116" nazwa="Bezpieczna" ulica="Bezpieczna" cechy="">
+    <tabliczka id="37" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="30">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23114" nazwa="Różanka" ulica="Bezpieczna" cechy="">
+    <tabliczka id="38" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="31">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23112" nazwa="Łużycka" ulica="Łużycka" cechy="">
+    <tabliczka id="39" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="32">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="123004" nazwa="Serbska (C.K. Agora)" ulica="Osobowicka" cechy="">
+    <tabliczka id="40" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="33">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="123002" nazwa="most Osobowicki" ulica="Osobowicka" cechy="">
+    <tabliczka id="41" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="35">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10706" nazwa="Kleczkowska" ulica="Reymonta" cechy="">
+    <tabliczka id="42" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="37">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10704" nazwa="PL. STASZICA" ulica="Pomorska" cechy="">
+    <tabliczka id="43" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="39">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="110602" nazwa="Pomorska" ulica="Pomorska" cechy="">
+    <tabliczka id="44" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="41">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="110104" nazwa="Rynek" ulica="Nowy Świat" cechy="">
+    <tabliczka id="45" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="43">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="10501" nazwa="PL. JANA PAWŁA II" ulica="Legnicka" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="5" nazwa="Zajezdnia Obornicka - Biskupice Podgórne LG Electronics">
+   <przystanek id="9" nazwa="Zajezdnia Obornicka" ulica="Obornicka" cechy="">
+    <tabliczka id="35" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="27">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23151" nazwa="Irysowa" ulica="Obornicka" cechy="">
+    <tabliczka id="46" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23156" nazwa="Obornicka (Obwodnica)" ulica="Nowaka-Jeziorańskiego" cechy="">
+    <tabliczka id="47" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="23109" nazwa="most Milenijny" ulica="most Milenijny" cechy="">
+    <tabliczka id="48" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12319" nazwa="Hala Orbita" ulica="Milenijna" cechy="">
+    <tabliczka id="49" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12317" nazwa="Wejherowska" ulica="Wejherowska" cechy="">
+    <tabliczka id="50" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12303" nazwa="Kwiska" ulica="Legnicka" cechy="">
+    <tabliczka id="2" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="52" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12529" nazwa="Na Ostatnim Groszu" ulica="Na Ostatnim Groszu" cechy="">
+    <tabliczka id="51" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12533" nazwa="Gądowianka" ulica="Estakada" cechy="">
+    <tabliczka id="52" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12149" nazwa="Szkocka" ulica="Klecińska" cechy="">
+    <tabliczka id="53" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="13">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12153" nazwa="Wrocławski Park Technologiczny" ulica="Klecińska" cechy="">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29" ozn="A" przyp="A - Kurs do: Biskupice Podgórne LG Electronics">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12157" nazwa="ROD Oświata" ulica="Klecińska" cechy="">
+    <tabliczka id="54" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="11711" nazwa="FAT" ulica="Ostrowskiego" cechy="">
+    <tabliczka id="4" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="04">
+       </min>
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17111" nazwa="Ibn Siny Avicenny" ulica="Ibn Siny Avicenny" cechy="">
+    <tabliczka id="5" mc="6" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="10">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716101" nazwa="Biskupice Podgórne LG Display" ulica="LG" cechy="">
+    <tabliczka id="6" mc="20">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="30">
+       </min>
+       <min m="41">
+       </min>
+       <min m="42" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716102" nazwa="Biskupice Podgórne LG Chem" ulica="LG" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="31">
+       </min>
+       <min m="42">
+       </min>
+       <min m="43" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716103" nazwa="Biskupice Podgórne LG Innotek" ulica="Seulska" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="32">
+       </min>
+       <min m="43">
+       </min>
+       <min m="44" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716105" nazwa="Biskupice Podgórne Dong Seo/Dong Yang" ulica="Współpracy" cechy="">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="33">
+       </min>
+       <min m="44">
+       </min>
+       <min m="45" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="6" nazwa="Biskupice Podgórne LG Display - NOWY DWÓR (pętla)">
+   <przystanek id="716101" nazwa="Biskupice Podgórne LG Display" ulica="LG" cechy="">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="30">
+       </min>
+       <min m="41">
+       </min>
+       <min m="42" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716102" nazwa="Biskupice Podgórne LG Chem" ulica="LG" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="31">
+       </min>
+       <min m="42">
+       </min>
+       <min m="43" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716103" nazwa="Biskupice Podgórne LG Innotek" ulica="Seulska" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="32">
+       </min>
+       <min m="43">
+       </min>
+       <min m="44" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716105" nazwa="Biskupice Podgórne Dong Seo/Dong Yang" ulica="Współpracy" cechy="">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="33">
+       </min>
+       <min m="44">
+       </min>
+       <min m="45" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="46" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+       <min m="50" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="58" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17104" nazwa="Wiejska" ulica="Solskiego" cechy="">
+    <tabliczka id="11" mc="19">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="05" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="11707" nazwa="FAT" ulica="Klecińska" cechy="">
+    <tabliczka id="12" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="09" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12150" nazwa="Wrocławski Park Technologiczny" ulica="Klecińska" cechy="">
+    <tabliczka id="13" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="12" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12156" nazwa="Szkocka" ulica="Klecińska" cechy="">
+    <tabliczka id="26" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="14" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12107" nazwa="Nowodworska" ulica="Strzegomska" cechy="">
+    <tabliczka id="55" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12109" nazwa="Nowy Dwór" ulica="Strzegomska" cechy="">
+    <tabliczka id="56" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12123" nazwa="Chociebuska" ulica="Chociebuska" cechy="">
+    <tabliczka id="57" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12125" nazwa="Nowy Dwór (Rogowska)" ulica="Rogowska" cechy="">
+    <tabliczka id="58" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="12136" nazwa="NOWY DWÓR (pętla)" ulica="Rogowska" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="7" nazwa="Biskupice Podgórne LG Display - Al. Piastów">
+   <przystanek id="716101" nazwa="Biskupice Podgórne LG Display" ulica="LG" cechy="">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="30">
+       </min>
+       <min m="41">
+       </min>
+       <min m="42" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716102" nazwa="Biskupice Podgórne LG Chem" ulica="LG" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="31">
+       </min>
+       <min m="42">
+       </min>
+       <min m="43" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716103" nazwa="Biskupice Podgórne LG Innotek" ulica="Seulska" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="32">
+       </min>
+       <min m="43">
+       </min>
+       <min m="44" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716105" nazwa="Biskupice Podgórne Dong Seo/Dong Yang" ulica="Współpracy" cechy="">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="33">
+       </min>
+       <min m="44">
+       </min>
+       <min m="45" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="A" przyp="A - Kurs do: Zajezdnia Obornicka">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="716106" nazwa="Biskupice Podgórne LG Electronics" ulica="Seulska" cechy="">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="6">
+       <min m="46" ozn="W" przyp="W -  kurs skrócony do Nowego Dworu (do przyst. Szkocka po trasie)">
+       </min>
+       <min m="50" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19" ozn="L" przyp="L - kurs do Alei Paistów (do przyst. Wiejska po trasie) i dalej jako linia 125 do Brochowa przez FAT, Dw. Główny PKP">
+       </min>
+       <min m="58" ozn="Z" przyp="Z - zjazd do zajezdni przy ulicy Obornickiej przez Most Milenijny, ul. Jeziorańskiego (do przyst. Kwiska po trasie)">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="G" przyp="G -  kurs tylko do parkingu przy LG Display">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17105" nazwa="Wiejska" ulica="Aleja Piastów" cechy="">
+    <tabliczka id="59" mc="19">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17107" nazwa="Kadłubka" ulica="Aleja Piastów" cechy="">
+    <tabliczka id="60" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17109" nazwa="Stanki" ulica="Aleja Piastów" cechy="">
+    <tabliczka id="61" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17125" nazwa="Jutrzenki" ulica="Aleja Piastów" cechy="">
+    <tabliczka id="62" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="17124" nazwa="Al. Piastów" ulica="Aleja Piastów" cechy="">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

@@ -1,0 +1,113 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:src="clr-namespace:Magisterka.Application.Wpf" 
+    mc:Ignorable="d" 
+    x:Class="Magisterka.Application.Wpf.MainWindow"
+    WindowStartupLocation="CenterScreen"
+        Title="Test" Height="809" Width="1246" >
+    <Window.Resources>
+        <Style x:Key="ZoomUpButton" TargetType="Button">
+            <Setter Property="Width" Value="23.5" />
+            <Setter Property="Height" Value="25.5" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Width="23.5" Height="25.5">
+                            <Image Source="/Magisterka.Application.Wpf;component/Resources/zoom+.png" Stretch="Fill" />
+                            <ContentPresenter HorizontalAlignment="Center" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect ShadowDepth="2" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ZoomDownButton" TargetType="Button">
+            <Setter Property="Width" Value="23.5" />
+            <Setter Property="Height" Value="25.5" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Width="23.5" Height="25.5">
+                            <Image Source="/Magisterka.Application.Wpf;component/Resources/zoom-.png" Stretch="Fill" />
+                            <ContentPresenter HorizontalAlignment="Center" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect ShadowDepth="2" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <!--<Grid Name="ChartGrid" Margin="211,31,12,12">
+           
+        </Grid>-->
+        <GroupBox HorizontalAlignment="Left"  Name="groupBox1" Width="251" Margin="0,0,0,12">
+            <Grid >
+                <ListView  x:Name="LBresults" Margin="0,372,-29,-8" Width="268" SelectionChanged="LBresults_SelectionChanged" MouseDoubleClick="LBresults_MouseDoubleClick" HorizontalAlignment="Left" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Fitness" Width="50"  DisplayMemberBinding="{Binding AdaptationFunctionResult}"  />
+                            <GridViewColumn Header="Czas od startu" Width="50"  DisplayMemberBinding="{Binding TimeFromArrive}"  />
+                            <GridViewColumn Header="Czas"  Width="60" DisplayMemberBinding="{Binding RouteTime}"  />
+                            <GridViewColumn Header="Linie "  Width="60" DisplayMemberBinding="{Binding LinesNames}"  />
+                            <GridViewColumn Header="Party "  Width="60" DisplayMemberBinding="{Binding PartOfTheRoute.Count}"  />
+                            <GridViewColumn Header="Po algorytmie"  Width="60" DisplayMemberBinding="{Binding IsGeneretedByEaAlgotithm}"  />
+                            <GridViewColumn Header="Z mutacji"  Width="60" DisplayMemberBinding="{Binding IsFromMutation}"  />
+                            <GridViewColumn Header="Z krzyzowania"  Width="60" DisplayMemberBinding="{Binding IsFromHybrydyzaion}"  />
+                            <GridViewColumn Header="Generacja"  Width="60" DisplayMemberBinding="{Binding Generation}"  />
+                            <GridViewColumn Header="czasy poprawne"  Width="60" DisplayMemberBinding="{Binding TimesCorrect}"  />
+                            <GridViewColumn Header="liczba autobusowych"  Width="60" DisplayMemberBinding="{Binding BusConnectionsCount}"  />
+                            <GridViewColumn Header="liczba poprawne"  Width="60" DisplayMemberBinding="{Binding WalkConnectionsCount}"  />
+                            <GridViewColumn Header="liczba lini"  Width="60" DisplayMemberBinding="{Binding LinesCount}"  />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Label Content="Sposób generowania populacji" Height="28" HorizontalAlignment="Left" Margin="5,79,0,0" x:Name="label1" VerticalAlignment="Top" Width="178" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="12,107,0,0" x:Name="CBPopulationType" VerticalAlignment="Top" Width="161" />
+                <Button Content="Generuj" Height="23" HorizontalAlignment="Left" Margin="98,136,0,0" x:Name="BGeneratePopulation" VerticalAlignment="Top" Width="75" Click="BGeneratePopulation_Click" />
+                <Label Content="Czas:" Height="28" HorizontalAlignment="Left" x:Name="LTime" VerticalAlignment="Top" Width="227" Margin="12,247,0,0" d:LayoutOverrides="VerticalAlignment" />
+                <Button Content="Parametry" Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" x:Name="BParameters" VerticalAlignment="Top" Width="75" Click="BParameters_Click" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="12,190,0,0" x:Name="CbEvolutionAlgorithmType" VerticalAlignment="Top" Width="161" SelectionChanged="CbEvolutionAlgorithmType_SelectionChanged" />
+                <Label Content="Algorytm genetyczny:" Height="28" HorizontalAlignment="Left" Margin="7,165,0,0" x:Name="label4" VerticalAlignment="Top" Width="178" />
+                <Button Content="Start" Height="23" HorizontalAlignment="Left" Margin="98,219,0,0" x:Name="BAlgorithmStart" VerticalAlignment="Top" Width="75" Click="BAlgorithmStart_Click" />
+                <!--<Button Content="Mutacja" Height="23" HorizontalAlignment="Left" Margin="12,219,0,0" x:Name="Mutate" VerticalAlignment="Top" Width="75" Click="Mutate_Click" />-->
+                <!--<Button x:Name="BOthers" Content="Inne" HorizontalAlignment="Left" Margin="98,12,0,0" VerticalAlignment="Top" Width="75" Click="BOthers_Click"/>-->
+                <ComboBox x:Name="DDLastBusStops"  DisplayMemberPath="DisplayValue"  HorizontalAlignment="Left" Margin="12,52,0,0" VerticalAlignment="Top" Width="161" SelectionChanged="DDLastBusStops_SelectionChanged"/>
+                <Label Height="28" HorizontalAlignment="Left" Margin="17,0,0,10" x:Name="LPosition" VerticalAlignment="Bottom" Width="231" />
+                <Button Content="Resetuj" Height="23" HorizontalAlignment="Left" Margin="98,12,0,0" x:Name="BTestPoints" VerticalAlignment="Top" Width="75" Click="BTestPoints_Click" />
+                <Label Content="Pokaż linie autobusowe" Height="28" HorizontalAlignment="Left" Margin="10,275,0,0" x:Name="LabelLinie" VerticalAlignment="Top" Width="178" />
+                <ComboBox Height="23" DisplayMemberPath="DisplayValue"   HorizontalAlignment="Left" Margin="12,303,0,0" x:Name="DDBusLines" VerticalAlignment="Top" Width="161" SelectionChanged="DDLinie_SelectionChanged" />
+                <CheckBox x:Name="CbMap" Content="Pokaż mape" Margin="12,342,39,0" VerticalAlignment="Top" IsChecked="True" Click="CbMap_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Name="mapgroup"  Header="gmap" Margin="256,7,10,12" VerticalContentAlignment="Center" HorizontalContentAlignment="Left">
+            <src:Map x:Name="MainMap" Zoom="13" MaxZoom="24" MinZoom="1" />
+        </GroupBox>
+        <!--<GroupBox HorizontalAlignment="Right" Margin="0,7,186,12" VerticalAlignment="Stretch" Header="Zoom">
+            <Grid>
+                <Button x:Name="czuZoomUp" Style="{StaticResource ZoomUpButton}" HorizontalAlignment="Center" VerticalAlignment="Top" Width="23.5" Height="25.5" Click="czuZoomUp_Click"/>
+                <Slider Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Stretch" Maximum="17" Minimum="12" Value="{Binding ElementName=MainMap, Path=Zoom}" TickPlacement="Both" Margin="0,35,0,35" SmallChange="1" x:Name="sliderZoom" ValueChanged="sliderZoom_ValueChanged" />
+                <Button Style="{StaticResource ZoomDownButton}" x:Name="czuZoomDown" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="23" Height="25" Click="czuZoomDown_Click"/>
+            </Grid>
+        </GroupBox>-->
+    </Grid>
+
+</Window>

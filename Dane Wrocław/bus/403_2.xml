@@ -1,0 +1,7155 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Line Name="403" Variant="2">
+  <BusStopLine BusStop="18387">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="4">
+        <Minute m="57" />
+      </Hour>
+      <Hour h="5">
+        <Minute m="18" />
+        <Minute m="41" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="23" />
+        <Minute m="39" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="46" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="18" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="7" />
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="7" />
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="7" />
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="10" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="0" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="24" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="6" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="22" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="15" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="24" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="6" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="22" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="15" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="24" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="6" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18312">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="4">
+        <Minute m="58" />
+      </Hour>
+      <Hour h="5">
+        <Minute m="19" />
+        <Minute m="42" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="24" />
+        <Minute m="40" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="47" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="19" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="8" />
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="8" />
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="8" />
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="11" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="1" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="25" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="7" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="23" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="16" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="25" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="7" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="23" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="16" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="25" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="7" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18302">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="4">
+        <Minute m="59" />
+      </Hour>
+      <Hour h="5">
+        <Minute m="20" />
+        <Minute m="43" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="25" />
+        <Minute m="41" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="0" />
+        <Minute m="20" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="12" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="2" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="26" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="8" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="24" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="17" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="26" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="8" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="24" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="17" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="26" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="8" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18121">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="1" />
+        <Minute m="22" />
+        <Minute m="45" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="27" />
+        <Minute m="43" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="15" />
+        <Minute m="30" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="2" />
+        <Minute m="22" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="14" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="4" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="28" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="10" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="26" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="19" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="28" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="10" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="26" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="19" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="28" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="10" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18123">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="2" />
+        <Minute m="23" />
+        <Minute m="46" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="28" />
+        <Minute m="44" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="3" />
+        <Minute m="23" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="15" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="5" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="9" />
+        <Minute m="29" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="11" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="27" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="20" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="9" />
+        <Minute m="29" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="11" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="27" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="20" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="9" />
+        <Minute m="29" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="11" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18125">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="3" />
+        <Minute m="24" />
+        <Minute m="47" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="29" />
+        <Minute m="45" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="4" />
+        <Minute m="24" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="16" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="6" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="10" />
+        <Minute m="30" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="12" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="28" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="21" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="10" />
+        <Minute m="30" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="12" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="28" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="21" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="10" />
+        <Minute m="30" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="12" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18127">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="4" />
+        <Minute m="25" />
+        <Minute m="48" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="30" />
+        <Minute m="46" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="5" />
+        <Minute m="25" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="17" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="7" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="11" />
+        <Minute m="31" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="13" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="29" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="22" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="11" />
+        <Minute m="31" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="13" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="29" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="22" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="11" />
+        <Minute m="31" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="13" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18129">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="5" />
+        <Minute m="26" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="0" />
+        <Minute m="31" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="0" />
+        <Minute m="19" />
+        <Minute m="34" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="6" />
+        <Minute m="26" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="15" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="0" />
+        <Minute m="15" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="0" />
+        <Minute m="15" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="0" />
+        <Minute m="18" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="8" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="12" />
+        <Minute m="32" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="14" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="30" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="0" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="0" />
+        <Minute m="30" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="23" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="12" />
+        <Minute m="32" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="14" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="30" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="0" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="0" />
+        <Minute m="30" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="23" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="12" />
+        <Minute m="32" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="14" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18707">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="6" />
+        <Minute m="27" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="1" />
+        <Minute m="32" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="1" />
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="7" />
+        <Minute m="27" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="1" />
+        <Minute m="19" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="9" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="33" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="15" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="31" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="1" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="1" />
+        <Minute m="31" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="24" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="33" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="15" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="31" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="1" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="1" />
+        <Minute m="31" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="24" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="33" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="15" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18709">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="7" />
+        <Minute m="28" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="2" />
+        <Minute m="33" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="2" />
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="8" />
+        <Minute m="28" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="2" />
+        <Minute m="20" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="10" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="14" />
+        <Minute m="34" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="16" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="32" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="2" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="2" />
+        <Minute m="32" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="25" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="14" />
+        <Minute m="34" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="16" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="32" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="2" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="2" />
+        <Minute m="32" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="25" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="14" />
+        <Minute m="34" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="16" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18720">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="8" />
+        <Minute m="29" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="3" />
+        <Minute m="34" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="3" />
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="9" />
+        <Minute m="29" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="21" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="11" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="3" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="0" />
+        <Minute m="26" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="3" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="0" />
+        <Minute m="26" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18711">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="8" />
+        <Minute m="29" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="3" />
+        <Minute m="34" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="3" />
+        <Minute m="22" />
+        <Minute m="37" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="9" />
+        <Minute m="29" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="21" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="11" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="3" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="0" />
+        <Minute m="26" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="3" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="0" />
+        <Minute m="26" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="15" />
+        <Minute m="35" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="17" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18742">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="10" />
+        <Minute m="31" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="5" />
+        <Minute m="22" />
+        <Minute m="36" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="5" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="11" />
+        <Minute m="31" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="5" />
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="5" />
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="5" />
+        <Minute m="23" />
+        <Minute m="29" />
+        <Minute m="43" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="13" />
+        <Minute m="29" />
+        <Minute m="43" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="13" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="19" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="30" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="0" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="5" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="2" />
+        <Minute m="28" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="19" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="30" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="0" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="5" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="2" />
+        <Minute m="28" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="19" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18718">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="11" />
+        <Minute m="32" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="6" />
+        <Minute m="23" />
+        <Minute m="37" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="6" />
+        <Minute m="25" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="0" />
+        <Minute m="12" />
+        <Minute m="32" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="6" />
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="6" />
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="6" />
+        <Minute m="24" />
+        <Minute m="30" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="0" />
+        <Minute m="14" />
+        <Minute m="30" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="0" />
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="14" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="20" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="31" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="1" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="6" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="3" />
+        <Minute m="29" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="20" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="31" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="1" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="6" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="3" />
+        <Minute m="29" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="20" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18514">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="13" />
+        <Minute m="34" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="8" />
+        <Minute m="25" />
+        <Minute m="39" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="8" />
+        <Minute m="27" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="2" />
+        <Minute m="14" />
+        <Minute m="34" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="8" />
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="8" />
+        <Minute m="23" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="8" />
+        <Minute m="26" />
+        <Minute m="32" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="2" />
+        <Minute m="16" />
+        <Minute m="32" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="2" />
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="16" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="22" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="3" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="8" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="5" />
+        <Minute m="31" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="22" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="33" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="3" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="8" />
+        <Minute m="38" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="5" />
+        <Minute m="31" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="22" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18530">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="14" />
+        <Minute m="35" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="9" />
+        <Minute m="26" />
+        <Minute m="40" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="9" />
+        <Minute m="28" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="3" />
+        <Minute m="15" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="0" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="0" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="9" />
+        <Minute m="27" />
+        <Minute m="33" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="17" />
+        <Minute m="33" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="17" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="23" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="34" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="4" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="9" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="6" />
+        <Minute m="32" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="23" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="34" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="4" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="9" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="6" />
+        <Minute m="32" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="23" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18534">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="15" />
+        <Minute m="36" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="11" />
+        <Minute m="28" />
+        <Minute m="42" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="11" />
+        <Minute m="30" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="5" />
+        <Minute m="17" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="2" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="10" />
+        <Minute m="28" />
+        <Minute m="34" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="4" />
+        <Minute m="18" />
+        <Minute m="34" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="4" />
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="18" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="24" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="35" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="5" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="11" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="7" />
+        <Minute m="33" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="24" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="35" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="5" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="11" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="7" />
+        <Minute m="33" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="24" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18528">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="16" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="0" />
+        <Minute m="12" />
+        <Minute m="29" />
+        <Minute m="43" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="12" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="6" />
+        <Minute m="18" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="3" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="12" />
+        <Minute m="27" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="11" />
+        <Minute m="29" />
+        <Minute m="35" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="5" />
+        <Minute m="19" />
+        <Minute m="35" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="5" />
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="19" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="25" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="36" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="6" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="12" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="8" />
+        <Minute m="34" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="25" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="36" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="6" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="12" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="8" />
+        <Minute m="34" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="25" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18520">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="17" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="1" />
+        <Minute m="13" />
+        <Minute m="30" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="0" />
+        <Minute m="13" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="7" />
+        <Minute m="19" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="4" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="12" />
+        <Minute m="30" />
+        <Minute m="36" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="6" />
+        <Minute m="20" />
+        <Minute m="36" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="6" />
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="20" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="26" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="37" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="7" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="13" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="9" />
+        <Minute m="35" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="26" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="37" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="7" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="13" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="9" />
+        <Minute m="35" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="26" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18532">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="18" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="2" />
+        <Minute m="14" />
+        <Minute m="31" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="1" />
+        <Minute m="14" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="8" />
+        <Minute m="20" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="5" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="13" />
+        <Minute m="31" />
+        <Minute m="37" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="7" />
+        <Minute m="21" />
+        <Minute m="37" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="7" />
+        <Minute m="21" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="21" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="27" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="38" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="8" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="14" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="10" />
+        <Minute m="36" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="27" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="38" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="8" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="14" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="14" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="10" />
+        <Minute m="36" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="27" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="18502">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="19" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="4" />
+        <Minute m="16" />
+        <Minute m="33" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="3" />
+        <Minute m="16" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="10" />
+        <Minute m="22" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="7" />
+        <Minute m="37" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="7" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="1" />
+        <Minute m="14" />
+        <Minute m="32" />
+        <Minute m="38" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="8" />
+        <Minute m="22" />
+        <Minute m="38" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="8" />
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="22" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="28" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="39" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="9" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="11" />
+        <Minute m="37" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="28" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="39" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="9" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="16" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="11" />
+        <Minute m="37" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="28" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12708">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="20" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="5" />
+        <Minute m="17" />
+        <Minute m="34" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="4" />
+        <Minute m="17" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="11" />
+        <Minute m="23" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="8" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="32" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="2" />
+        <Minute m="15" />
+        <Minute m="33" />
+        <Minute m="39" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="9" />
+        <Minute m="23" />
+        <Minute m="39" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="9" />
+        <Minute m="23" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="23" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="29" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="40" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="10" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="12" />
+        <Minute m="38" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="29" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="40" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="10" />
+        <Minute m="40" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="10" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="2" />
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="12" />
+        <Minute m="38" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="23">
+        <Minute m="29" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12704">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="21" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="6" />
+        <Minute m="18" />
+        <Minute m="35" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="5" />
+        <Minute m="18" />
+        <Minute m="37" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="12" />
+        <Minute m="24" />
+        <Minute m="44" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="9" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="9" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="33" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="3" />
+        <Minute m="16" />
+        <Minute m="34" />
+        <Minute m="40" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="10" />
+        <Minute m="24" />
+        <Minute m="40" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="10" />
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="24" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="41" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="11" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="13" />
+        <Minute m="39" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="41" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="11" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="3" />
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="13" />
+        <Minute m="39" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="28" />
+        <Minute m="58" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12702">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="22" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="8" />
+        <Minute m="20" />
+        <Minute m="37" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="7" />
+        <Minute m="20" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="14" />
+        <Minute m="26" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="11" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="5" />
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="5" />
+        <Minute m="20" />
+        <Minute m="35" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="5" />
+        <Minute m="18" />
+        <Minute m="36" />
+        <Minute m="42" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="12" />
+        <Minute m="26" />
+        <Minute m="42" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="12" />
+        <Minute m="26" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="25" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="42" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="12" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="4" />
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="14" />
+        <Minute m="40" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="42" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="12" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="12" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="4" />
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="14" />
+        <Minute m="40" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12304">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="24" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="11" />
+        <Minute m="23" />
+        <Minute m="40" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="10" />
+        <Minute m="23" />
+        <Minute m="42" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="18" />
+        <Minute m="30" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="15" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="9" />
+        <Minute m="24" />
+        <Minute m="39" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="8" />
+        <Minute m="21" />
+        <Minute m="39" />
+        <Minute m="45" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="28" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="45" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="15" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="17" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="45" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="15" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="15" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="17" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="2" />
+        <Minute m="32" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="12302">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="26" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="13" />
+        <Minute m="25" />
+        <Minute m="42" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="12" />
+        <Minute m="25" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="20" />
+        <Minute m="32" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="17" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="11" />
+        <Minute m="26" />
+        <Minute m="41" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="10" />
+        <Minute m="23" />
+        <Minute m="41" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="1" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="1" />
+        <Minute m="30" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="17" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="19" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="17" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="17" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="24" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="19" />
+        <Minute m="45" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="10510">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="27" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="15" />
+        <Minute m="27" />
+        <Minute m="44" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="14" />
+        <Minute m="27" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="1" />
+        <Minute m="22" />
+        <Minute m="34" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="19" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="19" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="13" />
+        <Minute m="28" />
+        <Minute m="43" />
+        <Minute m="58" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="12" />
+        <Minute m="25" />
+        <Minute m="43" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="3" />
+        <Minute m="33" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="2" />
+        <Minute m="31" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="18" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="20" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="48" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="18" />
+        <Minute m="48" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="18" />
+        <Minute m="53" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="25" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="20" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="5" />
+        <Minute m="35" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="10514">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="28" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="16" />
+        <Minute m="28" />
+        <Minute m="45" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="15" />
+        <Minute m="28" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="2" />
+        <Minute m="23" />
+        <Minute m="35" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="20" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="14" />
+        <Minute m="29" />
+        <Minute m="44" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="13" />
+        <Minute m="26" />
+        <Minute m="44" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="3" />
+        <Minute m="32" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="50" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="20" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="21" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="50" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="20" />
+        <Minute m="50" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="20" />
+        <Minute m="55" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="21" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="10512">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="30" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="18" />
+        <Minute m="30" />
+        <Minute m="47" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="1" />
+        <Minute m="17" />
+        <Minute m="30" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="4" />
+        <Minute m="25" />
+        <Minute m="37" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="22" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="1" />
+        <Minute m="16" />
+        <Minute m="31" />
+        <Minute m="46" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="1" />
+        <Minute m="15" />
+        <Minute m="28" />
+        <Minute m="46" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="6" />
+        <Minute m="36" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="5" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="22" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="23" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="22" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="22" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="29" />
+        <Minute m="59" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="23" />
+        <Minute m="49" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="8" />
+        <Minute m="38" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+  <BusStopLine BusStop="10532">
+    <Schedule DayType="DzienRoboczy">
+      <Hour h="5">
+        <Minute m="35" />
+        <Minute m="56" />
+      </Hour>
+      <Hour h="6">
+        <Minute m="23" />
+        <Minute m="35" />
+        <Minute m="52" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="6" />
+        <Minute m="22" />
+        <Minute m="35" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="9" />
+        <Minute m="30" />
+        <Minute m="42" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="27" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="6" />
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="6" />
+        <Minute m="21" />
+        <Minute m="36" />
+        <Minute m="51" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="6" />
+        <Minute m="20" />
+        <Minute m="33" />
+        <Minute m="51" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="11" />
+        <Minute m="41" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="10" />
+        <Minute m="39" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Sobota">
+      <Hour h="6">
+        <Minute m="57" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="27" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="4" />
+        <Minute m="28" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+    </Schedule>
+    <Schedule DayType="Niedziela">
+      <Hour h="6">
+        <Minute m="57" />
+      </Hour>
+      <Hour h="7">
+        <Minute m="27" />
+        <Minute m="57" />
+      </Hour>
+      <Hour h="8">
+        <Minute m="27" />
+      </Hour>
+      <Hour h="9">
+        <Minute m="2" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="10">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="11">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="12">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="13">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="14">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="15">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="16">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="17">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="18">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="19">
+        <Minute m="4" />
+        <Minute m="34" />
+      </Hour>
+      <Hour h="20">
+        <Minute m="4" />
+        <Minute m="28" />
+        <Minute m="54" />
+      </Hour>
+      <Hour h="21">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+      <Hour h="22">
+        <Minute m="13" />
+        <Minute m="43" />
+      </Hour>
+    </Schedule>
+  </BusStopLine>
+</Line>

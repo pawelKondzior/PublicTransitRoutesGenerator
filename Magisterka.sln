@@ -1,0 +1,133 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{7914323E-50CF-47EA-9E0E-BC75E1A2BFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Application.Wpf", "Magisterka.Application\Magisterka.Application.Wpf\Magisterka.Application.Wpf.csproj", "{D2F59E79-FD39-4CEE-884A-51CEEED95257}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{457289DA-0B98-44C0-B281-51F3297ABC24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{0D36479C-BEDE-4DEE-AE32-40C4B6EE8490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Modules.Main", "Magisterka.Modules.Main\Magisterka.Modules.Main.csproj", "{72BB56A6-D0BA-4F14-B768-4107833503AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{63D2D087-9992-41A7-B844-37AD914CEB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Infrastructure.Shared", "Magisterka.Infrastructure.Shared\Magisterka.Infrastructure.Shared.csproj", "{9389BCC0-F4A6-4C45-8DAC-90A776588135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Data.Access", "Magisterka.Data.Access\Magisterka.Data.Access.csproj", "{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD11217A-AA8A-41E0-B42A-ABFC60F5FE16}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Magisterka.vsmdi = Magisterka.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A469BA41-8BF3-4695-8593-DC670EFFE39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Tests", "Tests\Magisterka.Tests\Magisterka.Tests.csproj", "{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisterka.Generator", "Magisterka.Application\Magisterka.Generator\Magisterka.Generator.csproj", "{899238FA-13A9-4DD2-8E6D-2127ACDFA494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|x86.ActiveCfg = Debug|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Debug|x86.Build.0 = Debug|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Release|Any CPU.ActiveCfg = Release|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Release|x86.ActiveCfg = Release|x86
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257}.Release|x86.Build.0 = Release|x86
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{72BB56A6-D0BA-4F14-B768-4107833503AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135}.Release|x86.ActiveCfg = Release|Any CPU
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|x86.ActiveCfg = Debug|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Debug|x86.Build.0 = Debug|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Release|Any CPU.ActiveCfg = Release|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Release|x86.ActiveCfg = Release|x86
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8}.Release|x86.Build.0 = Release|x86
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Debug|x86.Build.0 = Debug|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3}.Release|x86.Build.0 = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Debug|x86.Build.0 = Debug|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|x86.ActiveCfg = Release|Any CPU
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2F59E79-FD39-4CEE-884A-51CEEED95257} = {7914323E-50CF-47EA-9E0E-BC75E1A2BFF3}
+		{72BB56A6-D0BA-4F14-B768-4107833503AC} = {0D36479C-BEDE-4DEE-AE32-40C4B6EE8490}
+		{9389BCC0-F4A6-4C45-8DAC-90A776588135} = {63D2D087-9992-41A7-B844-37AD914CEB3C}
+		{3DE832B3-7C50-4995-BEAC-E2D1EEBB11E8} = {457289DA-0B98-44C0-B281-51F3297ABC24}
+		{60F6F6C3-A846-466D-AE80-74BB7A6FD5C3} = {A469BA41-8BF3-4695-8593-DC670EFFE39A}
+		{899238FA-13A9-4DD2-8E6D-2127ACDFA494} = {7914323E-50CF-47EA-9E0E-BC75E1A2BFF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0937E8-2271-4F06-B939-B3BD8CB1FB60}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Magisterka.vsmdi
+	EndGlobalSection
+EndGlobal

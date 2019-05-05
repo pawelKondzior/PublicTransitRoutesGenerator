@@ -1,0 +1,2629 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="944" typ="Strefowa autobusowa" wazny_od="18.07.2015" wazny_do="">
+  <wariant id="1" nazwa="MULICKA - STĘPIN - pętla" obj="p. Piecowice">
+   <przystanek id="29100" nazwa="MULICKA" ulica="Gorlicka" cechy="">
+    <tabliczka id="1" mc="0" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="49" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29115" nazwa="Psie Pole (Rondo)" ulica="Bierutowska" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="51" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29105" nazwa="PSIE POLE (Stacja kolejowa)" ulica="Bierutowska" cechy="">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="52" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="46" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29107" nazwa="Dobroszycka" ulica="Bierutowska" cechy="">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="53" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29109" nazwa="Bierutowska" ulica="Bierutowska" cechy="">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="54" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29117" nazwa="Bierutowska 75" ulica="Bierutowska" cechy="">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="55" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="39" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29111" nazwa="BIERUTOWSKA (Wiadukt)" ulica="Bierutowska" cechy="">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="56" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326901" nazwa="Mirków - Wolności" ulica="Wrocławska" cechy="1">
+    <tabliczka id="8" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="58" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326903" nazwa="Mirków - Stadion" ulica="Wrocławska" cechy="">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="59" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326101" nazwa="Długołęka - Volvo" ulica="Wrocławska" cechy="">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="01" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326103" nazwa="Długołęka - Wrocławska" ulica="Wrocławska" cechy="">
+    <tabliczka id="11" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="03" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326151" nazwa="Długołęka - Kościół" ulica=" " cechy="">
+    <tabliczka id="12" mc="4" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="07" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326221" nazwa="Długołęka - Nowy Urząd" ulica=" " cechy="">
+    <tabliczka id="13" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="9">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326153" nazwa="Kamień I" ulica=" " cechy="">
+    <tabliczka id="14" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="9">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326155" nazwa="Kamień II" ulica=" " cechy="">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="00" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326157" nazwa="PIECOWICE" ulica=" " cechy="">
+    <tabliczka id="16" mc="5">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="05" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326159" nazwa="Bielawa" ulica=" " cechy="">
+    <tabliczka id="17" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="09" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326283" nazwa="Raków - zakład" ulica=" " cechy="">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="11" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="396166" nazwa="Raków - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="12" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326959" nazwa="Raków" ulica=" " cechy="">
+    <tabliczka id="20" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="13" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326163" nazwa="Borowa - Stacja PKP" ulica=" " cechy="">
+    <tabliczka id="21" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="10">
+       <min m="16" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326165" nazwa="Borowa - szkoła" ulica=" " cechy="">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="30" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="17" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326167" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="23" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326169" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="24" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="STĘPIN - pętla - MULICKA">
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+    <tabliczka id="25" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="01" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="25" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326170" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="02" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="26" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326168" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="27" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="04" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="28" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="28" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="38" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326166" nazwa="Borowa - szkoła" ulica=" " cechy="">
+    <tabliczka id="28" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="05" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="29" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="29" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="39" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326164" nazwa="Borowa - Stacja PKP" ulica=" " cechy="">
+    <tabliczka id="29" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="06" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="30" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326960" nazwa="Raków" ulica=" " cechy="">
+    <tabliczka id="30" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="09" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="33" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="43" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326162" nazwa="Raków - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="31" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="10" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="34" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326282" nazwa="Raków - zakład" ulica=" " cechy="">
+    <tabliczka id="32" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="11" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326160" nazwa="Bielawa" ulica=" " cechy="">
+    <tabliczka id="33" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="13" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="37" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326158" nazwa="PIECOWICE" ulica=" " cechy="">
+    <tabliczka id="34" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="16" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326156" nazwa="Kamień II" ulica=" " cechy="">
+    <tabliczka id="35" mc="5" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="21" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326154" nazwa="Kamień I" ulica=" " cechy="">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="22" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="56" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326222" nazwa="Długołęka - Nowy Urząd" ulica=" " cechy="">
+    <tabliczka id="37" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="24" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="58" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326152" nazwa="Długołęka - Kościół" ulica=" " cechy="">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="25" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326104" nazwa="Długołęka - Wrocławska" ulica="Wrocławska" cechy="">
+    <tabliczka id="39" mc="4">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="28" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="30" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326102" nazwa="Długołęka - Volvo" ulica="Wrocławska" cechy="">
+    <tabliczka id="40" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="29" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326904" nazwa="Mirków - Stadion" ulica="Wrocławska" cechy="">
+    <tabliczka id="41" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="31" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326902" nazwa="Mirków - Wolności" ulica="Wrocławska" cechy="1">
+    <tabliczka id="42" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="33" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29112" nazwa="BIERUTOWSKA (Wiadukt)" ulica="Bierutowska" cechy="">
+    <tabliczka id="43" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="35" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="39" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29118" nazwa="Bierutowska 75" ulica="Bierutowska" cechy="">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="36" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29110" nazwa="Bierutowska" ulica="Bierutowska" cechy="">
+    <tabliczka id="45" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="37" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="41" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29114" nazwa="Dobroszycka" ulica="Bierutowska" cechy="">
+    <tabliczka id="46" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="38" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29120" nazwa="PSIE POLE (Stacja kolejowa)" ulica="Bierutowska" cechy="">
+    <tabliczka id="47" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="39" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29128" nazwa="Psie Pole (Rondo)" ulica="Krzywoustego" cechy="">
+    <tabliczka id="48" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29121" nazwa="Psie Pole (Gorlicka)" ulica="Gorlicka" cechy="">
+    <tabliczka id="49" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29100" nazwa="MULICKA" ulica="Gorlicka" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="STĘPIN - pętla - MULICKA" obj="p.borowa szkola i bykow">
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+    <tabliczka id="25" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="01" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="25" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326170" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="02" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="26" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326168" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="27" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="04" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="28" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="28" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="38" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326166" nazwa="Borowa - szkoła" ulica=" " cechy="">
+    <tabliczka id="28" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="05" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="29" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="29" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="39" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326165" nazwa="Borowa - szkoła" ulica=" " cechy="">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="30" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="17" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326172" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="50" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="31" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326176" nazwa="Byków" ulica=" " cechy="">
+    <tabliczka id="51" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="34" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326174" nazwa="Byków - Lange" ulica=" " cechy="">
+    <tabliczka id="52" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326104" nazwa="Długołęka - Wrocławska" ulica="Wrocławska" cechy="">
+    <tabliczka id="39" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="28" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="30" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326102" nazwa="Długołęka - Volvo" ulica="Wrocławska" cechy="">
+    <tabliczka id="40" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="29" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326904" nazwa="Mirków - Stadion" ulica="Wrocławska" cechy="">
+    <tabliczka id="41" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="31" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326902" nazwa="Mirków - Wolności" ulica="Wrocławska" cechy="1">
+    <tabliczka id="42" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="33" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29112" nazwa="BIERUTOWSKA (Wiadukt)" ulica="Bierutowska" cechy="">
+    <tabliczka id="43" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="35" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="39" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29118" nazwa="Bierutowska 75" ulica="Bierutowska" cechy="">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="36" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29110" nazwa="Bierutowska" ulica="Bierutowska" cechy="">
+    <tabliczka id="45" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="37" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="41" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29114" nazwa="Dobroszycka" ulica="Bierutowska" cechy="">
+    <tabliczka id="46" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="38" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29120" nazwa="PSIE POLE (Stacja kolejowa)" ulica="Bierutowska" cechy="">
+    <tabliczka id="47" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="39" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29128" nazwa="Psie Pole (Rondo)" ulica="Krzywoustego" cechy="">
+    <tabliczka id="48" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29121" nazwa="Psie Pole (Gorlicka)" ulica="Gorlicka" cechy="">
+    <tabliczka id="49" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29100" nazwa="MULICKA" ulica="Gorlicka" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="4" nazwa="STĘPIN - pętla - Psie Pole (Rondo)" obj="p.domaszczyn">
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+    <tabliczka id="25" mc="0">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="01" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="25" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326170" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="5">
+       <min m="02" ozn="LN" przyp="L -  kurs skrócony do Psiego Pola (Rondo); N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26" ozn="BN" przyp="B - kurs do przystanku Mulicka przez przystanek Borowa-szkoła i Byków z pominięcie m Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="26" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326172" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="50" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="31" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326176" nazwa="Byków" ulica=" " cechy="">
+    <tabliczka id="51" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="34" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326174" nazwa="Byków - Lange" ulica=" " cechy="">
+    <tabliczka id="52" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="35" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="DN" przyp="D -  kurs skrócony do Psiego Pola (Rondo) przez Byków, Domaszczyn i Zakrzów; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27" ozn="GN" przyp="G - kurs skrócony do Psiego Pola (Rondo) przez Byków z pominięciem Rakowa, Piecowici Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326105" nazwa="Długołęka - skrzyżowanie" ulica="Parkowa" cechy="">
+    <tabliczka id="53" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="29" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326107" nazwa="Szczodre - Trzebnicka" ulica="Parkowa" cechy="">
+    <tabliczka id="54" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="31" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326109" nazwa="SZCZODRE" ulica="Parkowa" cechy="">
+    <tabliczka id="55" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="33" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="329131" nazwa="Domaszczyn - sklep" ulica="Wrocławska" cechy="">
+    <tabliczka id="56" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="34" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="329119" nazwa="DOMASZCZYN" ulica="Wrocławska" cechy="">
+    <tabliczka id="57" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="17" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326234" nazwa="Pruszowice - las" ulica=" " cechy="">
+    <tabliczka id="58" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="19" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29525" nazwa="Odolanowska" ulica="Odolanowska" cechy="1">
+    <tabliczka id="59" mc="4" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="23" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="49525" nazwa="Stoczniowa" ulica="Armii Ludowej" cechy="">
+    <tabliczka id="60" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="24" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29540" nazwa="OSIEDLE SOBIESKIEGO (pętla)" ulica="Królewska" cechy="">
+    <tabliczka id="61" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29504" nazwa="Wallenroda" ulica="Bora-Komorowskiego" cechy="">
+    <tabliczka id="62" mc="3">
+     <dzien nazwa="w dni robocze">
+      <godz h="15">
+       <min m="28" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29115" nazwa="Psie Pole (Rondo)" ulica="Bierutowska" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="5" nazwa="MULICKA - STĘPIN - pętla" obj="p.kosciol i bykow">
+   <przystanek id="29100" nazwa="MULICKA" ulica="Gorlicka" cechy="">
+    <tabliczka id="1" mc="0" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="49" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29115" nazwa="Psie Pole (Rondo)" ulica="Bierutowska" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="51" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29105" nazwa="PSIE POLE (Stacja kolejowa)" ulica="Bierutowska" cechy="">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="52" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="46" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29107" nazwa="Dobroszycka" ulica="Bierutowska" cechy="">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="53" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29109" nazwa="Bierutowska" ulica="Bierutowska" cechy="">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="54" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29117" nazwa="Bierutowska 75" ulica="Bierutowska" cechy="">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="55" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="39" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29111" nazwa="BIERUTOWSKA (Wiadukt)" ulica="Bierutowska" cechy="">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="56" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326901" nazwa="Mirków - Wolności" ulica="Wrocławska" cechy="1">
+    <tabliczka id="8" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="58" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326903" nazwa="Mirków - Stadion" ulica="Wrocławska" cechy="">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="59" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326101" nazwa="Długołęka - Volvo" ulica="Wrocławska" cechy="">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="01" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326103" nazwa="Długołęka - Wrocławska" ulica="Wrocławska" cechy="">
+    <tabliczka id="11" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="03" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326151" nazwa="Długołęka - Kościół" ulica=" " cechy="">
+    <tabliczka id="12" mc="4" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="07" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326224" nazwa="Długołęka - Nowy Urząd" ulica=" " cechy="">
+    <tabliczka id="63" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="08" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326175" nazwa="Byków" ulica=" " cechy="">
+    <tabliczka id="64" mc="6" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="58" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326173" nazwa="Byków - Bar" ulica=" " cechy="">
+    <tabliczka id="65" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326167" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="23" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326169" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="24" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="6" nazwa="MULICKA - STĘPIN - pętla" obj="p. domaszczyn">
+   <przystanek id="29100" nazwa="MULICKA" ulica="Gorlicka" cechy="">
+    <tabliczka id="1" mc="0" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="49" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29115" nazwa="Psie Pole (Rondo)" ulica="Bierutowska" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="51" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29105" nazwa="PSIE POLE (Stacja kolejowa)" ulica="Bierutowska" cechy="">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="52" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="46" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29107" nazwa="Dobroszycka" ulica="Bierutowska" cechy="">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="53" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29109" nazwa="Bierutowska" ulica="Bierutowska" cechy="">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="54" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29117" nazwa="Bierutowska 75" ulica="Bierutowska" cechy="">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="55" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="39" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="29111" nazwa="BIERUTOWSKA (Wiadukt)" ulica="Bierutowska" cechy="">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="56" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326901" nazwa="Mirków - Wolności" ulica="Wrocławska" cechy="1">
+    <tabliczka id="8" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="58" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326903" nazwa="Mirków - Stadion" ulica="Wrocławska" cechy="">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="7">
+       <min m="59" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326101" nazwa="Długołęka - Volvo" ulica="Wrocławska" cechy="">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="01" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326103" nazwa="Długołęka - Wrocławska" ulica="Wrocławska" cechy="">
+    <tabliczka id="11" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="03" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47" ozn="RN" przyp="R -  kurs przez Byków z pominięciem Rakowa, Piecowic i Kamienia; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="57" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326105" nazwa="Długołęka - skrzyżowanie" ulica="Parkowa" cechy="">
+    <tabliczka id="53" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="29" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326107" nazwa="Szczodre - Trzebnicka" ulica="Parkowa" cechy="">
+    <tabliczka id="54" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="31" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326109" nazwa="SZCZODRE" ulica="Parkowa" cechy="">
+    <tabliczka id="55" mc="1">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="33" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="329131" nazwa="Domaszczyn - sklep" ulica="Wrocławska" cechy="">
+    <tabliczka id="56" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="34" ozn="WN" przyp="W - kurs przez Domaszczyn i Byków kurs przez Byków z pominieciem Kamienia, Piecowic i Rakowa; N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="329118" nazwa="DOMASZCZYN" ulica="Wrocławska" cechy="">
+    <tabliczka id="66" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="36" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="329132" nazwa="Domaszczyn - sklep" ulica="Wrocławska" cechy="">
+    <tabliczka id="67" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="38" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326110" nazwa="SZCZODRE" ulica="Parkowa" cechy="">
+    <tabliczka id="68" mc="2">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="40" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326108" nazwa="Szczodre - Trzebnicka" ulica="Parkowa" cechy="">
+    <tabliczka id="69" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="42" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326106" nazwa="Długołęka - skrzyżowanie" ulica="Parkowa" cechy="">
+    <tabliczka id="70" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="14">
+       <min m="44" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326175" nazwa="Byków" ulica=" " cechy="">
+    <tabliczka id="64" mc="5" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="14" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="49" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="58" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326173" nazwa="Byków - Bar" ulica=" " cechy="">
+    <tabliczka id="65" mc="1" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="15" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="59" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326167" nazwa="Borowa - skrzyżowanie" ulica=" " cechy="">
+    <tabliczka id="23" mc="3" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326169" nazwa="Stępin" ulica=" " cechy="">
+    <tabliczka id="24" mc="2" cechy="nz">
+     <dzien nazwa="w dni robocze">
+      <godz h="8">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25" ozn="N" przyp="N - Kurs obsługiwany przez autobus NISKOPODŁOGOWY.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="326171" nazwa="STĘPIN - pętla" ulica=" " cechy="">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

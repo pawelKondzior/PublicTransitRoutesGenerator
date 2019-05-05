@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Magisterka.Application.Wpf.Przystanek"
+        Title="Przystanek" Height="365.406" Width="505.55">
+    <Grid>
+        <Label Content="Nazwa" Height="28" HorizontalAlignment="Left" Margin="10,30,0,0" x:Name="label1" VerticalAlignment="Top" Width="88" />
+        <Label Content="Ulica" Height="28" HorizontalAlignment="Left" Margin="12,60,0,0" x:Name="label2" VerticalAlignment="Top" />
+        <Label Content="Nazwa" Height="28" HorizontalAlignment="Left" Margin="73,30,0,0" x:Name="LNazwa" VerticalAlignment="Top" Width="193" />
+        <Label Content="Ulica" Height="28" HorizontalAlignment="Left" Margin="73,58,0,0" x:Name="LUlica" VerticalAlignment="Top" Width="193" />
+        <Label Content="Wychodzące" HorizontalAlignment="Left" x:Name="label4" Width="88" Margin="12,150,0,157" d:LayoutOverrides="HorizontalAlignment" />
+        <ListView Height="142" HorizontalAlignment="Right" Margin="0,182,121,0" x:Name="LvOutCome" VerticalAlignment="Top" Width="365" MouseDoubleClick="LvOutCome_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding BusLine.NameAndVariant}" Header="Linia " />
+                    <GridViewColumn DisplayMemberBinding="{Binding BusStop.Name}" Header="Nazwa " />
+                    <GridViewColumn DisplayMemberBinding="{Binding BusStop.Street}" Header="Ulica " />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock x:Name="TbId" HorizontalAlignment="Left" Margin="73,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="15" Width="134"/>
+        <Label Content="Id" Height="28" HorizontalAlignment="Left" Margin="12,2,0,0" x:Name="label1_Copy" VerticalAlignment="Top" Width="88" />
+        <Label Content="X" Height="28" HorizontalAlignment="Left" Margin="12,86,0,0" x:Name="label2_Copy" VerticalAlignment="Top" RenderTransformOrigin="0.487,1.517" Width="56" />
+        <Label Content="Y&#xD;&#xA;" Height="28" HorizontalAlignment="Left" Margin="12,114,0,0" x:Name="label2_Copy1" VerticalAlignment="Top" RenderTransformOrigin="0.487,1.517" />
+        <Label Content="X&#xD;&#xA;" Height="28" HorizontalAlignment="Left" Margin="73,86,0,0" x:Name="LX" VerticalAlignment="Top" Width="193" />
+        <Label Content="Y" Height="28" HorizontalAlignment="Left" Margin="73,114,0,0" x:Name="LY" VerticalAlignment="Top" Width="193" />
+    </Grid>
+</Window>
